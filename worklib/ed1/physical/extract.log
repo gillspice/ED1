@@ -1,0 +1,38 @@
+#
+# ncdrill_view.txt
+#
+COMPOSITE_PAD
+#
+#   Other DRILL_HOLE_TYPE values are 'OVAL_SLOT' and 'RECTANGLE_SLOT',
+#   but they are being filtered out here as they do not factor in to
+#   NC Drill outputs.
+#
+#   Slot hole types would have their major dimension in DRILL_HOLE_NAME
+#   and their minor dimension in DRILL_HOLE_NAME2. CIRCLE_DRILL types
+#   will simply have DRILL_HOLE_NAME2 set to the same value as in
+#   DRILL_HOLE_NAME. DRILL_HOLE_NONSTANDARD, and multi-drill fields such
+#   DRILL_ARRAY_LOCATIONS do not apply to slot holes. DRILL_FIGURE_ROTATION
+#   for slot holes will contain the rotation to be applied to the slot
+#   hole, with the assumption of 0 degrees being the major dimension
+#   of the slot hole along the X axis.
+#
+  DRILL_HOLE_TYPE = CIRCLE_DRILL
+#
+  DRILL_HOLE_NAME
+# DRILL_HOLE_NAME2 
+# DRILL_FIGURE_ROTATION
+  DRILL_HOLE_NONSTANDARD
+  DRILL_HOLE_PLATING
+  DRILL_HOLE_POSTOL 
+  DRILL_HOLE_NEGTOL 
+  DRILL_HOLE_X
+  DRILL_HOLE_Y
+  DRILL_ARRAY_LOCATIONS
+  START_LAYER_NAME
+  END_LAYER_NAME
+  START_LAYER_NUMBER
+  END_LAYER_NUMBER
+  REFDES
+  PIN_NUMBER
+  SYM_X
+  SYM_Y

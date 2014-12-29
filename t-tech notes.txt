@@ -1,0 +1,20 @@
+Fishtail 62
+
+Feed 6
+
+Depth 6 per pass
+
+finished 29
+
+41 is through
+
+Drill 125:
+
+Rpm 15000
+Feed 1
+Depth 60
+
+Punches:
+pot: E
+jack: G
+midi: J

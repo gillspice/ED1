@@ -1,0 +1,2 @@
+DEFINE ed1_lib worklib
+INCLUDE $CDS_SITE/cdssetup/cds.lib

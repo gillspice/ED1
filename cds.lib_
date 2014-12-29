@@ -1,0 +1,3 @@
+DEFINE ed1_lib worklib
+INCLUDE $CONCEPT_INST_DIR/share/cdssetup/cds.lib
+INCLUDE $CDS_SITE/cdssetup/cds.lib

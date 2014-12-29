@@ -1,0 +1,13 @@
+#This is the Layer Conversion File used for
+#importing DXF data into Allegro/APD.
+
+#CLASS!            SUBCLASS!                 DXF_LAYER!
+
+BOARD GEOMETRY!
+                   OUTLINE!                  BOARD_GEOMETRY_OUTLINE!
+
+PACKAGE GEOMETRY!
+                   SILKSCREEN_BOTTOM!        PACKAGE_GEOMET_SILKSCREEN_BOTT!
+                   SILKSCREEN_TOP!           PACKAGE_GEOMETRY_SILKSCREEN_TOP!
+
+#END

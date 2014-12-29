@@ -1,0 +1,12 @@
+#This is the Layer Conversion File used for
+#importing DXF data into Allegro/APD.
+
+#CLASS!            SUBCLASS!                 DXF_LAYER!
+
+BOARD GEOMETRY!
+                   OUTLINE!                  BOARD_GEOMETRY_OUTLINE!
+
+ETCH!
+                   TOP!                      ETCH_TOP!
+
+#END

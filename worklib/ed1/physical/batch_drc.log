@@ -1,0 +1,28 @@
+(------------------------------------------------------------)
+(                                                            )
+(        Batch DRC Update                                    )
+(                                                            )
+(        Drawing          : hex.brd                          )
+(        Software Version : 15.2s138                         )
+(        Date/Time        : Fri Oct 22 12:25:01 2010         )
+(                                                            )
+(------------------------------------------------------------)
+
+
+ ..... batch DRC requested for all elements 
+
+ ========= check shapes                       Fri Oct 22 12:25:01 2010
+ ========= check standalone pins              Fri Oct 22 12:25:01 2010
+ ========= check symbols (pins,lines,text)    Fri Oct 22 12:25:01 2010
+ ========= check nets                         Fri Oct 22 12:25:01 2010
+ ========= check standalone branches          Fri Oct 22 12:25:01 2010
+ ========= check standalone filled rectangles Fri Oct 22 12:25:01 2010
+ ========= check standalone lines             Fri Oct 22 12:25:01 2010
+ ========= check standalone text              Fri Oct 22 12:25:01 2010
+ ========= check standalone rectangles        Fri Oct 22 12:25:01 2010
+
+ ..... Total number of DRC errors  0
+
+ ..... end batch DRC at                       Fri Oct 22 12:25:01 2010
+ *************************************************************************
+

@@ -1,0 +1,1448 @@
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   1  |
+|------------------------------------------------------------------------------|
+|  D:.../worklib/ed1/physical/edpcb_lcd_moved_down_enlarged_for_pt10_07.brd    |
+|                                                    Thu Jul 12 16:26:33 2012  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  GND_SIGNAL   pins ADDED TO this existing net (pins not previously on any net)
+                                 C11.1                          
+                                 C15.1                          
+                                 C16.2                          
+                                 C17.2                          
+                                 C18.2                          
+                                 C23.1                          
+                                 C24.2                          
+                                 C25.2                          
+                                 C26.2                          
+                                 C27.2                          
+                                 C32.1                          
+                                 C33.2                          
+                                 C34.2                          
+                                 C35.2                          
+                                 C36.2                          
+                                 D13.A                          
+                                 D14.A                          
+                                 D15.A                          
+                                 D19.A                          
+                                 D20.A                          
+                                 D21.A                          
+                                 D22.A                          
+                                 D27.A                          
+                                 D28.A                          
+                                 D29.A                          
+                                 D30.A                          
+                                 R25.1                          
+                                 R26.1                          
+                                 R27.1                          
+                                 R28.1                          
+                                 R29.1                          
+                                 R30.1                          
+                                 R34.1                          
+                                 R35.1                          
+                                 R36.1                          
+                                 R37.1                          
+                                 R38.1                          
+                                 R39.1                          
+                                 R40.1                          
+                                 R41.1                          
+                                 R42.1                          
+                                 R43.1                          
+                                 R44.1                          
+                                 R49.1                          
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   2  |
+|------------------------------------------------------------------------------|
+|  D:.../worklib/ed1/physical/edpcb_lcd_moved_down_enlarged_for_pt10_07.brd    |
+|                                                    Thu Jul 12 16:26:33 2012  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+                                 R50.1                          
+                                 R51.1                          
+                                 R52.1                          
+                                 R53.1                          
+                                 R54.1                          
+                                 R55.1                          
+                                 R56.1                          
+                                 R57.1                          
+                                 R58.1                          
+                                 R59.1                          
+                                 R60.1                          
+                                 R65.1                          
+                                 R66.1                          
+                                 R67.1                          
+                                 R68.1                          
+                                 U3.11                          
+                                 U4.11                          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  UNNAMED_1_CSMT_I104_2 pins ADDED TO this new net
+                                 C13.2                          
+                                 D14.C                          
+                                 R28.2                          
+                                 U2.10           2554.55 2194.53
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  UNNAMED_1_CSMT_I106_2 pins ADDED TO this new net
+                                 C12.2                          
+                                 D13.C                          
+                                 R27.2                          
+                                 U2.5            2777.27 2194.53
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  UNNAMED_1_CSMT_I110_1 pins ADDED TO this new net
+                                 C18.1                          
+                                 D18.3                          
+                                 R33.2                          
+                                 R36.2                          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  UNNAMED_1_CSMT_I117_2 pins ADDED TO this new net
+                                 C14.2                          
+                                 D15.C                          
+                                 R30.2                          
+                                 U2.12           2554.55 2294.53
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  UNNAMED_1_CSMT_I124_1 pins ADDED TO this new net
+                                 C35.1                          
+                                 D33.3                          
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   3  |
+|------------------------------------------------------------------------------|
+|  D:.../worklib/ed1/physical/edpcb_lcd_moved_down_enlarged_for_pt10_07.brd    |
+|                                                    Thu Jul 12 16:26:33 2012  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+                                 R63.2                          
+                                 R67.2                          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  UNNAMED_1_CSMT_I133_2 pins ADDED TO this new net
+                                 C30.2                          
+                                 D29.C                          
+                                 R59.2                          
+                                 U4.3                           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  UNNAMED_1_CSMT_I135_1 pins ADDED TO this new net
+                                 C34.1                          
+                                 D32.3                          
+                                 R62.2                          
+                                 R66.2                          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  UNNAMED_1_CSMT_I140_1 pins ADDED TO this new net
+                                 C33.1                          
+                                 D31.3                          
+                                 R61.2                          
+                                 R65.2                          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  UNNAMED_1_CSMT_I148_2 pins ADDED TO this new net
+                                 C29.2                          
+                                 D28.C                          
+                                 R57.2                          
+                                 U4.10                          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  UNNAMED_1_CSMT_I153_2 pins ADDED TO this new net
+                                 C28.2                          
+                                 D27.C                          
+                                 R56.2                          
+                                 U4.5                           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  UNNAMED_1_CSMT_I157_1 pins ADDED TO this new net
+                                 C24.1                          
+                                 D23.3                          
+                                 R45.2                          
+                                 R49.2                          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  UNNAMED_1_CSMT_I170_1 pins ADDED TO this new net
+                                 C26.1                          
+                                 D25.3                          
+                                 R47.2                          
+                                 R51.2                          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   4  |
+|------------------------------------------------------------------------------|
+|  D:.../worklib/ed1/physical/edpcb_lcd_moved_down_enlarged_for_pt10_07.brd    |
+|                                                    Thu Jul 12 16:26:33 2012  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  UNNAMED_1_CSMT_I174_1 pins ADDED TO this new net
+                                 C25.1                          
+                                 D24.3                          
+                                 R46.2                          
+                                 R50.2                          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  UNNAMED_1_CSMT_I185_2 pins ADDED TO this new net
+                                 C19.2                          
+                                 D19.C                          
+                                 R40.2                          
+                                 U3.3                           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  UNNAMED_1_CSMT_I187_2 pins ADDED TO this new net
+                                 C21.2                          
+                                 D21.C                          
+                                 R42.2                          
+                                 U3.10                          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  UNNAMED_1_CSMT_I189_2 pins ADDED TO this new net
+                                 C20.2                          
+                                 D20.C                          
+                                 R41.2                          
+                                 U3.5                           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  UNNAMED_1_CSMT_I192_1 pins ADDED TO this new net
+                                 C36.1                          
+                                 D34.3                          
+                                 R64.2                          
+                                 R68.2                          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  UNNAMED_1_CSMT_I200_2 pins ADDED TO this new net
+                                 C31.2                          
+                                 D30.C                          
+                                 R60.2                          
+                                 U4.12                          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  UNNAMED_1_CSMT_I204_1 pins ADDED TO this new net
+                                 C27.1                          
+                                 D26.3                          
+                                 R48.2                          
+                                 R52.2                          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  UNNAMED_1_CSMT_I211_2 pins ADDED TO this new net
+                                 C22.2                          
+                                 D22.C                          
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   5  |
+|------------------------------------------------------------------------------|
+|  D:.../worklib/ed1/physical/edpcb_lcd_moved_down_enlarged_for_pt10_07.brd    |
+|                                                    Thu Jul 12 16:26:33 2012  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+                                 R44.2                          
+                                 U3.12                          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  UNNAMED_1_CSMT_I89_1 pins ADDED TO this new net
+                                 C17.1                          
+                                 D17.3                          
+                                 R32.2                          
+                                 R35.2                          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  UNNAMED_1_CSMT_I93_1 pins ADDED TO this new net
+                                 C16.1                          
+                                 D16.3                          
+                                 R31.2                          
+                                 R34.2                          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  UNNAMED_1_DSMTSIGNAL_I109_A pins ADDED TO this new net
+                                 D18.1                          
+                                 U2.14           2554.55 2394.53
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  UNNAMED_1_DSMTSIGNAL_I123_A pins ADDED TO this new net
+                                 D33.1                          
+                                 U4.1                           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  UNNAMED_1_DSMTSIGNAL_I134_A pins ADDED TO this new net
+                                 D32.1                          
+                                 U4.8                           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  UNNAMED_1_DSMTSIGNAL_I139_A pins ADDED TO this new net
+                                 D31.1                          
+                                 U4.7                           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  UNNAMED_1_DSMTSIGNAL_I156_A pins ADDED TO this new net
+                                 D23.1                          
+                                 U3.1                           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  UNNAMED_1_DSMTSIGNAL_I169_A pins ADDED TO this new net
+                                 D25.1                          
+                                 U3.8                           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  UNNAMED_1_DSMTSIGNAL_I173_A pins ADDED TO this new net
+                                 D24.1                          
+                                 U3.7                           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  UNNAMED_1_DSMTSIGNAL_I193_A pins ADDED TO this new net
+                                 D34.1                          
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   6  |
+|------------------------------------------------------------------------------|
+|  D:.../worklib/ed1/physical/edpcb_lcd_moved_down_enlarged_for_pt10_07.brd    |
+|                                                    Thu Jul 12 16:26:33 2012  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+                                 U4.14                          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  UNNAMED_1_DSMTSIGNAL_I203_A pins ADDED TO this new net
+                                 D26.1                          
+                                 U3.14                          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  UNNAMED_1_DSMTSIGNAL_I88_A pins ADDED TO this new net
+                                 D17.1                          
+                                 U2.8            2554.55 2094.53
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  UNNAMED_1_DSMTSIGNAL_I92_A pins ADDED TO this new net
+                                 D16.1                          
+                                 U2.7            2777.27 2094.53
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  UNNAMED_1_RSMT_I108_1 pins ADDED TO this new net
+                                 R29.2                          
+                                 R33.1                          
+                                 U2.13           2554.55 2344.53
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  UNNAMED_1_RSMT_I121_1 pins ADDED TO this new net
+                                 R55.2                          
+                                 R63.1                          
+                                 U4.2                           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  UNNAMED_1_RSMT_I137_1 pins ADDED TO this new net
+                                 R54.2                          
+                                 R62.1                          
+                                 U4.9                           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  UNNAMED_1_RSMT_I142_1 pins ADDED TO this new net
+                                 R53.2                          
+                                 R61.1                          
+                                 U4.6                           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  UNNAMED_1_RSMT_I159_1 pins ADDED TO this new net
+                                 R39.2                          
+                                 R47.1                          
+                                 U3.9                           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  UNNAMED_1_RSMT_I160_1 pins ADDED TO this new net
+                                 R37.2                          
+                                 R45.1                          
+                                 U3.2                           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  UNNAMED_1_RSMT_I177_1 pins ADDED TO this new net
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   7  |
+|------------------------------------------------------------------------------|
+|  D:.../worklib/ed1/physical/edpcb_lcd_moved_down_enlarged_for_pt10_07.brd    |
+|                                                    Thu Jul 12 16:26:33 2012  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+                                 R38.2                          
+                                 R46.1                          
+                                 U3.6                           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  UNNAMED_1_RSMT_I191_1 pins ADDED TO this new net
+                                 R58.2                          
+                                 R64.1                          
+                                 U4.13                          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  UNNAMED_1_RSMT_I202_1 pins ADDED TO this new net
+                                 R43.2                          
+                                 R48.1                          
+                                 U3.13                          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  UNNAMED_1_RSMT_I85_1 pins ADDED TO this new net
+                                 R26.2                          
+                                 R32.1                          
+                                 U2.9            2554.55 2144.53
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  UNNAMED_1_RSMT_I96_1 pins ADDED TO this new net
+                                 R25.2                          
+                                 R31.1                          
+                                 U2.6            2777.27 2144.53
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  VCC          pins ADDED TO this new net
+                                 C11.2                          
+                                 C15.2                          
+                                 C23.2                          
+                                 C32.2                          
+                                 U1.4            943.930 2482.90
+                                 U2.4            2777.27 2244.53
+                                 U3.4                           
+                                 U4.4                           
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   8  |
+|------------------------------------------------------------------------------|
+|  D:.../worklib/ed1/physical/edpcb_lcd_moved_down_enlarged_for_pt10_07.brd    |
+|                                                    Thu Jul 12 16:26:33 2012  |
+|------------------------------------------------------------------------------|
+| COMPONENTS ADDED to board drawing                                            |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        |    device type                                           |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C11                 C_SMT_X7R_0805-10000680,0.1UF,B 
+ C12                 C_SMT_X7R_0805-10000680,0.1UF,B 
+ C13                 C_SMT_X7R_0805-10000680,0.1UF,B 
+ C14                 C_SMT_X7R_0805-10000680,0.1UF,B 
+ C15                 C_SMT_X7R_0805-10000680,0.1UF,B 
+ C16                 C_SMT_X7R_0805-10000680,0.1UF,B 
+ C17                 C_SMT_X7R_0805-10000680,0.1UF,B 
+ C18                 C_SMT_X7R_0805-10000680,0.1UF,B 
+ C19                 C_SMT_X7R_0805-10000680,0.1UF,B 
+ C20                 C_SMT_X7R_0805-10000680,0.1UF,B 
+ C21                 C_SMT_X7R_0805-10000680,0.1UF,B 
+ C22                 C_SMT_X7R_0805-10000680,0.1UF,B 
+ C23                 C_SMT_X7R_0805-10000680,0.1UF,B 
+ C24                 C_SMT_X7R_0805-10000680,0.1UF,B 
+ C25                 C_SMT_X7R_0805-10000680,0.1UF,B 
+ C26                 C_SMT_X7R_0805-10000680,0.1UF,B 
+ C27                 C_SMT_X7R_0805-10000680,0.1UF,B 
+ C28                 C_SMT_X7R_0805-10000680,0.1UF,B 
+ C29                 C_SMT_X7R_0805-10000680,0.1UF,B 
+ C30                 C_SMT_X7R_0805-10000680,0.1UF,B 
+ C31                 C_SMT_X7R_0805-10000680,0.1UF,B 
+ C32                 C_SMT_X7R_0805-10000680,0.1UF,B 
+ C33                 C_SMT_X7R_0805-10000680,0.1UF,B 
+ C34                 C_SMT_X7R_0805-10000680,0.1UF,B 
+ C35                 C_SMT_X7R_0805-10000680,0.1UF,B 
+ C36                 C_SMT_X7R_0805-10000680,0.1UF,B 
+ D13                 D_SMT_SCHOTTKY_SOD-123-1000491B 
+ D14                 D_SMT_SCHOTTKY_SOD-123-1000491B 
+ D15                 D_SMT_SCHOTTKY_SOD-123-1000491B 
+ D16                 D_SMT_SIGNAL_1A3C_SOT-23-10004B 
+ D17                 D_SMT_SIGNAL_1A3C_SOT-23-10004B 
+ D18                 D_SMT_SIGNAL_1A3C_SOT-23-10004B 
+ D19                 D_SMT_SCHOTTKY_SOD-123-1000491B 
+ D20                 D_SMT_SCHOTTKY_SOD-123-1000491B 
+ D21                 D_SMT_SCHOTTKY_SOD-123-1000491B 
+ D22                 D_SMT_SCHOTTKY_SOD-123-1000491B 
+ D23                 D_SMT_SIGNAL_1A3C_SOT-23-10004B 
+ D24                 D_SMT_SIGNAL_1A3C_SOT-23-10004B 
+ D25                 D_SMT_SIGNAL_1A3C_SOT-23-10004B 
+ D26                 D_SMT_SIGNAL_1A3C_SOT-23-10004B 
+ D27                 D_SMT_SCHOTTKY_SOD-123-1000491B 
+ D28                 D_SMT_SCHOTTKY_SOD-123-1000491B 
+ D29                 D_SMT_SCHOTTKY_SOD-123-1000491B 
+ D30                 D_SMT_SCHOTTKY_SOD-123-1000491B 
+ D31                 D_SMT_SIGNAL_1A3C_SOT-23-10004B 
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   9  |
+|------------------------------------------------------------------------------|
+|  D:.../worklib/ed1/physical/edpcb_lcd_moved_down_enlarged_for_pt10_07.brd    |
+|                                                    Thu Jul 12 16:26:33 2012  |
+|------------------------------------------------------------------------------|
+| COMPONENTS ADDED to board drawing                                            |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        |    device type                                           |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ D32                 D_SMT_SIGNAL_1A3C_SOT-23-10004B 
+ D33                 D_SMT_SIGNAL_1A3C_SOT-23-10004B 
+ D34                 D_SMT_SIGNAL_1A3C_SOT-23-10004B 
+ R25                 R_SMT_0805-10006514,100K,TF-SMB 
+ R26                 R_SMT_0805-10006514,100K,TF-SMB 
+ R27                 R_SMT_0805-10006506,47K,TF-SMTB 
+ R28                 R_SMT_0805-10006506,47K,TF-SMTB 
+ R29                 R_SMT_0805-10006514,100K,TF-SMB 
+ R30                 R_SMT_0805-10006506,47K,TF-SMTB 
+ R31                 R_SMT_0805-10006514,100K,TF-SMB 
+ R32                 R_SMT_0805-10006514,100K,TF-SMB 
+ R33                 R_SMT_0805-10006514,100K,TF-SMB 
+ R34                 R_SMT_0805-10006466,1.0K,TF-SMB 
+ R35                 R_SMT_0805-10006466,1.0K,TF-SMB 
+ R36                 R_SMT_0805-10006466,1.0K,TF-SMB 
+ R37                 R_SMT_0805-10006514,100K,TF-SMB 
+ R38                 R_SMT_0805-10006514,100K,TF-SMB 
+ R39                 R_SMT_0805-10006514,100K,TF-SMB 
+ R40                 R_SMT_0805-10006506,47K,TF-SMTB 
+ R41                 R_SMT_0805-10006506,47K,TF-SMTB 
+ R42                 R_SMT_0805-10006506,47K,TF-SMTB 
+ R43                 R_SMT_0805-10006514,100K,TF-SMB 
+ R44                 R_SMT_0805-10006506,47K,TF-SMTB 
+ R45                 R_SMT_0805-10006514,100K,TF-SMB 
+ R46                 R_SMT_0805-10006514,100K,TF-SMB 
+ R47                 R_SMT_0805-10006514,100K,TF-SMB 
+ R48                 R_SMT_0805-10006514,100K,TF-SMB 
+ R49                 R_SMT_0805-10006466,1.0K,TF-SMB 
+ R50                 R_SMT_0805-10006466,1.0K,TF-SMB 
+ R51                 R_SMT_0805-10006466,1.0K,TF-SMB 
+ R52                 R_SMT_0805-10006466,1.0K,TF-SMB 
+ R53                 R_SMT_0805-10006514,100K,TF-SMB 
+ R54                 R_SMT_0805-10006514,100K,TF-SMB 
+ R55                 R_SMT_0805-10006514,100K,TF-SMB 
+ R56                 R_SMT_0805-10006506,47K,TF-SMTB 
+ R57                 R_SMT_0805-10006506,47K,TF-SMTB 
+ R58                 R_SMT_0805-10006514,100K,TF-SMB 
+ R59                 R_SMT_0805-10006506,47K,TF-SMTB 
+ R60                 R_SMT_0805-10006506,47K,TF-SMTB 
+ R61                 R_SMT_0805-10006514,100K,TF-SMB 
+ R62                 R_SMT_0805-10006514,100K,TF-SMB 
+ R63                 R_SMT_0805-10006514,100K,TF-SMB 
+ R64                 R_SMT_0805-10006514,100K,TF-SMB 
+ R65                 R_SMT_0805-10006466,1.0K,TF-SMB 
+ R66                 R_SMT_0805-10006466,1.0K,TF-SMB 
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  10  |
+|------------------------------------------------------------------------------|
+|  D:.../worklib/ed1/physical/edpcb_lcd_moved_down_enlarged_for_pt10_07.brd    |
+|                                                    Thu Jul 12 16:26:33 2012  |
+|------------------------------------------------------------------------------|
+| COMPONENTS ADDED to board drawing                                            |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        |    device type                                           |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ R67                 R_SMT_0805-10006466,1.0K,TF-SMB 
+ R68                 R_SMT_0805-10006466,1.0K,TF-SMB 
+ U3                  U_LM324_SERIES_SO14-10019427,LB 
+ U4                  U_LM324_SERIES_SO14-10019427,LB 
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  11  |
+|------------------------------------------------------------------------------|
+|  D:.../worklib/ed1/physical/edpcb_lcd_moved_down_enlarged_for_pt10_07.brd    |
+|                                                    Thu Jul 12 16:26:33 2012  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to board drawing                                       |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C11.2                          PHYS_PAGE      1
+ C11.2                          PRIM_FILE      //applpark/technology/Electronics/InProcess/tools/npielect/GE_Library_16/Components/c_capacitor/c_smt/chips/chips.prt
+ C11.2                          TYPE           X7R
+ C11.2                          VOLT           16V
+ C12.2                          PHYS_PAGE      1
+ C12.2                          PRIM_FILE      //applpark/technology/Electronics/InProcess/tools/npielect/GE_Library_16/Components/c_capacitor/c_smt/chips/chips.prt
+ C12.2                          TYPE           X7R
+ C12.2                          VOLT           16V
+ C13.2                          PHYS_PAGE      1
+ C13.2                          PRIM_FILE      //applpark/technology/Electronics/InProcess/tools/npielect/GE_Library_16/Components/c_capacitor/c_smt/chips/chips.prt
+ C13.2                          TYPE           X7R
+ C13.2                          VOLT           16V
+ C14.2                          PHYS_PAGE      1
+ C14.2                          PRIM_FILE      //applpark/technology/Electronics/InProcess/tools/npielect/GE_Library_16/Components/c_capacitor/c_smt/chips/chips.prt
+ C14.2                          TYPE           X7R
+ C14.2                          VOLT           16V
+ C15.2                          PHYS_PAGE      1
+ C15.2                          PRIM_FILE      //applpark/technology/Electronics/InProcess/tools/npielect/GE_Library_16/Components/c_capacitor/c_smt/chips/chips.prt
+ C15.2                          TYPE           X7R
+ C15.2                          VOLT           16V
+ C16.2                          PHYS_PAGE      1
+ C16.2                          PRIM_FILE      //applpark/technology/Electronics/InProcess/tools/npielect/GE_Library_16/Components/c_capacitor/c_smt/chips/chips.prt
+ C16.2                          TYPE           X7R
+ C16.2                          VOLT           16V
+ C17.2                          PHYS_PAGE      1
+ C17.2                          PRIM_FILE      //applpark/technology/Electronics/InProcess/tools/npielect/GE_Library_16/Components/c_capacitor/c_smt/chips/chips.prt
+ C17.2                          TYPE           X7R
+ C17.2                          VOLT           16V
+ C18.2                          PHYS_PAGE      1
+ C18.2                          PRIM_FILE      //applpark/technology/Electronics/InProcess/tools/npielect/GE_Library_16/Components/c_capacitor/c_smt/chips/chips.prt
+ C18.2                          TYPE           X7R
+ C18.2                          VOLT           16V
+ C19.2                          PHYS_PAGE      1
+ C19.2                          PRIM_FILE      //applpark/technology/Electronics/InProcess/tools/npielect/GE_Library_16/Components/c_capacitor/c_smt/chips/chips.prt
+ C19.2                          TYPE           X7R
+ C19.2                          VOLT           16V
+ C20.2                          PHYS_PAGE      1
+ C20.2                          PRIM_FILE      //applpark/technology/Electronics/InProcess/tools/npielect/GE_Library_16/Components/c_capacitor/c_smt/chips/chips.prt
+ C20.2                          TYPE           X7R
+ C20.2                          VOLT           16V
+ C21.2                          PHYS_PAGE      1
+ C21.2                          PRIM_FILE      //applpark/technology/Electronics/InProcess/tools/npielect/GE_Library_16/Components/c_capacitor/c_smt/chips/chips.prt
+ C21.2                          TYPE           X7R
+ C21.2                          VOLT           16V
+ C22.2                          PHYS_PAGE      1
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  12  |
+|------------------------------------------------------------------------------|
+|  D:.../worklib/ed1/physical/edpcb_lcd_moved_down_enlarged_for_pt10_07.brd    |
+|                                                    Thu Jul 12 16:26:33 2012  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to board drawing                                       |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C22.2                          PRIM_FILE      //applpark/technology/Electronics/InProcess/tools/npielect/GE_Library_16/Components/c_capacitor/c_smt/chips/chips.prt
+ C22.2                          TYPE           X7R
+ C22.2                          VOLT           16V
+ C23.2                          PHYS_PAGE      1
+ C23.2                          PRIM_FILE      //applpark/technology/Electronics/InProcess/tools/npielect/GE_Library_16/Components/c_capacitor/c_smt/chips/chips.prt
+ C23.2                          TYPE           X7R
+ C23.2                          VOLT           16V
+ C24.2                          PHYS_PAGE      1
+ C24.2                          PRIM_FILE      //applpark/technology/Electronics/InProcess/tools/npielect/GE_Library_16/Components/c_capacitor/c_smt/chips/chips.prt
+ C24.2                          TYPE           X7R
+ C24.2                          VOLT           16V
+ C25.2                          PHYS_PAGE      1
+ C25.2                          PRIM_FILE      //applpark/technology/Electronics/InProcess/tools/npielect/GE_Library_16/Components/c_capacitor/c_smt/chips/chips.prt
+ C25.2                          TYPE           X7R
+ C25.2                          VOLT           16V
+ C26.2                          PHYS_PAGE      1
+ C26.2                          PRIM_FILE      //applpark/technology/Electronics/InProcess/tools/npielect/GE_Library_16/Components/c_capacitor/c_smt/chips/chips.prt
+ C26.2                          TYPE           X7R
+ C26.2                          VOLT           16V
+ C27.2                          PHYS_PAGE      1
+ C27.2                          PRIM_FILE      //applpark/technology/Electronics/InProcess/tools/npielect/GE_Library_16/Components/c_capacitor/c_smt/chips/chips.prt
+ C27.2                          TYPE           X7R
+ C27.2                          VOLT           16V
+ C28.2                          PHYS_PAGE      1
+ C28.2                          PRIM_FILE      //applpark/technology/Electronics/InProcess/tools/npielect/GE_Library_16/Components/c_capacitor/c_smt/chips/chips.prt
+ C28.2                          TYPE           X7R
+ C28.2                          VOLT           16V
+ C29.2                          PHYS_PAGE      1
+ C29.2                          PRIM_FILE      //applpark/technology/Electronics/InProcess/tools/npielect/GE_Library_16/Components/c_capacitor/c_smt/chips/chips.prt
+ C29.2                          TYPE           X7R
+ C29.2                          VOLT           16V
+ C30.2                          PHYS_PAGE      1
+ C30.2                          PRIM_FILE      //applpark/technology/Electronics/InProcess/tools/npielect/GE_Library_16/Components/c_capacitor/c_smt/chips/chips.prt
+ C30.2                          TYPE           X7R
+ C30.2                          VOLT           16V
+ C31.2                          PHYS_PAGE      1
+ C31.2                          PRIM_FILE      //applpark/technology/Electronics/InProcess/tools/npielect/GE_Library_16/Components/c_capacitor/c_smt/chips/chips.prt
+ C31.2                          TYPE           X7R
+ C31.2                          VOLT           16V
+ C32.2                          PHYS_PAGE      1
+ C32.2                          PRIM_FILE      //applpark/technology/Electronics/InProcess/tools/npielect/GE_Library_16/Components/c_capacitor/c_smt/chips/chips.prt
+ C32.2                          TYPE           X7R
+ C32.2                          VOLT           16V
+ C33.2                          PHYS_PAGE      1
+ C33.2                          PRIM_FILE      //applpark/technology/Electronics/InProcess/tools/npielect/GE_Library_16/Components/c_capacitor/c_smt/chips/chips.prt
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  13  |
+|------------------------------------------------------------------------------|
+|  D:.../worklib/ed1/physical/edpcb_lcd_moved_down_enlarged_for_pt10_07.brd    |
+|                                                    Thu Jul 12 16:26:33 2012  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to board drawing                                       |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C33.2                          TYPE           X7R
+ C33.2                          VOLT           16V
+ C34.2                          PHYS_PAGE      1
+ C34.2                          PRIM_FILE      //applpark/technology/Electronics/InProcess/tools/npielect/GE_Library_16/Components/c_capacitor/c_smt/chips/chips.prt
+ C34.2                          TYPE           X7R
+ C34.2                          VOLT           16V
+ C35.2                          PHYS_PAGE      1
+ C35.2                          PRIM_FILE      //applpark/technology/Electronics/InProcess/tools/npielect/GE_Library_16/Components/c_capacitor/c_smt/chips/chips.prt
+ C35.2                          TYPE           X7R
+ C35.2                          VOLT           16V
+ C36.2                          PHYS_PAGE      1
+ C36.2                          PRIM_FILE      //applpark/technology/Electronics/InProcess/tools/npielect/GE_Library_16/Components/c_capacitor/c_smt/chips/chips.prt
+ C36.2                          TYPE           X7R
+ C36.2                          VOLT           16V
+ D13.C                          IF             500MA
+ D13.C                          PHYS_PAGE      1
+ D13.C                          PRIM_FILE      //applpark/technology/Electronics/InProcess/tools/npielect/GE_Library_16/Components/d_diode/d_smt_schottky/chips/chips.prt
+ D13.C                          TYPE           SCHOTTKY
+ D13.C                          VRRM           30V
+ D14.C                          IF             500MA
+ D14.C                          PHYS_PAGE      1
+ D14.C                          PRIM_FILE      //applpark/technology/Electronics/InProcess/tools/npielect/GE_Library_16/Components/d_diode/d_smt_schottky/chips/chips.prt
+ D14.C                          TYPE           SCHOTTKY
+ D14.C                          VRRM           30V
+ D15.C                          IF             500MA
+ D15.C                          PHYS_PAGE      1
+ D15.C                          PRIM_FILE      //applpark/technology/Electronics/InProcess/tools/npielect/GE_Library_16/Components/d_diode/d_smt_schottky/chips/chips.prt
+ D15.C                          TYPE           SCHOTTKY
+ D15.C                          VRRM           30V
+ D16.3                          IF             200MA
+ D16.3                          PHYS_PAGE      1
+ D16.3                          PRIM_FILE      //applpark/technology/Electronics/InProcess/tools/npielect/GE_Library_16/Components/d_diode/d_smt_signal/chips/chips.prt
+ D16.3                          TYPE           SIGNAL-3PIN
+ D16.3                          VRRM           75V
+ D17.3                          IF             200MA
+ D17.3                          PHYS_PAGE      1
+ D17.3                          PRIM_FILE      //applpark/technology/Electronics/InProcess/tools/npielect/GE_Library_16/Components/d_diode/d_smt_signal/chips/chips.prt
+ D17.3                          TYPE           SIGNAL-3PIN
+ D17.3                          VRRM           75V
+ D18.3                          IF             200MA
+ D18.3                          PHYS_PAGE      1
+ D18.3                          PRIM_FILE      //applpark/technology/Electronics/InProcess/tools/npielect/GE_Library_16/Components/d_diode/d_smt_signal/chips/chips.prt
+ D18.3                          TYPE           SIGNAL-3PIN
+ D18.3                          VRRM           75V
+ D19.C                          IF             500MA
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  14  |
+|------------------------------------------------------------------------------|
+|  D:.../worklib/ed1/physical/edpcb_lcd_moved_down_enlarged_for_pt10_07.brd    |
+|                                                    Thu Jul 12 16:26:33 2012  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to board drawing                                       |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ D19.C                          PHYS_PAGE      1
+ D19.C                          PRIM_FILE      //applpark/technology/Electronics/InProcess/tools/npielect/GE_Library_16/Components/d_diode/d_smt_schottky/chips/chips.prt
+ D19.C                          TYPE           SCHOTTKY
+ D19.C                          VRRM           30V
+ D20.C                          IF             500MA
+ D20.C                          PHYS_PAGE      1
+ D20.C                          PRIM_FILE      //applpark/technology/Electronics/InProcess/tools/npielect/GE_Library_16/Components/d_diode/d_smt_schottky/chips/chips.prt
+ D20.C                          TYPE           SCHOTTKY
+ D20.C                          VRRM           30V
+ D21.C                          IF             500MA
+ D21.C                          PHYS_PAGE      1
+ D21.C                          PRIM_FILE      //applpark/technology/Electronics/InProcess/tools/npielect/GE_Library_16/Components/d_diode/d_smt_schottky/chips/chips.prt
+ D21.C                          TYPE           SCHOTTKY
+ D21.C                          VRRM           30V
+ D22.C                          IF             500MA
+ D22.C                          PHYS_PAGE      1
+ D22.C                          PRIM_FILE      //applpark/technology/Electronics/InProcess/tools/npielect/GE_Library_16/Components/d_diode/d_smt_schottky/chips/chips.prt
+ D22.C                          TYPE           SCHOTTKY
+ D22.C                          VRRM           30V
+ D23.3                          IF             200MA
+ D23.3                          PHYS_PAGE      1
+ D23.3                          PRIM_FILE      //applpark/technology/Electronics/InProcess/tools/npielect/GE_Library_16/Components/d_diode/d_smt_signal/chips/chips.prt
+ D23.3                          TYPE           SIGNAL-3PIN
+ D23.3                          VRRM           75V
+ D24.3                          IF             200MA
+ D24.3                          PHYS_PAGE      1
+ D24.3                          PRIM_FILE      //applpark/technology/Electronics/InProcess/tools/npielect/GE_Library_16/Components/d_diode/d_smt_signal/chips/chips.prt
+ D24.3                          TYPE           SIGNAL-3PIN
+ D24.3                          VRRM           75V
+ D25.3                          IF             200MA
+ D25.3                          PHYS_PAGE      1
+ D25.3                          PRIM_FILE      //applpark/technology/Electronics/InProcess/tools/npielect/GE_Library_16/Components/d_diode/d_smt_signal/chips/chips.prt
+ D25.3                          TYPE           SIGNAL-3PIN
+ D25.3                          VRRM           75V
+ D26.3                          IF             200MA
+ D26.3                          PHYS_PAGE      1
+ D26.3                          PRIM_FILE      //applpark/technology/Electronics/InProcess/tools/npielect/GE_Library_16/Components/d_diode/d_smt_signal/chips/chips.prt
+ D26.3                          TYPE           SIGNAL-3PIN
+ D26.3                          VRRM           75V
+ D27.C                          IF             500MA
+ D27.C                          PHYS_PAGE      1
+ D27.C                          PRIM_FILE      //applpark/technology/Electronics/InProcess/tools/npielect/GE_Library_16/Components/d_diode/d_smt_schottky/chips/chips.prt
+ D27.C                          TYPE           SCHOTTKY
+ D27.C                          VRRM           30V
+ D28.C                          IF             500MA
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  15  |
+|------------------------------------------------------------------------------|
+|  D:.../worklib/ed1/physical/edpcb_lcd_moved_down_enlarged_for_pt10_07.brd    |
+|                                                    Thu Jul 12 16:26:33 2012  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to board drawing                                       |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ D28.C                          PHYS_PAGE      1
+ D28.C                          PRIM_FILE      //applpark/technology/Electronics/InProcess/tools/npielect/GE_Library_16/Components/d_diode/d_smt_schottky/chips/chips.prt
+ D28.C                          TYPE           SCHOTTKY
+ D28.C                          VRRM           30V
+ D29.C                          IF             500MA
+ D29.C                          PHYS_PAGE      1
+ D29.C                          PRIM_FILE      //applpark/technology/Electronics/InProcess/tools/npielect/GE_Library_16/Components/d_diode/d_smt_schottky/chips/chips.prt
+ D29.C                          TYPE           SCHOTTKY
+ D29.C                          VRRM           30V
+ D30.C                          IF             500MA
+ D30.C                          PHYS_PAGE      1
+ D30.C                          PRIM_FILE      //applpark/technology/Electronics/InProcess/tools/npielect/GE_Library_16/Components/d_diode/d_smt_schottky/chips/chips.prt
+ D30.C                          TYPE           SCHOTTKY
+ D30.C                          VRRM           30V
+ D31.3                          IF             200MA
+ D31.3                          PHYS_PAGE      1
+ D31.3                          PRIM_FILE      //applpark/technology/Electronics/InProcess/tools/npielect/GE_Library_16/Components/d_diode/d_smt_signal/chips/chips.prt
+ D31.3                          TYPE           SIGNAL-3PIN
+ D31.3                          VRRM           75V
+ D32.3                          IF             200MA
+ D32.3                          PHYS_PAGE      1
+ D32.3                          PRIM_FILE      //applpark/technology/Electronics/InProcess/tools/npielect/GE_Library_16/Components/d_diode/d_smt_signal/chips/chips.prt
+ D32.3                          TYPE           SIGNAL-3PIN
+ D32.3                          VRRM           75V
+ D33.3                          IF             200MA
+ D33.3                          PHYS_PAGE      1
+ D33.3                          PRIM_FILE      //applpark/technology/Electronics/InProcess/tools/npielect/GE_Library_16/Components/d_diode/d_smt_signal/chips/chips.prt
+ D33.3                          TYPE           SIGNAL-3PIN
+ D33.3                          VRRM           75V
+ D34.3                          IF             200MA
+ D34.3                          PHYS_PAGE      1
+ D34.3                          PRIM_FILE      //applpark/technology/Electronics/InProcess/tools/npielect/GE_Library_16/Components/d_diode/d_smt_signal/chips/chips.prt
+ D34.3                          TYPE           SIGNAL-3PIN
+ D34.3                          VRRM           75V
+ R25.2                          PHYS_PAGE      1
+ R25.2                          PRIM_FILE      //applpark/technology/Electronics/InProcess/tools/npielect/GE_Library_16/Components/r_resistor/r_smt/chips/chips.prt
+ R25.2                          TYPE           TF-SMT0805
+ R25.2                          WATTAGE        1/8W
+ R26.2                          PHYS_PAGE      1
+ R26.2                          PRIM_FILE      //applpark/technology/Electronics/InProcess/tools/npielect/GE_Library_16/Components/r_resistor/r_smt/chips/chips.prt
+ R26.2                          TYPE           TF-SMT0805
+ R26.2                          WATTAGE        1/8W
+ R27.2                          PHYS_PAGE      1
+ R27.2                          PRIM_FILE      //applpark/technology/Electronics/InProcess/tools/npielect/GE_Library_16/Components/r_resistor/r_smt/chips/chips.prt
+ R27.2                          TYPE           TF-SMT0805
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  16  |
+|------------------------------------------------------------------------------|
+|  D:.../worklib/ed1/physical/edpcb_lcd_moved_down_enlarged_for_pt10_07.brd    |
+|                                                    Thu Jul 12 16:26:33 2012  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to board drawing                                       |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ R27.2                          WATTAGE        1/8W
+ R28.2                          PHYS_PAGE      1
+ R28.2                          PRIM_FILE      //applpark/technology/Electronics/InProcess/tools/npielect/GE_Library_16/Components/r_resistor/r_smt/chips/chips.prt
+ R28.2                          TYPE           TF-SMT0805
+ R28.2                          WATTAGE        1/8W
+ R29.2                          PHYS_PAGE      1
+ R29.2                          PRIM_FILE      //applpark/technology/Electronics/InProcess/tools/npielect/GE_Library_16/Components/r_resistor/r_smt/chips/chips.prt
+ R29.2                          TYPE           TF-SMT0805
+ R29.2                          WATTAGE        1/8W
+ R30.2                          PHYS_PAGE      1
+ R30.2                          PRIM_FILE      //applpark/technology/Electronics/InProcess/tools/npielect/GE_Library_16/Components/r_resistor/r_smt/chips/chips.prt
+ R30.2                          TYPE           TF-SMT0805
+ R30.2                          WATTAGE        1/8W
+ R31.2                          PHYS_PAGE      1
+ R31.2                          PRIM_FILE      //applpark/technology/Electronics/InProcess/tools/npielect/GE_Library_16/Components/r_resistor/r_smt/chips/chips.prt
+ R31.2                          TYPE           TF-SMT0805
+ R31.2                          WATTAGE        1/8W
+ R32.2                          PHYS_PAGE      1
+ R32.2                          PRIM_FILE      //applpark/technology/Electronics/InProcess/tools/npielect/GE_Library_16/Components/r_resistor/r_smt/chips/chips.prt
+ R32.2                          TYPE           TF-SMT0805
+ R32.2                          WATTAGE        1/8W
+ R33.2                          PHYS_PAGE      1
+ R33.2                          PRIM_FILE      //applpark/technology/Electronics/InProcess/tools/npielect/GE_Library_16/Components/r_resistor/r_smt/chips/chips.prt
+ R33.2                          TYPE           TF-SMT0805
+ R33.2                          WATTAGE        1/8W
+ R34.2                          PHYS_PAGE      1
+ R34.2                          PRIM_FILE      //applpark/technology/Electronics/InProcess/tools/npielect/GE_Library_16/Components/r_resistor/r_smt/chips/chips.prt
+ R34.2                          TYPE           TF-SMT0805
+ R34.2                          WATTAGE        1/8W
+ R35.2                          PHYS_PAGE      1
+ R35.2                          PRIM_FILE      //applpark/technology/Electronics/InProcess/tools/npielect/GE_Library_16/Components/r_resistor/r_smt/chips/chips.prt
+ R35.2                          TYPE           TF-SMT0805
+ R35.2                          WATTAGE        1/8W
+ R36.2                          PHYS_PAGE      1
+ R36.2                          PRIM_FILE      //applpark/technology/Electronics/InProcess/tools/npielect/GE_Library_16/Components/r_resistor/r_smt/chips/chips.prt
+ R36.2                          TYPE           TF-SMT0805
+ R36.2                          WATTAGE        1/8W
+ R37.2                          PHYS_PAGE      1
+ R37.2                          PRIM_FILE      //applpark/technology/Electronics/InProcess/tools/npielect/GE_Library_16/Components/r_resistor/r_smt/chips/chips.prt
+ R37.2                          TYPE           TF-SMT0805
+ R37.2                          WATTAGE        1/8W
+ R38.2                          PHYS_PAGE      1
+ R38.2                          PRIM_FILE      //applpark/technology/Electronics/InProcess/tools/npielect/GE_Library_16/Components/r_resistor/r_smt/chips/chips.prt
+ R38.2                          TYPE           TF-SMT0805
+ R38.2                          WATTAGE        1/8W
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  17  |
+|------------------------------------------------------------------------------|
+|  D:.../worklib/ed1/physical/edpcb_lcd_moved_down_enlarged_for_pt10_07.brd    |
+|                                                    Thu Jul 12 16:26:33 2012  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to board drawing                                       |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ R39.2                          PHYS_PAGE      1
+ R39.2                          PRIM_FILE      //applpark/technology/Electronics/InProcess/tools/npielect/GE_Library_16/Components/r_resistor/r_smt/chips/chips.prt
+ R39.2                          TYPE           TF-SMT0805
+ R39.2                          WATTAGE        1/8W
+ R40.2                          PHYS_PAGE      1
+ R40.2                          PRIM_FILE      //applpark/technology/Electronics/InProcess/tools/npielect/GE_Library_16/Components/r_resistor/r_smt/chips/chips.prt
+ R40.2                          TYPE           TF-SMT0805
+ R40.2                          WATTAGE        1/8W
+ R41.2                          PHYS_PAGE      1
+ R41.2                          PRIM_FILE      //applpark/technology/Electronics/InProcess/tools/npielect/GE_Library_16/Components/r_resistor/r_smt/chips/chips.prt
+ R41.2                          TYPE           TF-SMT0805
+ R41.2                          WATTAGE        1/8W
+ R42.2                          PHYS_PAGE      1
+ R42.2                          PRIM_FILE      //applpark/technology/Electronics/InProcess/tools/npielect/GE_Library_16/Components/r_resistor/r_smt/chips/chips.prt
+ R42.2                          TYPE           TF-SMT0805
+ R42.2                          WATTAGE        1/8W
+ R43.2                          PHYS_PAGE      1
+ R43.2                          PRIM_FILE      //applpark/technology/Electronics/InProcess/tools/npielect/GE_Library_16/Components/r_resistor/r_smt/chips/chips.prt
+ R43.2                          TYPE           TF-SMT0805
+ R43.2                          WATTAGE        1/8W
+ R44.2                          PHYS_PAGE      1
+ R44.2                          PRIM_FILE      //applpark/technology/Electronics/InProcess/tools/npielect/GE_Library_16/Components/r_resistor/r_smt/chips/chips.prt
+ R44.2                          TYPE           TF-SMT0805
+ R44.2                          WATTAGE        1/8W
+ R45.2                          PHYS_PAGE      1
+ R45.2                          PRIM_FILE      //applpark/technology/Electronics/InProcess/tools/npielect/GE_Library_16/Components/r_resistor/r_smt/chips/chips.prt
+ R45.2                          TYPE           TF-SMT0805
+ R45.2                          WATTAGE        1/8W
+ R46.2                          PHYS_PAGE      1
+ R46.2                          PRIM_FILE      //applpark/technology/Electronics/InProcess/tools/npielect/GE_Library_16/Components/r_resistor/r_smt/chips/chips.prt
+ R46.2                          TYPE           TF-SMT0805
+ R46.2                          WATTAGE        1/8W
+ R47.2                          PHYS_PAGE      1
+ R47.2                          PRIM_FILE      //applpark/technology/Electronics/InProcess/tools/npielect/GE_Library_16/Components/r_resistor/r_smt/chips/chips.prt
+ R47.2                          TYPE           TF-SMT0805
+ R47.2                          WATTAGE        1/8W
+ R48.2                          PHYS_PAGE      1
+ R48.2                          PRIM_FILE      //applpark/technology/Electronics/InProcess/tools/npielect/GE_Library_16/Components/r_resistor/r_smt/chips/chips.prt
+ R48.2                          TYPE           TF-SMT0805
+ R48.2                          WATTAGE        1/8W
+ R49.2                          PHYS_PAGE      1
+ R49.2                          PRIM_FILE      //applpark/technology/Electronics/InProcess/tools/npielect/GE_Library_16/Components/r_resistor/r_smt/chips/chips.prt
+ R49.2                          TYPE           TF-SMT0805
+ R49.2                          WATTAGE        1/8W
+ R50.2                          PHYS_PAGE      1
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  18  |
+|------------------------------------------------------------------------------|
+|  D:.../worklib/ed1/physical/edpcb_lcd_moved_down_enlarged_for_pt10_07.brd    |
+|                                                    Thu Jul 12 16:26:33 2012  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to board drawing                                       |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ R50.2                          PRIM_FILE      //applpark/technology/Electronics/InProcess/tools/npielect/GE_Library_16/Components/r_resistor/r_smt/chips/chips.prt
+ R50.2                          TYPE           TF-SMT0805
+ R50.2                          WATTAGE        1/8W
+ R51.2                          PHYS_PAGE      1
+ R51.2                          PRIM_FILE      //applpark/technology/Electronics/InProcess/tools/npielect/GE_Library_16/Components/r_resistor/r_smt/chips/chips.prt
+ R51.2                          TYPE           TF-SMT0805
+ R51.2                          WATTAGE        1/8W
+ R52.2                          PHYS_PAGE      1
+ R52.2                          PRIM_FILE      //applpark/technology/Electronics/InProcess/tools/npielect/GE_Library_16/Components/r_resistor/r_smt/chips/chips.prt
+ R52.2                          TYPE           TF-SMT0805
+ R52.2                          WATTAGE        1/8W
+ R53.2                          PHYS_PAGE      1
+ R53.2                          PRIM_FILE      //applpark/technology/Electronics/InProcess/tools/npielect/GE_Library_16/Components/r_resistor/r_smt/chips/chips.prt
+ R53.2                          TYPE           TF-SMT0805
+ R53.2                          WATTAGE        1/8W
+ R54.2                          PHYS_PAGE      1
+ R54.2                          PRIM_FILE      //applpark/technology/Electronics/InProcess/tools/npielect/GE_Library_16/Components/r_resistor/r_smt/chips/chips.prt
+ R54.2                          TYPE           TF-SMT0805
+ R54.2                          WATTAGE        1/8W
+ R55.2                          PHYS_PAGE      1
+ R55.2                          PRIM_FILE      //applpark/technology/Electronics/InProcess/tools/npielect/GE_Library_16/Components/r_resistor/r_smt/chips/chips.prt
+ R55.2                          TYPE           TF-SMT0805
+ R55.2                          WATTAGE        1/8W
+ R56.2                          PHYS_PAGE      1
+ R56.2                          PRIM_FILE      //applpark/technology/Electronics/InProcess/tools/npielect/GE_Library_16/Components/r_resistor/r_smt/chips/chips.prt
+ R56.2                          TYPE           TF-SMT0805
+ R56.2                          WATTAGE        1/8W
+ R57.2                          PHYS_PAGE      1
+ R57.2                          PRIM_FILE      //applpark/technology/Electronics/InProcess/tools/npielect/GE_Library_16/Components/r_resistor/r_smt/chips/chips.prt
+ R57.2                          TYPE           TF-SMT0805
+ R57.2                          WATTAGE        1/8W
+ R58.2                          PHYS_PAGE      1
+ R58.2                          PRIM_FILE      //applpark/technology/Electronics/InProcess/tools/npielect/GE_Library_16/Components/r_resistor/r_smt/chips/chips.prt
+ R58.2                          TYPE           TF-SMT0805
+ R58.2                          WATTAGE        1/8W
+ R59.2                          PHYS_PAGE      1
+ R59.2                          PRIM_FILE      //applpark/technology/Electronics/InProcess/tools/npielect/GE_Library_16/Components/r_resistor/r_smt/chips/chips.prt
+ R59.2                          TYPE           TF-SMT0805
+ R59.2                          WATTAGE        1/8W
+ R60.2                          PHYS_PAGE      1
+ R60.2                          PRIM_FILE      //applpark/technology/Electronics/InProcess/tools/npielect/GE_Library_16/Components/r_resistor/r_smt/chips/chips.prt
+ R60.2                          TYPE           TF-SMT0805
+ R60.2                          WATTAGE        1/8W
+ R61.2                          PHYS_PAGE      1
+ R61.2                          PRIM_FILE      //applpark/technology/Electronics/InProcess/tools/npielect/GE_Library_16/Components/r_resistor/r_smt/chips/chips.prt
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  19  |
+|------------------------------------------------------------------------------|
+|  D:.../worklib/ed1/physical/edpcb_lcd_moved_down_enlarged_for_pt10_07.brd    |
+|                                                    Thu Jul 12 16:26:33 2012  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to board drawing                                       |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ R61.2                          TYPE           TF-SMT0805
+ R61.2                          WATTAGE        1/8W
+ R62.2                          PHYS_PAGE      1
+ R62.2                          PRIM_FILE      //applpark/technology/Electronics/InProcess/tools/npielect/GE_Library_16/Components/r_resistor/r_smt/chips/chips.prt
+ R62.2                          TYPE           TF-SMT0805
+ R62.2                          WATTAGE        1/8W
+ R63.2                          PHYS_PAGE      1
+ R63.2                          PRIM_FILE      //applpark/technology/Electronics/InProcess/tools/npielect/GE_Library_16/Components/r_resistor/r_smt/chips/chips.prt
+ R63.2                          TYPE           TF-SMT0805
+ R63.2                          WATTAGE        1/8W
+ R64.2                          PHYS_PAGE      1
+ R64.2                          PRIM_FILE      //applpark/technology/Electronics/InProcess/tools/npielect/GE_Library_16/Components/r_resistor/r_smt/chips/chips.prt
+ R64.2                          TYPE           TF-SMT0805
+ R64.2                          WATTAGE        1/8W
+ R65.2                          PHYS_PAGE      1
+ R65.2                          PRIM_FILE      //applpark/technology/Electronics/InProcess/tools/npielect/GE_Library_16/Components/r_resistor/r_smt/chips/chips.prt
+ R65.2                          TYPE           TF-SMT0805
+ R65.2                          WATTAGE        1/8W
+ R66.2                          PHYS_PAGE      1
+ R66.2                          PRIM_FILE      //applpark/technology/Electronics/InProcess/tools/npielect/GE_Library_16/Components/r_resistor/r_smt/chips/chips.prt
+ R66.2                          TYPE           TF-SMT0805
+ R66.2                          WATTAGE        1/8W
+ R67.2                          PHYS_PAGE      1
+ R67.2                          PRIM_FILE      //applpark/technology/Electronics/InProcess/tools/npielect/GE_Library_16/Components/r_resistor/r_smt/chips/chips.prt
+ R67.2                          TYPE           TF-SMT0805
+ R67.2                          WATTAGE        1/8W
+ R68.2                          PHYS_PAGE      1
+ R68.2                          PRIM_FILE      //applpark/technology/Electronics/InProcess/tools/npielect/GE_Library_16/Components/r_resistor/r_smt/chips/chips.prt
+ R68.2                          TYPE           TF-SMT0805
+ R68.2                          WATTAGE        1/8W
+ U2.7           2665.91 2244.53 PHYS_PAGE      1
+ U2.7           2665.91 2244.53 PRIM_FILE      //applpark/technology/Electronics/InProcess/tools/npielect/GE_Library_16/Components/u_ic/u_lm324_series/chips/chips.prt
+ U2.7           2665.91 2244.53 SIZE           1
+ U2.8           2665.91 2244.53 PHYS_PAGE      1
+ U2.8           2665.91 2244.53 PRIM_FILE      //applpark/technology/Electronics/InProcess/tools/npielect/GE_Library_16/Components/u_ic/u_lm324_series/chips/chips.prt
+ U2.8           2665.91 2244.53 SIZE           1
+ U2.14          2665.91 2244.53 PHYS_PAGE      1
+ U2.14          2665.91 2244.53 PRIM_FILE      //applpark/technology/Electronics/InProcess/tools/npielect/GE_Library_16/Components/u_ic/u_lm324_series/chips/chips.prt
+ U2.14          2665.91 2244.53 SIZE           1
+ U3.1                           PHYS_PAGE      1
+ U3.1                           PRIM_FILE      //applpark/technology/Electronics/InProcess/tools/npielect/GE_Library_16/Components/u_ic/u_lm324_series/chips/chips.prt
+ U3.1                           SIZE           1
+ U3.7                           PHYS_PAGE      1
+ U3.7                           PRIM_FILE      //applpark/technology/Electronics/InProcess/tools/npielect/GE_Library_16/Components/u_ic/u_lm324_series/chips/chips.prt
+ U3.7                           SIZE           1
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  20  |
+|------------------------------------------------------------------------------|
+|  D:.../worklib/ed1/physical/edpcb_lcd_moved_down_enlarged_for_pt10_07.brd    |
+|                                                    Thu Jul 12 16:26:33 2012  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to board drawing                                       |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ U3.8                           PHYS_PAGE      1
+ U3.8                           PRIM_FILE      //applpark/technology/Electronics/InProcess/tools/npielect/GE_Library_16/Components/u_ic/u_lm324_series/chips/chips.prt
+ U3.8                           SIZE           1
+ U3.14                          PHYS_PAGE      1
+ U3.14                          PRIM_FILE      //applpark/technology/Electronics/InProcess/tools/npielect/GE_Library_16/Components/u_ic/u_lm324_series/chips/chips.prt
+ U3.14                          SIZE           1
+ U4.1                           PHYS_PAGE      1
+ U4.1                           PRIM_FILE      //applpark/technology/Electronics/InProcess/tools/npielect/GE_Library_16/Components/u_ic/u_lm324_series/chips/chips.prt
+ U4.1                           SIZE           1
+ U4.7                           PHYS_PAGE      1
+ U4.7                           PRIM_FILE      //applpark/technology/Electronics/InProcess/tools/npielect/GE_Library_16/Components/u_ic/u_lm324_series/chips/chips.prt
+ U4.7                           SIZE           1
+ U4.8                           PHYS_PAGE      1
+ U4.8                           PRIM_FILE      //applpark/technology/Electronics/InProcess/tools/npielect/GE_Library_16/Components/u_ic/u_lm324_series/chips/chips.prt
+ U4.8                           SIZE           1
+ U4.14                          PHYS_PAGE      1
+ U4.14                          PRIM_FILE      //applpark/technology/Electronics/InProcess/tools/npielect/GE_Library_16/Components/u_ic/u_lm324_series/chips/chips.prt
+ U4.14                          SIZE           1
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  21  |
+|------------------------------------------------------------------------------|
+|  D:.../worklib/ed1/physical/edpcb_lcd_moved_down_enlarged_for_pt10_07.brd    |
+|                                                    Thu Jul 12 16:26:33 2012  |
+|------------------------------------------------------------------------------|
+| PIN PROPERTIES added to board drawing                                        |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    pin_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C11.1                          CDS_PINID      \1\
+ C11.1                          CLOCK          False
+ C11.2                          CDS_PINID      \2\
+ C11.2                          CLOCK          False
+ C12.1                          CDS_PINID      \1\
+ C12.1                          CLOCK          False
+ C12.2                          CDS_PINID      \2\
+ C12.2                          CLOCK          False
+ C13.1                          CDS_PINID      \1\
+ C13.1                          CLOCK          False
+ C13.2                          CDS_PINID      \2\
+ C13.2                          CLOCK          False
+ C14.1                          CDS_PINID      \1\
+ C14.1                          CLOCK          False
+ C14.2                          CDS_PINID      \2\
+ C14.2                          CLOCK          False
+ C15.1                          CDS_PINID      \1\
+ C15.1                          CLOCK          False
+ C15.2                          CDS_PINID      \2\
+ C15.2                          CLOCK          False
+ C16.1                          CDS_PINID      \1\
+ C16.1                          CLOCK          False
+ C16.2                          CDS_PINID      \2\
+ C16.2                          CLOCK          False
+ C17.1                          CDS_PINID      \1\
+ C17.1                          CLOCK          False
+ C17.2                          CDS_PINID      \2\
+ C17.2                          CLOCK          False
+ C18.1                          CDS_PINID      \1\
+ C18.1                          CLOCK          False
+ C18.2                          CDS_PINID      \2\
+ C18.2                          CLOCK          False
+ C19.1                          CDS_PINID      \1\
+ C19.1                          CLOCK          False
+ C19.2                          CDS_PINID      \2\
+ C19.2                          CLOCK          False
+ C20.1                          CDS_PINID      \1\
+ C20.1                          CLOCK          False
+ C20.2                          CDS_PINID      \2\
+ C20.2                          CLOCK          False
+ C21.1                          CDS_PINID      \1\
+ C21.1                          CLOCK          False
+ C21.2                          CDS_PINID      \2\
+ C21.2                          CLOCK          False
+ C22.1                          CDS_PINID      \1\
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  22  |
+|------------------------------------------------------------------------------|
+|  D:.../worklib/ed1/physical/edpcb_lcd_moved_down_enlarged_for_pt10_07.brd    |
+|                                                    Thu Jul 12 16:26:33 2012  |
+|------------------------------------------------------------------------------|
+| PIN PROPERTIES added to board drawing                                        |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    pin_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C22.1                          CLOCK          False
+ C22.2                          CDS_PINID      \2\
+ C22.2                          CLOCK          False
+ C23.1                          CDS_PINID      \1\
+ C23.1                          CLOCK          False
+ C23.2                          CDS_PINID      \2\
+ C23.2                          CLOCK          False
+ C24.1                          CDS_PINID      \1\
+ C24.1                          CLOCK          False
+ C24.2                          CDS_PINID      \2\
+ C24.2                          CLOCK          False
+ C25.1                          CDS_PINID      \1\
+ C25.1                          CLOCK          False
+ C25.2                          CDS_PINID      \2\
+ C25.2                          CLOCK          False
+ C26.1                          CDS_PINID      \1\
+ C26.1                          CLOCK          False
+ C26.2                          CDS_PINID      \2\
+ C26.2                          CLOCK          False
+ C27.1                          CDS_PINID      \1\
+ C27.1                          CLOCK          False
+ C27.2                          CDS_PINID      \2\
+ C27.2                          CLOCK          False
+ C28.1                          CDS_PINID      \1\
+ C28.1                          CLOCK          False
+ C28.2                          CDS_PINID      \2\
+ C28.2                          CLOCK          False
+ C29.1                          CDS_PINID      \1\
+ C29.1                          CLOCK          False
+ C29.2                          CDS_PINID      \2\
+ C29.2                          CLOCK          False
+ C30.1                          CDS_PINID      \1\
+ C30.1                          CLOCK          False
+ C30.2                          CDS_PINID      \2\
+ C30.2                          CLOCK          False
+ C31.1                          CDS_PINID      \1\
+ C31.1                          CLOCK          False
+ C31.2                          CDS_PINID      \2\
+ C31.2                          CLOCK          False
+ C32.1                          CDS_PINID      \1\
+ C32.1                          CLOCK          False
+ C32.2                          CDS_PINID      \2\
+ C32.2                          CLOCK          False
+ C33.1                          CDS_PINID      \1\
+ C33.1                          CLOCK          False
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  23  |
+|------------------------------------------------------------------------------|
+|  D:.../worklib/ed1/physical/edpcb_lcd_moved_down_enlarged_for_pt10_07.brd    |
+|                                                    Thu Jul 12 16:26:33 2012  |
+|------------------------------------------------------------------------------|
+| PIN PROPERTIES added to board drawing                                        |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    pin_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C33.2                          CDS_PINID      \2\
+ C33.2                          CLOCK          False
+ C34.1                          CDS_PINID      \1\
+ C34.1                          CLOCK          False
+ C34.2                          CDS_PINID      \2\
+ C34.2                          CLOCK          False
+ C35.1                          CDS_PINID      \1\
+ C35.1                          CLOCK          False
+ C35.2                          CDS_PINID      \2\
+ C35.2                          CLOCK          False
+ C36.1                          CDS_PINID      \1\
+ C36.1                          CLOCK          False
+ C36.2                          CDS_PINID      \2\
+ C36.2                          CLOCK          False
+ D13.A                          CDS_PINID      A
+ D13.A                          CLOCK          False
+ D13.C                          CDS_PINID      C
+ D13.C                          CLOCK          False
+ D14.A                          CDS_PINID      A
+ D14.A                          CLOCK          False
+ D14.C                          CDS_PINID      C
+ D14.C                          CLOCK          False
+ D15.A                          CDS_PINID      A
+ D15.A                          CLOCK          False
+ D15.C                          CDS_PINID      C
+ D15.C                          CLOCK          False
+ D16.1                          CDS_PINID      A
+ D16.1                          CLOCK          False
+ D16.3                          CDS_PINID      C
+ D16.3                          CLOCK          False
+ D17.1                          CDS_PINID      A
+ D17.1                          CLOCK          False
+ D17.3                          CDS_PINID      C
+ D17.3                          CLOCK          False
+ D18.1                          CDS_PINID      A
+ D18.1                          CLOCK          False
+ D18.3                          CDS_PINID      C
+ D18.3                          CLOCK          False
+ D19.A                          CDS_PINID      A
+ D19.A                          CLOCK          False
+ D19.C                          CDS_PINID      C
+ D19.C                          CLOCK          False
+ D20.A                          CDS_PINID      A
+ D20.A                          CLOCK          False
+ D20.C                          CDS_PINID      C
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  24  |
+|------------------------------------------------------------------------------|
+|  D:.../worklib/ed1/physical/edpcb_lcd_moved_down_enlarged_for_pt10_07.brd    |
+|                                                    Thu Jul 12 16:26:33 2012  |
+|------------------------------------------------------------------------------|
+| PIN PROPERTIES added to board drawing                                        |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    pin_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ D20.C                          CLOCK          False
+ D21.A                          CDS_PINID      A
+ D21.A                          CLOCK          False
+ D21.C                          CDS_PINID      C
+ D21.C                          CLOCK          False
+ D22.A                          CDS_PINID      A
+ D22.A                          CLOCK          False
+ D22.C                          CDS_PINID      C
+ D22.C                          CLOCK          False
+ D23.1                          CDS_PINID      A
+ D23.1                          CLOCK          False
+ D23.3                          CDS_PINID      C
+ D23.3                          CLOCK          False
+ D24.1                          CDS_PINID      A
+ D24.1                          CLOCK          False
+ D24.3                          CDS_PINID      C
+ D24.3                          CLOCK          False
+ D25.1                          CDS_PINID      A
+ D25.1                          CLOCK          False
+ D25.3                          CDS_PINID      C
+ D25.3                          CLOCK          False
+ D26.1                          CDS_PINID      A
+ D26.1                          CLOCK          False
+ D26.3                          CDS_PINID      C
+ D26.3                          CLOCK          False
+ D27.A                          CDS_PINID      A
+ D27.A                          CLOCK          False
+ D27.C                          CDS_PINID      C
+ D27.C                          CLOCK          False
+ D28.A                          CDS_PINID      A
+ D28.A                          CLOCK          False
+ D28.C                          CDS_PINID      C
+ D28.C                          CLOCK          False
+ D29.A                          CDS_PINID      A
+ D29.A                          CLOCK          False
+ D29.C                          CDS_PINID      C
+ D29.C                          CLOCK          False
+ D30.A                          CDS_PINID      A
+ D30.A                          CLOCK          False
+ D30.C                          CDS_PINID      C
+ D30.C                          CLOCK          False
+ D31.1                          CDS_PINID      A
+ D31.1                          CLOCK          False
+ D31.3                          CDS_PINID      C
+ D31.3                          CLOCK          False
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  25  |
+|------------------------------------------------------------------------------|
+|  D:.../worklib/ed1/physical/edpcb_lcd_moved_down_enlarged_for_pt10_07.brd    |
+|                                                    Thu Jul 12 16:26:33 2012  |
+|------------------------------------------------------------------------------|
+| PIN PROPERTIES added to board drawing                                        |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    pin_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ D32.1                          CDS_PINID      A
+ D32.1                          CLOCK          False
+ D32.3                          CDS_PINID      C
+ D32.3                          CLOCK          False
+ D33.1                          CDS_PINID      A
+ D33.1                          CLOCK          False
+ D33.3                          CDS_PINID      C
+ D33.3                          CLOCK          False
+ D34.1                          CDS_PINID      A
+ D34.1                          CLOCK          False
+ D34.3                          CDS_PINID      C
+ D34.3                          CLOCK          False
+ R25.1                          CDS_PINID      \1\
+ R25.2                          CDS_PINID      \2\
+ R26.1                          CDS_PINID      \1\
+ R26.2                          CDS_PINID      \2\
+ R27.1                          CDS_PINID      \1\
+ R27.2                          CDS_PINID      \2\
+ R28.1                          CDS_PINID      \1\
+ R28.2                          CDS_PINID      \2\
+ R29.1                          CDS_PINID      \1\
+ R29.2                          CDS_PINID      \2\
+ R30.1                          CDS_PINID      \1\
+ R30.2                          CDS_PINID      \2\
+ R31.1                          CDS_PINID      \1\
+ R31.2                          CDS_PINID      \2\
+ R32.1                          CDS_PINID      \1\
+ R32.2                          CDS_PINID      \2\
+ R33.1                          CDS_PINID      \1\
+ R33.2                          CDS_PINID      \2\
+ R34.1                          CDS_PINID      \1\
+ R34.2                          CDS_PINID      \2\
+ R35.1                          CDS_PINID      \1\
+ R35.2                          CDS_PINID      \2\
+ R36.1                          CDS_PINID      \1\
+ R36.2                          CDS_PINID      \2\
+ R37.1                          CDS_PINID      \1\
+ R37.2                          CDS_PINID      \2\
+ R38.1                          CDS_PINID      \1\
+ R38.2                          CDS_PINID      \2\
+ R39.1                          CDS_PINID      \1\
+ R39.2                          CDS_PINID      \2\
+ R40.1                          CDS_PINID      \1\
+ R40.2                          CDS_PINID      \2\
+ R41.1                          CDS_PINID      \1\
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  26  |
+|------------------------------------------------------------------------------|
+|  D:.../worklib/ed1/physical/edpcb_lcd_moved_down_enlarged_for_pt10_07.brd    |
+|                                                    Thu Jul 12 16:26:33 2012  |
+|------------------------------------------------------------------------------|
+| PIN PROPERTIES added to board drawing                                        |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    pin_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ R41.2                          CDS_PINID      \2\
+ R42.1                          CDS_PINID      \1\
+ R42.2                          CDS_PINID      \2\
+ R43.1                          CDS_PINID      \1\
+ R43.2                          CDS_PINID      \2\
+ R44.1                          CDS_PINID      \1\
+ R44.2                          CDS_PINID      \2\
+ R45.1                          CDS_PINID      \1\
+ R45.2                          CDS_PINID      \2\
+ R46.1                          CDS_PINID      \1\
+ R46.2                          CDS_PINID      \2\
+ R47.1                          CDS_PINID      \1\
+ R47.2                          CDS_PINID      \2\
+ R48.1                          CDS_PINID      \1\
+ R48.2                          CDS_PINID      \2\
+ R49.1                          CDS_PINID      \1\
+ R49.2                          CDS_PINID      \2\
+ R50.1                          CDS_PINID      \1\
+ R50.2                          CDS_PINID      \2\
+ R51.1                          CDS_PINID      \1\
+ R51.2                          CDS_PINID      \2\
+ R52.1                          CDS_PINID      \1\
+ R52.2                          CDS_PINID      \2\
+ R53.1                          CDS_PINID      \1\
+ R53.2                          CDS_PINID      \2\
+ R54.1                          CDS_PINID      \1\
+ R54.2                          CDS_PINID      \2\
+ R55.1                          CDS_PINID      \1\
+ R55.2                          CDS_PINID      \2\
+ R56.1                          CDS_PINID      \1\
+ R56.2                          CDS_PINID      \2\
+ R57.1                          CDS_PINID      \1\
+ R57.2                          CDS_PINID      \2\
+ R58.1                          CDS_PINID      \1\
+ R58.2                          CDS_PINID      \2\
+ R59.1                          CDS_PINID      \1\
+ R59.2                          CDS_PINID      \2\
+ R60.1                          CDS_PINID      \1\
+ R60.2                          CDS_PINID      \2\
+ R61.1                          CDS_PINID      \1\
+ R61.2                          CDS_PINID      \2\
+ R62.1                          CDS_PINID      \1\
+ R62.2                          CDS_PINID      \2\
+ R63.1                          CDS_PINID      \1\
+ R63.2                          CDS_PINID      \2\
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  27  |
+|------------------------------------------------------------------------------|
+|  D:.../worklib/ed1/physical/edpcb_lcd_moved_down_enlarged_for_pt10_07.brd    |
+|                                                    Thu Jul 12 16:26:33 2012  |
+|------------------------------------------------------------------------------|
+| PIN PROPERTIES added to board drawing                                        |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    pin_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ R64.1                          CDS_PINID      \1\
+ R64.2                          CDS_PINID      \2\
+ R65.1                          CDS_PINID      \1\
+ R65.2                          CDS_PINID      \2\
+ R66.1                          CDS_PINID      \1\
+ R66.2                          CDS_PINID      \2\
+ R67.1                          CDS_PINID      \1\
+ R67.2                          CDS_PINID      \2\
+ R68.1                          CDS_PINID      \1\
+ R68.2                          CDS_PINID      \2\
+ U2.5           2777.27 2194.53 CDS_PINID      IP(0)
+ U2.6           2777.27 2144.53 CDS_PINID      \in\(0)
+ U2.7           2777.27 2094.53 CDS_PINID      \out\(0)
+ U2.8           2554.55 2094.53 CDS_PINID      \out\(0)
+ U2.9           2554.55 2144.53 CDS_PINID      \in\(0)
+ U2.10          2554.55 2194.53 CDS_PINID      IP(0)
+ U2.12          2554.55 2294.53 CDS_PINID      IP(0)
+ U2.13          2554.55 2344.53 CDS_PINID      \in\(0)
+ U2.14          2554.55 2394.53 CDS_PINID      \out\(0)
+ U3.1                           CDS_PINID      \out\(0)
+ U3.2                           CDS_PINID      \in\(0)
+ U3.3                           CDS_PINID      IP(0)
+ U3.4                           CDS_PINID      \4\
+ U3.5                           CDS_PINID      IP(0)
+ U3.6                           CDS_PINID      \in\(0)
+ U3.7                           CDS_PINID      \out\(0)
+ U3.8                           CDS_PINID      \out\(0)
+ U3.9                           CDS_PINID      \in\(0)
+ U3.10                          CDS_PINID      IP(0)
+ U3.11                          CDS_PINID      \11\
+ U3.12                          CDS_PINID      IP(0)
+ U3.13                          CDS_PINID      \in\(0)
+ U3.14                          CDS_PINID      \out\(0)
+ U4.1                           CDS_PINID      \out\(0)
+ U4.2                           CDS_PINID      \in\(0)
+ U4.3                           CDS_PINID      IP(0)
+ U4.4                           CDS_PINID      \4\
+ U4.5                           CDS_PINID      IP(0)
+ U4.6                           CDS_PINID      \in\(0)
+ U4.7                           CDS_PINID      \out\(0)
+ U4.8                           CDS_PINID      \out\(0)
+ U4.9                           CDS_PINID      \in\(0)
+ U4.10                          CDS_PINID      IP(0)
+ U4.11                          CDS_PINID      \11\
+ U4.12                          CDS_PINID      IP(0)
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  28  |
+|------------------------------------------------------------------------------|
+|  D:.../worklib/ed1/physical/edpcb_lcd_moved_down_enlarged_for_pt10_07.brd    |
+|                                                    Thu Jul 12 16:26:33 2012  |
+|------------------------------------------------------------------------------|
+| PIN PROPERTIES added to board drawing                                        |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    pin_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ U4.13                          CDS_PINID      \in\(0)
+ U4.14                          CDS_PINID      \out\(0)
+|------------------------------------------------------------------------------|
+|   total ECO changes reported  1046                                           |
+|------------------------------------------------------------------------------|

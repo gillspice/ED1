@@ -1,0 +1,123 @@
+Log File: C:\Temp\s2r8.
+Markers File: C:\Temp\s2r8.1
+Debug File: C:\Temp\s2r8.3
+     Debug[0] := TRUE
+Elapsed time since start = (00:00:03)
+
+ **************************************************************
+ *  End processing project file and command line  (00:00:02)  *
+ **************************************************************
+
+EDB info: Null connection to port \2  in instance page1_i1.
+EDB info: Null connection to port \2  in instance page1_i2.
+EDB info: Null connection to port \2  in instance page1_i3.
+EDB info: Null connection to port \2  in instance page1_i4.
+EDB info: Null connection to port \1  in instance page1_i8.
+EDB info: Null connection to port \2  in instance page1_i8.
+EDB info: Null connection to port \3  in instance page1_i8.
+EDB info: Null connection to port \4  in instance page1_i8.
+EDB info: Null connection to port \1  in instance page1_i9.
+EDB info: Null connection to port \2  in instance page1_i9.
+EDB info: Null connection to port \3  in instance page1_i9.
+EDB info: Null connection to port \4  in instance page1_i9.
+EDB info: Null connection to port \1  in instance page1_i10.
+EDB info: Null connection to port \2  in instance page1_i10.
+EDB info: Null connection to port \3  in instance page1_i10.
+EDB info: Null connection to port \4  in instance page1_i10.
+EDB info: Null connection to port \1  in instance page1_i11.
+EDB info: Null connection to port \2  in instance page1_i11.
+EDB info: Null connection to port \3  in instance page1_i11.
+EDB info: Null connection to port \4  in instance page1_i11.
+EDB info: Null connection to port \3  in instance page1_i12.
+EDB info: Null connection to port \4  in instance page1_i12.
+EDB info: Null connection to port \1  in instance page1_i13.
+EDB info: Null connection to port \2  in instance page1_i13.
+EDB info: Null connection to port \3  in instance page1_i13.
+EDB info: Null connection to port \4  in instance page1_i13.
+EDB info: Null connection to port \1  in instance page1_i14.
+EDB info: Null connection to port \2  in instance page1_i14.
+EDB info: Null connection to port \3  in instance page1_i14.
+EDB info: Null connection to port \4  in instance page1_i14.
+EDB info: Null connection to port \1  in instance page1_i15.
+EDB info: Null connection to port \2  in instance page1_i15.
+EDB info: Null connection to port \3  in instance page1_i15.
+EDB info: Null connection to port \4  in instance page1_i15.
+EDB info: Null connection to port \1  in instance page1_i16.
+EDB info: Null connection to port \2  in instance page1_i16.
+EDB info: Null connection to port \3  in instance page1_i16.
+EDB info: Null connection to port \4  in instance page1_i16.
+EDB info: Null connection to port \1  in instance page1_i24.
+EDB info: Null connection to port \4  in instance page1_i28.
+EDB info: Null connection to port \11  in instance page1_i28.
+EDB info: Null connection to port \1  in instance page1_i42.
+EDB info: Null connection to port \1  in instance page1_i54.
+EDB info: Null connection to port \1  in instance page1_i66.
+EDB info: Null connection to port \4  in instance page1_i67.
+EDB info: Null connection to port \11  in instance page1_i67.
+EDB info: Null connection to port \4  in instance page1_i68.
+EDB info: Null connection to port \11  in instance page1_i68.
+EDB info: Null connection to port \1  in instance page1_i80.
+EDB info: Null connection to port \4  in instance page1_i95.
+EDB info: Null connection to port \11  in instance page1_i95.
+EDB info: Null connection to port \4  in instance page1_i100.
+EDB info: Null connection to port \11  in instance page1_i100.
+EDB info: Null connection to port \1  in instance page1_i104.
+EDB info: Null connection to port \1  in instance page1_i106.
+EDB info: Null connection to port \4  in instance page1_i112.
+EDB info: Null connection to port \11  in instance page1_i112.
+EDB info: Null connection to port \1  in instance page1_i117.
+EDB info: Null connection to port \1  in instance page1_i133.
+EDB info: Null connection to port \4  in instance page1_i138.
+EDB info: Null connection to port \11  in instance page1_i138.
+EDB info: Null connection to port \4  in instance page1_i143.
+EDB info: Null connection to port \11  in instance page1_i143.
+EDB info: Null connection to port \1  in instance page1_i148.
+EDB info: Null connection to port \1  in instance page1_i153.
+EDB info: Null connection to port \4  in instance page1_i176.
+EDB info: Null connection to port \11  in instance page1_i176.
+EDB info: Null connection to port \4  in instance page1_i181.
+EDB info: Null connection to port \11  in instance page1_i181.
+EDB info: Null connection to port \1  in instance page1_i185.
+EDB info: Null connection to port \1  in instance page1_i187.
+EDB info: Null connection to port \1  in instance page1_i189.
+EDB info: Null connection to port \4  in instance page1_i194.
+EDB info: Null connection to port \11  in instance page1_i194.
+EDB info: Null connection to port \1  in instance page1_i200.
+EDB info: Null connection to port \4  in instance page1_i206.
+EDB info: Null connection to port \11  in instance page1_i206.
+EDB info: Null connection to port \1  in instance page1_i211.
+
+ *************************
+ *  Loading State Files  *
+ *************************
+
+Elapsed time since start = (00:00:37)
+
+ *****************************************
+ *  End loading State Files  (00:00:00)  *
+ *****************************************
+
+
+ ****************************************
+ *  Starting to assign physical parts.  *
+ ****************************************
+
+Elapsed time since start = (00:00:37)
+
+ ***********************************************
+ *  End assigning physical parts.  (00:00:00)  *
+ ***********************************************
+
+
+ ***************
+ *  Packaging  *
+ ***************
+
+Elapsed time since start = (00:00:37)
+
+ *******************************
+ *  End packaging  (00:00:00)  *
+ *******************************
+
+DDB_INFO: State file for design ED1 successfully written.
+DDB_INFO: Pst files for design ED1 successfully written.

@@ -1,0 +1,167 @@
+#This is the Layer Conversion File used for
+#importing DXF data into Allegro/APD.
+
+#CLASS!            SUBCLASS!                 DXF_LAYER!
+
+BOARD GEOMETRY!
+                   WB_GUIDE_LINE!            BOARD_GEOMETRY_OUTLINE!
+                   OFF_GRID_AREA!            BOARD_GEOMETRY_OUTLINE!
+                   SOLDERMASK_BOTTOM!        BOARD_GEOMETRY_OUTLINE!
+                   SOLDERMASK_TOP!           BOARD_GEOMETRY_OUTLINE!
+                   ASSEMBLY_DETAIL!          BOARD_GEOMETRY_OUTLINE!
+                   SILKSCREEN_BOTTOM!        BOARD_GEOMETRY_OUTLINE!
+                   SILKSCREEN_TOP!           BOARD_GEOMETRY_OUTLINE!
+                   SWITCH_AREA_BOTTOM!       BOARD_GEOMETRY_OUTLINE!
+                   SWITCH_AREA_TOP!          BOARD_GEOMETRY_OUTLINE!
+                   BOTH_ROOMS!               BOARD_GEOMETRY_OUTLINE!
+                   BOTTOM_ROOM!              BOARD_GEOMETRY_OUTLINE!
+                   TOP_ROOM!                 BOARD_GEOMETRY_OUTLINE!
+                   PLACE_GRID_BOTTOM!        BOARD_GEOMETRY_OUTLINE!
+                   PLACE_GRID_TOP!           BOARD_GEOMETRY_OUTLINE!
+                   DIMENSION!                BOARD_GEOMETRY_OUTLINE!
+                   TOOLING_CORNERS!          BOARD_GEOMETRY_OUTLINE!
+                   ASSEMBLY_NOTES!           BOARD_GEOMETRY_OUTLINE!
+                   PLATING_BAR!              BOARD_GEOMETRY_OUTLINE!
+                   OUTLINE!                  BOARD_GEOMETRY_OUTLINE!
+
+COMPONENT VALUE!
+                   DISPLAY_BOTTOM!           BOARD_GEOMETRY_OUTLINE!
+                   DISPLAY_TOP!              BOARD_GEOMETRY_OUTLINE!
+                   SILKSCREEN_BOTTOM!        BOARD_GEOMETRY_OUTLINE!
+                   SILKSCREEN_TOP!           BOARD_GEOMETRY_OUTLINE!
+                   ASSEMBLY_BOTTOM!          BOARD_GEOMETRY_OUTLINE!
+                   ASSEMBLY_TOP!             BOARD_GEOMETRY_OUTLINE!
+
+DEVICE TYPE!
+                   DISPLAY_BOTTOM!           BOARD_GEOMETRY_OUTLINE!
+                   DISPLAY_TOP!              BOARD_GEOMETRY_OUTLINE!
+                   SILKSCREEN_BOTTOM!        BOARD_GEOMETRY_OUTLINE!
+                   SILKSCREEN_TOP!           BOARD_GEOMETRY_OUTLINE!
+                   ASSEMBLY_BOTTOM!          BOARD_GEOMETRY_OUTLINE!
+                   ASSEMBLY_TOP!             BOARD_GEOMETRY_OUTLINE!
+
+DRAWING FORMAT!
+                   DRAWING_ORIGIN!           BOARD_GEOMETRY_OUTLINE!
+                   REVISION_DATA!            BOARD_GEOMETRY_OUTLINE!
+                   REVISION_BLOCK!           BOARD_GEOMETRY_OUTLINE!
+                   TITLE_DATA!               BOARD_GEOMETRY_OUTLINE!
+                   TITLE_BLOCK!              BOARD_GEOMETRY_OUTLINE!
+                   OUTLINE!                  BOARD_GEOMETRY_OUTLINE!
+
+ETCH!
+                   TOP!                      BOARD_GEOMETRY_OUTLINE!
+                   BOTTOM!                   BOARD_GEOMETRY_OUTLINE!
+
+MANUFACTURING!
+                   NO_PROBE_BOTTOM!          BOARD_GEOMETRY_OUTLINE!
+                   NO_PROBE_TOP!             BOARD_GEOMETRY_OUTLINE!
+                   AUTOSILK_BOTTOM!          BOARD_GEOMETRY_OUTLINE!
+                   AUTOSILK_TOP!             BOARD_GEOMETRY_OUTLINE!
+                   PROBE_BOTTOM!             BOARD_GEOMETRY_OUTLINE!
+                   PROBE_TOP!                BOARD_GEOMETRY_OUTLINE!
+                   NCDRILL_FIGURE!           BOARD_GEOMETRY_OUTLINE!
+                   NO_GLOSS_INTERNAL!        BOARD_GEOMETRY_OUTLINE!
+                   NO_GLOSS_BOTTOM!          BOARD_GEOMETRY_OUTLINE!
+                   NO_GLOSS_TOP!             BOARD_GEOMETRY_OUTLINE!
+                   NO_GLOSS_ALL!             BOARD_GEOMETRY_OUTLINE!
+                   PHOTOPLOT_OUTLINE!        BOARD_GEOMETRY_OUTLINE!
+
+PACKAGE GEOMETRY!
+                   PASTEMASK_BOTTOM!         BOARD_GEOMETRY_OUTLINE!
+                   PASTEMASK_TOP!            BOARD_GEOMETRY_OUTLINE!
+                   DFA_BOUND_BOTTOM!         BOARD_GEOMETRY_OUTLINE!
+                   DFA_BOUND_TOP!            BOARD_GEOMETRY_OUTLINE!
+                   MODULES!                  BOARD_GEOMETRY_OUTLINE!
+                   DISPLAY_BOTTOM!           BOARD_GEOMETRY_OUTLINE!
+                   DISPLAY_TOP!              BOARD_GEOMETRY_OUTLINE!
+                   SOLDERMASK_BOTTOM!        BOARD_GEOMETRY_OUTLINE!
+                   SOLDERMASK_TOP!           BOARD_GEOMETRY_OUTLINE!
+                   BODY_CENTER!              BOARD_GEOMETRY_OUTLINE!
+                   SILKSCREEN_BOTTOM!        BOARD_GEOMETRY_OUTLINE!
+                   SILKSCREEN_TOP!           BOARD_GEOMETRY_OUTLINE!
+                   PAD_STACK_NAME!           BOARD_GEOMETRY_OUTLINE!
+                   PIN_NUMBER!               BOARD_GEOMETRY_OUTLINE!
+                   PLACE_BOUND_BOTTOM!       BOARD_GEOMETRY_OUTLINE!
+                   PLACE_BOUND_TOP!          BOARD_GEOMETRY_OUTLINE!
+                   ASSEMBLY_BOTTOM!          BOARD_GEOMETRY_OUTLINE!
+                   ASSEMBLY_TOP!             BOARD_GEOMETRY_OUTLINE!
+
+PACKAGE KEEPIN!
+                   ALL!                      BOARD_GEOMETRY_OUTLINE!
+
+PACKAGE KEEPOUT!
+                   BOTTOM!                   BOARD_GEOMETRY_OUTLINE!
+                   TOP!                      BOARD_GEOMETRY_OUTLINE!
+                   ALL!                      BOARD_GEOMETRY_OUTLINE!
+
+PIN!
+                   TOP!                      BOARD_GEOMETRY_OUTLINE!
+                   BOTTOM!                   BOARD_GEOMETRY_OUTLINE!
+                   FILMMASKBOTTOM!           BOARD_GEOMETRY_OUTLINE!
+                   FILMMASKTOP!              BOARD_GEOMETRY_OUTLINE!
+                   PASTEMASK_BOTTOM!         BOARD_GEOMETRY_OUTLINE!
+                   PASTEMASK_TOP!            BOARD_GEOMETRY_OUTLINE!
+                   SOLDERMASK_BOTTOM!        BOARD_GEOMETRY_OUTLINE!
+                   SOLDERMASK_TOP!           BOARD_GEOMETRY_OUTLINE!
+
+REF DES!
+                   DISPLAY_BOTTOM!           BOARD_GEOMETRY_OUTLINE!
+                   DISPLAY_TOP!              BOARD_GEOMETRY_OUTLINE!
+                   SILKSCREEN_BOTTOM!        BOARD_GEOMETRY_OUTLINE!
+                   SILKSCREEN_TOP!           BOARD_GEOMETRY_OUTLINE!
+                   ASSEMBLY_BOTTOM!          BOARD_GEOMETRY_OUTLINE!
+                   ASSEMBLY_TOP!             BOARD_GEOMETRY_OUTLINE!
+
+ROUTE KEEPIN!
+                   ALL!                      BOARD_GEOMETRY_OUTLINE!
+
+ROUTE KEEPOUT!
+                   TOP!                      BOARD_GEOMETRY_OUTLINE!
+                   BOTTOM!                   BOARD_GEOMETRY_OUTLINE!
+                   ALL!                      BOARD_GEOMETRY_OUTLINE!
+
+TOLERANCE!
+                   DISPLAY_BOTTOM!           BOARD_GEOMETRY_OUTLINE!
+                   DISPLAY_TOP!              BOARD_GEOMETRY_OUTLINE!
+                   SILKSCREEN_BOTTOM!        BOARD_GEOMETRY_OUTLINE!
+                   SILKSCREEN_TOP!           BOARD_GEOMETRY_OUTLINE!
+                   ASSEMBLY_BOTTOM!          BOARD_GEOMETRY_OUTLINE!
+                   ASSEMBLY_TOP!             BOARD_GEOMETRY_OUTLINE!
+
+USER PART NUMBER!
+                   DISPLAY_BOTTOM!           BOARD_GEOMETRY_OUTLINE!
+                   DISPLAY_TOP!              BOARD_GEOMETRY_OUTLINE!
+                   SILKSCREEN_BOTTOM!        BOARD_GEOMETRY_OUTLINE!
+                   SILKSCREEN_TOP!           BOARD_GEOMETRY_OUTLINE!
+                   ASSEMBLY_BOTTOM!          BOARD_GEOMETRY_OUTLINE!
+                   ASSEMBLY_TOP!             BOARD_GEOMETRY_OUTLINE!
+
+VIA CLASS!
+                   TOP!                      BOARD_GEOMETRY_OUTLINE!
+                   BOTTOM!                   BOARD_GEOMETRY_OUTLINE!
+                   FILMMASKBOTTOM!           BOARD_GEOMETRY_OUTLINE!
+                   FILMMASKTOP!              BOARD_GEOMETRY_OUTLINE!
+                   PASTEMASK_BOTTOM!         BOARD_GEOMETRY_OUTLINE!
+                   PASTEMASK_TOP!            BOARD_GEOMETRY_OUTLINE!
+                   SOLDERMASK_BOTTOM!        BOARD_GEOMETRY_OUTLINE!
+                   SOLDERMASK_TOP!           BOARD_GEOMETRY_OUTLINE!
+
+VIA KEEPOUT!
+                   TOP!                      BOARD_GEOMETRY_OUTLINE!
+                   BOTTOM!                   BOARD_GEOMETRY_OUTLINE!
+                   ALL!                      BOARD_GEOMETRY_OUTLINE!
+
+ANTI ETCH!
+                   TOP!                      BOARD_GEOMETRY_OUTLINE!
+                   BOTTOM!                   BOARD_GEOMETRY_OUTLINE!
+                   ALL!                      BOARD_GEOMETRY_OUTLINE!
+
+CONSTRAINT REGION!
+                   TOP!                      BOARD_GEOMETRY_OUTLINE!
+                   BOTTOM!                   BOARD_GEOMETRY_OUTLINE!
+                   INNER_PLANE_LAYERS!       BOARD_GEOMETRY_OUTLINE!
+                   INNER_SIGNAL_LAYERS!      BOARD_GEOMETRY_OUTLINE!
+                   OUTER_LAYERS!             BOARD_GEOMETRY_OUTLINE!
+                   ALL!                      BOARD_GEOMETRY_OUTLINE!
+
+#END

@@ -1,0 +1,11 @@
+\t (00:02:10) allegro 16.6 S020 (v16-6-112BH) Windows 32
+\t (00:02:10)     Journal start - Sun Dec 28 10:47:34 2014
+\t (00:02:10)         Host=APL-JQ3HXV1 User=214016586 Pid=5464 CPUs=4
+\t (00:02:10) 
+\e (00:02:24) Retrieval of 'PCB_design_studio' license failed: 'ERROR (LMF-13015): License call failed for feature Allegro_studio. The license server search path is defined as 5280@a35as02applge.appl.ge.com. The FLEXnet error message is as follows,
+    FLEXnet ERROR(-15, 234, 10061): Cannot connect to license server system.
+
+Run 'lic_error LMF-13015' for more information.'. Report the licenses in use log via the menu item File->Viewlog: license_use.log
+\i (00:02:32) fillin confirm
+\i (00:02:35) fillin menu_cancel
+\t (00:02:35)     Journal end - Sun Dec 28 10:47:59 2014

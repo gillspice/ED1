@@ -1,0 +1,150 @@
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   1  |
+|------------------------------------------------------------------------------|
+|  D:.../worklib/ed1/physical/edpcb_lcd_moved_down_enlarged_for_pt10_05.brd    |
+|                                                    Thu Jul 12 14:47:08 2012  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  GND_SIGNAL   pins ADDED TO this existing net (pins not previously on any net)
+                                 C10.2                          
+                                 D11.A                          
+                                 R21.1                          
+                                 R22.1                          
+                                 R24.1                          
+                                 U2.11                          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  UNNAMED_1_CSMT_I71_1 pins ADDED TO this new net
+                                 C10.1                          
+                                 D12.3                          
+                                 R23.2                          
+                                 R24.2                          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  UNNAMED_1_CSMT_I80_2 pins ADDED TO this new net
+                                 C9.2                           
+                                 D11.C                          
+                                 R22.2                          
+                                 U2.3                           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  UNNAMED_1_DSMTSIGNAL_I70_A pins ADDED TO this new net
+                                 D12.1                          
+                                 U2.1                           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  UNNAMED_1_RSMT_I73_1 pins ADDED TO this new net
+                                 R21.2                          
+                                 R23.1                          
+                                 U2.2                           
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   2  |
+|------------------------------------------------------------------------------|
+|  D:.../worklib/ed1/physical/edpcb_lcd_moved_down_enlarged_for_pt10_05.brd    |
+|                                                    Thu Jul 12 14:47:08 2012  |
+|------------------------------------------------------------------------------|
+| COMPONENTS ADDED to board drawing                                            |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        |    device type                                           |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C9                  C_SMT_X7R_0805-10000680,0.1UF,B 
+ C10                 C_SMT_X7R_0805-10000680,0.1UF,B 
+ D11                 D_SMT_SCHOTTKY_SOD-123-1000491B 
+ D12                 D_SMT_SIGNAL_1A3C_SOT-23-10004B 
+ R21                 R_SMT_0805-10006514,100K,TF-SMB 
+ R22                 R_SMT_0805-10006506,47K,TF-SMTB 
+ R23                 R_SMT_0805-10006514,100K,TF-SMB 
+ R24                 R_SMT_0805-10006466,1.0K,TF-SMB 
+ U2                  U_LM324_SERIES_SO14-10019427,LB 
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   3  |
+|------------------------------------------------------------------------------|
+|  D:.../worklib/ed1/physical/edpcb_lcd_moved_down_enlarged_for_pt10_05.brd    |
+|                                                    Thu Jul 12 14:47:08 2012  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to board drawing                                       |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C9.2                           PHYS_PAGE      1
+ C9.2                           PRIM_FILE      //applpark/technology/Electronics/InProcess/tools/npielect/GE_Library_16/Components/c_capacitor/c_smt/chips/chips.prt
+ C9.2                           TYPE           X7R
+ C9.2                           VOLT           16V
+ C10.2                          PHYS_PAGE      1
+ C10.2                          PRIM_FILE      //applpark/technology/Electronics/InProcess/tools/npielect/GE_Library_16/Components/c_capacitor/c_smt/chips/chips.prt
+ C10.2                          TYPE           X7R
+ C10.2                          VOLT           16V
+ D11.C                          IF             500MA
+ D11.C                          PHYS_PAGE      1
+ D11.C                          PRIM_FILE      //applpark/technology/Electronics/InProcess/tools/npielect/GE_Library_16/Components/d_diode/d_smt_schottky/chips/chips.prt
+ D11.C                          TYPE           SCHOTTKY
+ D11.C                          VRRM           30V
+ D12.3                          IF             200MA
+ D12.3                          PHYS_PAGE      1
+ D12.3                          PRIM_FILE      //applpark/technology/Electronics/InProcess/tools/npielect/GE_Library_16/Components/d_diode/d_smt_signal/chips/chips.prt
+ D12.3                          TYPE           SIGNAL-3PIN
+ D12.3                          VRRM           75V
+ R21.2                          PHYS_PAGE      1
+ R21.2                          PRIM_FILE      //applpark/technology/Electronics/InProcess/tools/npielect/GE_Library_16/Components/r_resistor/r_smt/chips/chips.prt
+ R21.2                          TYPE           TF-SMT0805
+ R21.2                          WATTAGE        1/8W
+ R22.2                          PHYS_PAGE      1
+ R22.2                          PRIM_FILE      //applpark/technology/Electronics/InProcess/tools/npielect/GE_Library_16/Components/r_resistor/r_smt/chips/chips.prt
+ R22.2                          TYPE           TF-SMT0805
+ R22.2                          WATTAGE        1/8W
+ R23.2                          PHYS_PAGE      1
+ R23.2                          PRIM_FILE      //applpark/technology/Electronics/InProcess/tools/npielect/GE_Library_16/Components/r_resistor/r_smt/chips/chips.prt
+ R23.2                          TYPE           TF-SMT0805
+ R23.2                          WATTAGE        1/8W
+ R24.2                          PHYS_PAGE      1
+ R24.2                          PRIM_FILE      //applpark/technology/Electronics/InProcess/tools/npielect/GE_Library_16/Components/r_resistor/r_smt/chips/chips.prt
+ R24.2                          TYPE           TF-SMT0805
+ R24.2                          WATTAGE        1/8W
+ U2.1                           PHYS_PAGE      1
+ U2.1                           PRIM_FILE      //applpark/technology/Electronics/InProcess/tools/npielect/GE_Library_16/Components/u_ic/u_lm324_series/chips/chips.prt
+ U2.1                           SIZE           1
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   4  |
+|------------------------------------------------------------------------------|
+|  D:.../worklib/ed1/physical/edpcb_lcd_moved_down_enlarged_for_pt10_05.brd    |
+|                                                    Thu Jul 12 14:47:08 2012  |
+|------------------------------------------------------------------------------|
+| PIN PROPERTIES added to board drawing                                        |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    pin_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C9.1                           CDS_PINID      \1\
+ C9.1                           CLOCK          False
+ C9.2                           CDS_PINID      \2\
+ C9.2                           CLOCK          False
+ C10.1                          CDS_PINID      \1\
+ C10.1                          CLOCK          False
+ C10.2                          CDS_PINID      \2\
+ C10.2                          CLOCK          False
+ D11.A                          CDS_PINID      A
+ D11.A                          CLOCK          False
+ D11.C                          CDS_PINID      C
+ D11.C                          CLOCK          False
+ D12.1                          CDS_PINID      A
+ D12.1                          CLOCK          False
+ D12.3                          CDS_PINID      C
+ D12.3                          CLOCK          False
+ R21.1                          CDS_PINID      \1\
+ R21.2                          CDS_PINID      \2\
+ R22.1                          CDS_PINID      \1\
+ R22.2                          CDS_PINID      \2\
+ R23.1                          CDS_PINID      \1\
+ R23.2                          CDS_PINID      \2\
+ R24.1                          CDS_PINID      \1\
+ R24.2                          CDS_PINID      \2\
+ U2.1                           CDS_PINID      \out\(0)
+ U2.2                           CDS_PINID      \in\(0)
+ U2.3                           CDS_PINID      IP(0)
+ U2.4                           CDS_PINID      \4\
+ U2.11                          CDS_PINID      \11\
+|------------------------------------------------------------------------------|
+|   total ECO changes reported  94                                             |
+|------------------------------------------------------------------------------|

@@ -1,0 +1,17 @@
+Information------------------------------------------------
+
+The directive "DESIGNSYNC:create_user_prop" in "D:/Misc/Misc/ED1/ed1.cpm"
+is not being honoured because of the following control settings.
+
+Directive Value at
+	cds.cpm: 
+	site.cpm:  "YES" (  "LOCK" ) 
+	system.cpm: 
+	D:/Misc/Misc/ED1/ed1.cpm: 
+	user.cpm: 
+
+The winning value for the directive "create_user_prop" is  "YES"
+read from "site.cpm"
+-----------------------------------------------------------
+
+

@@ -1,0 +1,634 @@
+FILE_TYPE = LIBRARY_PARTS;
+{ Packager-XL run on 12-Jul-2012 AT 14:45:40 }
+primitive 'C_SMT_X7R_0805-10000680,0.1UF,B';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      NO_ASSERT_CHECK='TRUE';
+      NO_DIR_CHECK='TRUE';
+      ALLOW_CONNECT='TRUE';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      NO_ASSERT_CHECK='TRUE';
+      NO_DIR_CHECK='TRUE';
+      ALLOW_CONNECT='TRUE';
+  end_pin;
+  body
+      PART_NAME='C_SMT_X7R_0805';
+      ALT_SYMBOLS='(CAPC-0805_W_PADS,CAPC-0805_HD)';
+      BODY_NAME='C_SMT';
+      JEDEC_TYPE='CAPC-0805_W';
+      PHYS_DES_PREFIX='C';
+      CLASS='IC';
+      MFR_1='Compostar';
+      MFR_1_PN='CC0805X104M1OB';
+      MFR_1_SPEC='http://a35as03applge.appl.ge.com/Part_Data_Sheets/Compostar/C_~
+SMT-Compostar_CCX7R_CCNPO.pdf';
+      MFR_2='Vishay';
+      MFR_2_PN='VJ0805Y104MXJ';
+      MFR_2_SPEC='http://a35as03applge.appl.ge.com/Part_Data_Sheets/Vishay/C_SMT~
+-Vishay_VJX7R.pdf';
+      MFR_3='KOA';
+      MFR_3_PN='X7R0805CTxx104M';
+      MFR_3_SPEC='http://a35as03applge.appl.ge.com/Part_Data_Sheets/KOA/C_SMT-KO~
+A_X7R_NPO.pdf';
+      MFR_4='AVX';
+      MFR_4_PN='0805YC104MAT';
+      MFR_4_SPEC='http://a35as03applge.appl.ge.com/Part_Data_Sheets/AVX/C_SMT-AV~
+X_X7R.pdf';
+      MFR_5='Yageo';
+      MFR_5_PN='CC0805M_X7R7BB104';
+      MFR_5_SPEC='http://a35as03applge.appl.ge.com/Part_Data_Sheets/Yageo/C_SMT-~
+Yageo_MLCCX7R_MLCCNPO.pdf';
+      DESCRIPTION='CAP, SMT0805, 0.1uF 16V 20% X7R';
+      MATERIALS_OF_CONCERN='No';
+      STATUS='Validated';
+      VALUE='0.1UF';
+      PART_NUMBER='10000680';
+      PARENT_PART_TYPE='C_SMT_X7R_0805';
+      SCH_MODIFIED_PART='TRUE';
+      PARENT_PPT='C_SMT_X7R_0805';
+      PARENT_PPT_PART='C_SMT_X7R_0805-10000680,0.1UF,X7R,16V,20%,CAPC-0805_W';
+  end_body;
+end_primitive;
+primitive 'D_SMT_SCHOTTKY_SOD-123-1000491B';
+  pin
+    'C':
+      PIN_NUMBER='(C)';
+      PINUSE='UNSPEC';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      NO_ASSERT_CHECK='TRUE';
+      NO_DIR_CHECK='TRUE';
+      ALLOW_CONNECT='TRUE';
+    'A':
+      PIN_NUMBER='(A)';
+      PINUSE='UNSPEC';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      NO_ASSERT_CHECK='TRUE';
+      NO_DIR_CHECK='TRUE';
+      ALLOW_CONNECT='TRUE';
+  end_pin;
+  body
+      PART_NAME='D_SMT_SCHOTTKY_SOD-123';
+      ALT_SYMBOLS='(SOD-123_IPCN,SOD-123_HD)';
+      BODY_NAME='D_SMT_SCHOTTKY';
+      JEDEC_TYPE='SOD-123_W';
+      PHYS_DES_PREFIX='D';
+      CLASS='IC';
+      MFR_1='Diodes';
+      MFR_1_PN='B0530W';
+      MFR_1_SPEC='http://a35as03applge.appl.ge.com/Part_Data_Sheets/Diodes/D_SCH~
+OTTKY-Diodes_B0530W_SOD-123.pdf';
+      MFR_2='Fairchild';
+      MFR_2_PN='MBR0530';
+      MFR_2_SPEC='http://a35as03applge.appl.ge.com/Part_Data_Sheets/Fairchild/D_~
+SCHOTTKY-Fairchild_MBR0530_SOD-123.pdf';
+      MFR_3='OnSemi';
+      MFR_3_PN='MBR0530LT1G ';
+      MFR_3_SPEC='http://a35as03applge.appl.ge.com/Part_Data_Sheets/OnSemi/D_SCH~
+OTTKY-OnSemi_MBR0530_SOD-123.pdf';
+      MFR_4='Vishay';
+      MFR_4_PN='MBR0530PbF';
+      MFR_4_SPEC='http://a35as03applge.appl.ge.com/Part_Data_Sheets/Vishay/D_SCH~
+OTTKY-Vishay_IR_MBR0530_SOD-123.pdf';
+      MFR_5=' ';
+      MFR_5_PN=' ';
+      MFR_5_SPEC=' ';
+      DESCRIPTION='DIODE, Schottky, 30V 500mA SOD-123';
+      MATERIALS_OF_CONCERN='No';
+      STATUS='Validated';
+      PART_NUMBER='10004915';
+      VALUE='MBR0530';
+      PARENT_PART_TYPE='D_SMT_SCHOTTKY_SOD-123';
+      SCH_MODIFIED_PART='TRUE';
+      PARENT_PPT='D_SMT_SCHOTTKY_SOD-123';
+      PARENT_PPT_PART='D_SMT_SCHOTTKY_SOD-123-10004915,MBR0530,SCHOTTKY,30V,500MA,SOD-123_W';
+  end_body;
+end_primitive;
+primitive 'D_SMT_SIGNAL_1A3C_SOT-23-10004B';
+  pin
+    'C':
+      PIN_NUMBER='(3)';
+      PINUSE='UNSPEC';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      NO_ASSERT_CHECK='TRUE';
+      NO_DIR_CHECK='TRUE';
+      ALLOW_CONNECT='TRUE';
+    'A':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      NO_ASSERT_CHECK='TRUE';
+      NO_DIR_CHECK='TRUE';
+      ALLOW_CONNECT='TRUE';
+  end_pin;
+  body
+      PART_NAME='D_SMT_SIGNAL_1A3C_SOT-23';
+      ALT_SYMBOLS='(SOT-23_IPCN,SOT-23W,SOT-23_HD)';
+      BODY_NAME='D_SMT_SIGNAL';
+      JEDEC_TYPE='SOT-23_W';
+      PHYS_DES_PREFIX='D';
+      CLASS='IC';
+      NC_PINS='(2)';
+      MFR_1='Diodes';
+      MFR_1_PN='MMBD4148-7-F';
+      MFR_1_SPEC='http://a35as03applge.appl.ge.com/Part_Data_Sheets/Diodes/D_SIG~
+NAL-Diodes_MMBD4148_SOT-23.pdf';
+      MFR_2='Fairchild';
+      MFR_2_PN='MMBD4148';
+      MFR_2_SPEC='http://a35as03applge.appl.ge.com/Part_Data_Sheets/Fairchild/D_~
+SIGNAL-Fairchild_MMBD4148_SOT-23.pdf';
+      MFR_3='OnSemi';
+      MFR_3_PN='BAS16LT3G';
+      MFR_3_SPEC='http://a35as03applge.appl.ge.com/Part_Data_Sheets/OnSemi/D_SIG~
+NAL-OnSemi_BAS16_SOT-23.pdf';
+      MFR_4=' ';
+      MFR_4_PN=' ';
+      MFR_4_SPEC=' ';
+      MFR_5='Philips';
+      MFR_5_PN='BAS16';
+      MFR_5_SPEC='http://a35as03applge.appl.ge.com/Part_Data_Sheets/Philips/D_SI~
+GNAL-Philips_BAS16_SOT-23.pdf';
+      DESCRIPTION='DIODE, Signal-3pin, 75V 200mA SOT-23';
+      MATERIALS_OF_CONCERN='No';
+      STATUS='Validated';
+      PART_NUMBER='10004947';
+      VALUE='MMBD4148';
+      PARENT_PART_TYPE='D_SMT_SIGNAL_1A3C_SOT-23';
+      SCH_MODIFIED_PART='TRUE';
+      PARENT_PPT='D_SMT_SIGNAL_1A3C_SOT-23';
+      PARENT_PPT_PART='D_SMT_SIGNAL_1A3C_SOT-23-10004947,MMBD4148,SIGNAL-3PIN,75V,200MA,SOT-23_W';
+  end_body;
+end_primitive;
+primitive 'D_TH_SIGNAL_DO-35-10004927,1N4B';
+  pin
+    'C':
+      PIN_NUMBER='(C)';
+      PINUSE='UNSPEC';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      NO_ASSERT_CHECK='TRUE';
+      NO_DIR_CHECK='TRUE';
+      ALLOW_CONNECT='TRUE';
+    'A':
+      PIN_NUMBER='(A)';
+      PINUSE='UNSPEC';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      NO_ASSERT_CHECK='TRUE';
+      NO_DIR_CHECK='TRUE';
+      ALLOW_CONNECT='TRUE';
+  end_pin;
+  body
+      PART_NAME='D_TH_SIGNAL_DO-35';
+      ALT_SYMBOLS='(DO-35_10,DO-35_10MM-2)';
+      BODY_NAME='D_TH_SIGNAL';
+      JEDEC_TYPE='DO-35_7P5';
+      PHYS_DES_PREFIX='D';
+      CLASS='IC';
+      MFR_1='Diodes';
+      MFR_1_PN='1N4148';
+      MFR_1_SPEC='http://a35as03applge.appl.ge.com/Part_Data_Sheets/Diodes/D_SIG~
+NAL-Diodes_1N4148-1N4448_DO-35.pdf';
+      MFR_2='Fairchild';
+      MFR_2_PN='1N4148';
+      MFR_2_SPEC='http://a35as03applge.appl.ge.com/Part_Data_Sheets/Fairchild/D_~
+SIGNAL-Fairchild_1N4148-1N4448_DO-35.pdf';
+      MFR_3=' ';
+      MFR_3_PN=' ';
+      MFR_3_SPEC=' ';
+      MFR_4='Vishay';
+      MFR_4_PN='1N4148';
+      MFR_4_SPEC='http://a35as03applge.appl.ge.com/Part_Data_Sheets/Vishay/D_SIG~
+NAL-Vishay_1N4148_DO-35.pdf';
+      MFR_5='Philips';
+      MFR_5_PN='1N4148';
+      MFR_5_SPEC='http://a35as03applge.appl.ge.com/Part_Data_Sheets/Philips/D_SI~
+GNAL-Philips_1N4148-1N4448_DO-35.pdf';
+      DESCRIPTION='DIODE, Signal, 75V 150mA DO-35';
+      MATERIALS_OF_CONCERN='No';
+      STATUS='Validated';
+      PART_NUMBER='10004927';
+      VALUE='1N4148';
+      PARENT_PART_TYPE='D_TH_SIGNAL_DO-35';
+      SCH_MODIFIED_PART='TRUE';
+      PARENT_PPT='D_TH_SIGNAL_DO-35';
+      PARENT_PPT_PART='D_TH_SIGNAL_DO-35-10004927,1N4148,SIGNAL,75V,150MA,DO-35_7P5';
+  end_body;
+end_primitive;
+primitive 'J_4_RT_TYCO_3_647048_4-1001723B';
+  pin
+    '3':
+      PIN_NUMBER='(3)';
+      PINUSE='UNSPEC';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      NO_ASSERT_CHECK='TRUE';
+      NO_DIR_CHECK='TRUE';
+      ALLOW_CONNECT='TRUE';
+    '4':
+      PIN_NUMBER='(4)';
+      PINUSE='UNSPEC';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      NO_ASSERT_CHECK='TRUE';
+      NO_DIR_CHECK='TRUE';
+      ALLOW_CONNECT='TRUE';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      NO_ASSERT_CHECK='TRUE';
+      NO_DIR_CHECK='TRUE';
+      ALLOW_CONNECT='TRUE';
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      NO_ASSERT_CHECK='TRUE';
+      NO_DIR_CHECK='TRUE';
+      ALLOW_CONNECT='TRUE';
+  end_pin;
+  body
+      PART_NAME='J_4_RT_TYCO_3_647048_4';
+      BODY_NAME='J_4_RT';
+      JEDEC_TYPE='CONN-TYCO-4PIN-100MIL-RT';
+      PHYS_DES_PREFIX='J';
+      CLASS='IC';
+      MFR_1='TYCO';
+      MFR_1_PN='3-647048-4';
+      MFR_1_SPEC='HTTP://A35AS03APPLGE.APPL.GE.COM/PART_DATA_SHEETS/TYCO/647048.~
+PDF';
+      DESCRIPTION='CONN, HDR, 4POS, 0.100", RA';
+      MATERIALS_OF_CONCERN='NO';
+      STATUS='VALIDATED';
+      PART_NUMBER='10017233';
+      VALUE='3-647048-4';
+      PARENT_PART_TYPE='J_4_RT_TYCO_3_647048_4';
+      SCH_MODIFIED_PART='TRUE';
+      PARENT_PPT='J_4_RT_TYCO_3_647048_4';
+      PARENT_PPT_PART='J_4_RT_TYCO_3_647048_4-10017233,3-647048-4,CONN-TYCO-4PIN-100MIL-RT';
+  end_body;
+end_primitive;
+primitive 'J_5_RT_AMP_640457-10017317,640B';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      NO_ASSERT_CHECK='TRUE';
+      NO_DIR_CHECK='TRUE';
+      ALLOW_CONNECT='TRUE';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      NO_ASSERT_CHECK='TRUE';
+      NO_DIR_CHECK='TRUE';
+      ALLOW_CONNECT='TRUE';
+    '3':
+      PIN_NUMBER='(3)';
+      PINUSE='UNSPEC';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      NO_ASSERT_CHECK='TRUE';
+      NO_DIR_CHECK='TRUE';
+      ALLOW_CONNECT='TRUE';
+    '4':
+      PIN_NUMBER='(4)';
+      PINUSE='UNSPEC';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      NO_ASSERT_CHECK='TRUE';
+      NO_DIR_CHECK='TRUE';
+      ALLOW_CONNECT='TRUE';
+    '5':
+      PIN_NUMBER='(5)';
+      PINUSE='UNSPEC';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      NO_ASSERT_CHECK='TRUE';
+      NO_DIR_CHECK='TRUE';
+      ALLOW_CONNECT='TRUE';
+  end_pin;
+  body
+      PART_NAME='J_5_RT_AMP_640457';
+      BODY_NAME='J_5_RT';
+      JEDEC_TYPE='CONN-TYCO-5PIN-100MIL-RT';
+      PHYS_DES_PREFIX='J';
+      CLASS='IC';
+      MFR_1='AMP';
+      MFR_1_PN='640457-5';
+      MFR_1_SPEC='http://a35as03applge.appl.ge.com/part_data_sheets/amp/amp_6404~
+57.pdf';
+      DESCRIPTION='CONN,HDR,5POS,0.100",RA';
+      MATERIALS_OF_CONCERN='No';
+      STATUS='VALIDATED';
+      PART_NUMBER='10017317';
+      VALUE='640457-5';
+      PARENT_PART_TYPE='J_5_RT_AMP_640457';
+      SCH_MODIFIED_PART='TRUE';
+      PARENT_PPT='J_5_RT_AMP_640457';
+      PARENT_PPT_PART='J_5_RT_AMP_640457-10017317,640457-5,CONN-TYCO-5PIN-100MIL-RT';
+  end_body;
+end_primitive;
+primitive 'R_SMT_0805-10006466,1.0K,TF-SMB';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      NO_ASSERT_CHECK='TRUE';
+      NO_DIR_CHECK='TRUE';
+      ALLOW_CONNECT='TRUE';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      NO_ASSERT_CHECK='TRUE';
+      NO_DIR_CHECK='TRUE';
+      ALLOW_CONNECT='TRUE';
+  end_pin;
+  body
+      PART_NAME='R_SMT_0805';
+      ALT_SYMBOLS='(RESC-0805_W_PADS,RESC-0805_HD)';
+      BODY_NAME='R_SMT';
+      JEDEC_TYPE='RESC-0805_W';
+      PHYS_DES_PREFIX='R';
+      CLASS='IC';
+      MFR_1='Compostar';
+      MFR_1_PN='CR05102J00';
+      MFR_1_SPEC='http://a35as03applge.appl.ge.com/Part_Data_Sheets/Compostar/R_~
+SMT-Compostar_CR.pdf';
+      MFR_2='Vishay';
+      MFR_2_PN='CRCW0805102J';
+      MFR_2_SPEC='http://a35as03applge.appl.ge.com/Part_Data_Sheets/Vishay/R_SMT~
+-Vishay_CRCW.pdf';
+      MFR_3='Yageo';
+      MFR_3_PN='RC0805JR-xx1K0L';
+      MFR_3_SPEC='http://a35as03applge.appl.ge.com/Part_Data_Sheets/Yageo/R_SMT-~
+Yageo_RC0805.pdf';
+      MFR_4='KOA';
+      MFR_4_PN='RK73B2ATxx102J';
+      MFR_4_SPEC='http://a35as03applge.appl.ge.com/Part_Data_Sheets/KOA/R_SMT-KO~
+A_RK73B.pdf';
+      MFR_5='NIC';
+      MFR_5_PN='NRC10J102xxF';
+      MFR_5_SPEC='http://a35as03applge.appl.ge.com/Part_Data_Sheets/NIC/R_SMT-NI~
+C_NRC.pdf';
+      DESCRIPTION='RES, TF-SMT0805, 1.0K Ohm 5% 1/8W';
+      MATERIALS_OF_CONCERN='No';
+      STATUS='Validated';
+      VALUE='1.0K';
+      PART_NUMBER='10006466';
+      PARENT_PART_TYPE='R_SMT_0805';
+      SCH_MODIFIED_PART='TRUE';
+      PARENT_PPT='R_SMT_0805';
+      PARENT_PPT_PART='R_SMT_0805-10006466,1.0K,TF-SMT0805,1/8W,5%,RESC-0805_W';
+  end_body;
+end_primitive;
+primitive 'R_SMT_0805-10006506,47K,TF-SMTB';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      NO_ASSERT_CHECK='TRUE';
+      NO_DIR_CHECK='TRUE';
+      ALLOW_CONNECT='TRUE';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      NO_ASSERT_CHECK='TRUE';
+      NO_DIR_CHECK='TRUE';
+      ALLOW_CONNECT='TRUE';
+  end_pin;
+  body
+      PART_NAME='R_SMT_0805';
+      ALT_SYMBOLS='(RESC-0805_W_PADS,RESC-0805_HD)';
+      BODY_NAME='R_SMT';
+      JEDEC_TYPE='RESC-0805_W';
+      PHYS_DES_PREFIX='R';
+      CLASS='IC';
+      MFR_1='Compostar';
+      MFR_1_PN='CR05473J00';
+      MFR_1_SPEC='http://a35as03applge.appl.ge.com/Part_Data_Sheets/Compostar/R_~
+SMT-Compostar_CR.pdf';
+      MFR_2='Vishay';
+      MFR_2_PN='CRCW0805473J';
+      MFR_2_SPEC='http://a35as03applge.appl.ge.com/Part_Data_Sheets/Vishay/R_SMT~
+-Vishay_CRCW.pdf';
+      MFR_3='Yageo';
+      MFR_3_PN='RC0805JR-xx47KL';
+      MFR_3_SPEC='http://a35as03applge.appl.ge.com/Part_Data_Sheets/Yageo/R_SMT-~
+Yageo_RC0805.pdf';
+      MFR_4='KOA';
+      MFR_4_PN='RK73B2ATxx473J';
+      MFR_4_SPEC='http://a35as03applge.appl.ge.com/Part_Data_Sheets/KOA/R_SMT-KO~
+A_RK73B.pdf';
+      MFR_5='NIC';
+      MFR_5_PN='NRC10J473xxF';
+      MFR_5_SPEC='http://a35as03applge.appl.ge.com/Part_Data_Sheets/NIC/R_SMT-NI~
+C_NRC.pdf';
+      DESCRIPTION='RES, TF-SMT0805, 47K Ohm 5% 1/8W';
+      MATERIALS_OF_CONCERN='No';
+      STATUS='Validated';
+      PART_NUMBER='10006506';
+      VALUE='47K';
+      PARENT_PART_TYPE='R_SMT_0805';
+      SCH_MODIFIED_PART='TRUE';
+      PARENT_PPT='R_SMT_0805';
+      PARENT_PPT_PART='R_SMT_0805-10006506,47K,TF-SMT0805,1/8W,5%,RESC-0805_W';
+  end_body;
+end_primitive;
+primitive 'R_SMT_0805-10006514,100K,TF-SMB';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      NO_ASSERT_CHECK='TRUE';
+      NO_DIR_CHECK='TRUE';
+      ALLOW_CONNECT='TRUE';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      NO_ASSERT_CHECK='TRUE';
+      NO_DIR_CHECK='TRUE';
+      ALLOW_CONNECT='TRUE';
+  end_pin;
+  body
+      PART_NAME='R_SMT_0805';
+      ALT_SYMBOLS='(RESC-0805_W_PADS,RESC-0805_HD)';
+      BODY_NAME='R_SMT';
+      JEDEC_TYPE='RESC-0805_W';
+      PHYS_DES_PREFIX='R';
+      CLASS='IC';
+      MFR_1='Compostar';
+      MFR_1_PN='CR05104J00';
+      MFR_1_SPEC='http://a35as03applge.appl.ge.com/Part_Data_Sheets/Compostar/R_~
+SMT-Compostar_CR.pdf';
+      MFR_2='Vishay';
+      MFR_2_PN='CRCW0805104J';
+      MFR_2_SPEC='http://a35as03applge.appl.ge.com/Part_Data_Sheets/Vishay/R_SMT~
+-Vishay_CRCW.pdf';
+      MFR_3='Yageo';
+      MFR_3_PN='RC0805JR-xx100KL';
+      MFR_3_SPEC='http://a35as03applge.appl.ge.com/Part_Data_Sheets/Yageo/R_SMT-~
+Yageo_RC0805.pdf';
+      MFR_4='KOA';
+      MFR_4_PN='RK73B2ATxx104J';
+      MFR_4_SPEC='http://a35as03applge.appl.ge.com/Part_Data_Sheets/KOA/R_SMT-KO~
+A_RK73B.pdf';
+      MFR_5='NIC';
+      MFR_5_PN='NRC10J104xxF';
+      MFR_5_SPEC='http://a35as03applge.appl.ge.com/Part_Data_Sheets/NIC/R_SMT-NI~
+C_NRC.pdf';
+      DESCRIPTION='RES, TF-SMT0805, 100K Ohm 5% 1/8W';
+      MATERIALS_OF_CONCERN='No';
+      STATUS='Validated';
+      PART_NUMBER='10006514';
+      VALUE='100K';
+      PARENT_PART_TYPE='R_SMT_0805';
+      SCH_MODIFIED_PART='TRUE';
+      PARENT_PPT='R_SMT_0805';
+      PARENT_PPT_PART='R_SMT_0805-10006514,100K,TF-SMT0805,1/8W,5%,RESC-0805_W';
+  end_body;
+end_primitive;
+primitive 'R_TH_CARBON_1_4W-10013752,330,B';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PIN_TYPE='ANALOG';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      ALLOW_CONNECT='TRUE';
+    '2':
+      PIN_NUMBER='(2)';
+      PIN_TYPE='ANALOG';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      ALLOW_CONNECT='TRUE';
+  end_pin;
+  body
+      PART_NAME='R_TH_CARBON_1_4W';
+      ALT_SYMBOLS='(RES_15_3D_0P9H,RES_5_3D_0P9H_V1,RES_5_3D_0P9H_V2,RES_10_3D_0~
+P9H)';
+      BODY_NAME='R_TH_CARBON';
+      JEDEC_TYPE='RES_12P5_3D_0P9H';
+      PHYS_DES_PREFIX='R';
+      CLASS='IC';
+      MFR_1='Yageo';
+      MFR_1_PN='CFR-25J330R';
+      MFR_1_SPEC='http://a35as03applge.appl.ge.com/Part_Data_Sheets/Yageo/R_TH-Y~
+ageo_all.pdf';
+      MFR_2='NIC';
+      MFR_2_PN='NCF25J331TRF';
+      MFR_2_SPEC='http://a35as03applge.appl.ge.com/Part_Data_Sheets/NIC/R_TH_Car~
+bon-NIC_NCF.pdf';
+      MFR_3='KOA';
+      MFR_3_PN='CF1/4Cxxx331J';
+      MFR_3_SPEC='http://a35as03applge.appl.ge.com/Part_Data_Sheets/KOA/R_TH_car~
+bon-KOA_CF.pdf';
+      MFR_4='HKR';
+      MFR_4_PN='CFR25330RJ';
+      MFR_4_SPEC='http://a35as03applge.appl.ge.com/Part_Data_Sheets/HKR/R_TH_car~
+bon-HKR_CF.pdf';
+      MFR_5=' ';
+      MFR_5_PN=' ';
+      MFR_5_SPEC=' ';
+      DESCRIPTION='RES, TH-Carbon, 330 Ohm 5% 1/4W';
+      MATERIALS_OF_CONCERN='No';
+      STATUS='Validated';
+      PART_NUMBER='10013752';
+      VALUE='330';
+      PARENT_PART_TYPE='R_TH_CARBON_1_4W';
+      SCH_MODIFIED_PART='TRUE';
+      PARENT_PPT='R_TH_CARBON_1_4W';
+      PARENT_PPT_PART='R_TH_CARBON_1_4W-10013752,330,CARBON,1/4W,5%,RES_12P5_3D_0P9H';
+  end_body;
+end_primitive;
+primitive 'U_LM324_SERIES_SO14-10019427,LB';
+  pin
+    'IN'<0>:
+      PIN_NUMBER='(2,6,9,13)';
+      PIN_TYPE='ANALOG';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      ALLOW_CONNECT='TRUE';
+    'IP'<0>:
+      PIN_NUMBER='(3,5,10,12)';
+      PIN_TYPE='ANALOG';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      ALLOW_CONNECT='TRUE';
+    'OUT'<0>:
+      PIN_NUMBER='(1,7,8,14)';
+      PIN_TYPE='ANALOG';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      ALLOW_CONNECT='TRUE';
+    '4':
+      PIN_NUMBER='(4,0,0,0)';
+      PINUSE='POWER';
+    '11':
+      PIN_NUMBER='(11,0,0,0)';
+      PINUSE='POWER';
+  end_pin;
+  body
+      PART_NAME='U_LM324_SERIES_SO14';
+      ALT_SYMBOLS='(SO14_WAVE,SO14_WAVE2)';
+      BODY_NAME='U_LM324_SERIES';
+      JEDEC_TYPE='SO14';
+      PHYS_DES_PREFIX='U';
+      CLASS='IC';
+      MFR_1='On Semiconductor';
+      MFR_1_PN='LM324DR2G';
+      MFR_1_SPEC='http://a35as03applge.appl.ge.com/Part_Data_Sheets/On_Semicondu~
+ctor/LM324_324A_224_2902.pdf';
+      MFR_2='Texas Instruments';
+      MFR_2_PN='LM324KDR';
+      MFR_2_SPEC='http://a35as03applge.appl.ge.com/Part_Data_Sheets/TI/LM2902_X2~
+4_X24A_KA_KV.pdf';
+      MFR_3='Fairchild';
+      MFR_3_PN='LM324M';
+      MFR_3_SPEC='http://a35as03applge.appl.ge.com/Part_Data_Sheets/Fairchild/LM~
+2902_X24_X24A.pdf';
+      MFR_4='ST';
+      MFR_4_PN='LM324D';
+      MFR_4_SPEC='http://a35as03applge.appl.ge.com/Part_Data_Sheets/ST/LM324_-_1~
+24.pdf';
+      DESCRIPTION='OPAMP,LM324,QUAD,SO14,0TO70C';
+      MATERIALS_OF_CONCERN='No';
+      STATUS='Validated';
+      PART_NUMBER='10019427';
+      VALUE='LM324D';
+      PARENT_PART_TYPE='U_LM324_SERIES_SO14';
+      SCH_MODIFIED_PART='TRUE';
+      PARENT_PPT='U_LM324_SERIES_SO14';
+      PARENT_PPT_PART='U_LM324_SERIES_SO14-10019427,LM324D,SO14';
+  end_body;
+end_primitive;
+END.

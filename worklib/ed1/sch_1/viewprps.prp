@@ -1,0 +1,4799 @@
+(PropertyFile "1.0" 
+ (Creator " HDL Direct 16.3-S021 (v16-3-85AK) 12/6/2010" )
+ (Created "Thu Jul 12 16:26:58 2012" )
+ (Cell "ed1" 
+  (View "sch_1" 
+   (Sig "page1_VCC" 
+    (Pr 
+     ("VOLTAGE" "VCC" )))
+   (Sig "page1_VCC" 
+    (Pr 
+     ("VOLTAGE" "VCC" )))
+   (Sig "page1_VCC" 
+    (Pr 
+     ("VOLTAGE" "VCC" )))
+   (Sig "page1_VCC" 
+    (Pr 
+     ("VOLTAGE" "VCC" )))
+   (Inst "page1_I1" 
+    (Pr 
+     ("NEEDS_NO_SIZE" "True" )
+     ("CDS_LMAN_SYM_OUTLINE" "-75,25,75,-25" )
+     ("CDS_LIB" "r_resistor" )
+     ("VALUE" "330" )
+     ("PART_NAME" "R_TH_CARBON_1_4W" )
+     ("\\type\\" "CARBON" )
+     ("JEDEC_TYPE" "RES_12P5_3D_0P9H" )
+     ("MFR_4_SPEC" "http://a35as03applge.appl.ge.com/Part_Data_Sheets/HKR/R_TH_carbon-HKR_CF.pdf" )
+     ("MFR_4_PN" "CFR25330RJ" )
+     ("MFR_4" "HKR" )
+     ("MFR_3_SPEC" "http://a35as03applge.appl.ge.com/Part_Data_Sheets/KOA/R_TH_carbon-KOA_CF.pdf" )
+     ("MFR_3_PN" "CF1/4CXXX331J" )
+     ("MFR_3" "KOA" )
+     ("MFR_2_SPEC" "http://a35as03applge.appl.ge.com/Part_Data_Sheets/NIC/R_TH_Carbon-NIC_NCF.pdf" )
+     ("MFR_2_PN" "NCF25J331TRF" )
+     ("MFR_2" "NIC" )
+     ("MFR_1_SPEC" "http://a35as03applge.appl.ge.com/Part_Data_Sheets/Yageo/R_TH-Yageo_all.pdf" )
+     ("MFR_1_PN" "CFR-25J330R" )
+     ("MFR_1" "YAGEO" )
+     ("WATTAGE" "1/4W" )
+     ("TOL" "5%" )
+     ("PART_NUMBER" "10013752" )
+     ("CDS_SEC" "1" )
+     ("\\$sec\\" "1" )
+     ("CDS_LOCATION" "R2" )
+     ("\\$location\\" "R2" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(2075,2575)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$wattage\\" "?" )
+      ("\\$pn\\" "1" ))))
+   (Inst "page1_I2" 
+    (Pr 
+     ("NEEDS_NO_SIZE" "True" )
+     ("CDS_LMAN_SYM_OUTLINE" "-75,25,75,-25" )
+     ("CDS_LIB" "r_resistor" )
+     ("VALUE" "330" )
+     ("PART_NAME" "R_TH_CARBON_1_4W" )
+     ("\\type\\" "CARBON" )
+     ("JEDEC_TYPE" "RES_12P5_3D_0P9H" )
+     ("MFR_4_SPEC" "http://a35as03applge.appl.ge.com/Part_Data_Sheets/HKR/R_TH_carbon-HKR_CF.pdf" )
+     ("MFR_4_PN" "CFR25330RJ" )
+     ("MFR_4" "HKR" )
+     ("MFR_3_SPEC" "http://a35as03applge.appl.ge.com/Part_Data_Sheets/KOA/R_TH_carbon-KOA_CF.pdf" )
+     ("MFR_3_PN" "CF1/4CXXX331J" )
+     ("MFR_3" "KOA" )
+     ("MFR_2_SPEC" "http://a35as03applge.appl.ge.com/Part_Data_Sheets/NIC/R_TH_Carbon-NIC_NCF.pdf" )
+     ("MFR_2_PN" "NCF25J331TRF" )
+     ("MFR_2" "NIC" )
+     ("MFR_1_SPEC" "http://a35as03applge.appl.ge.com/Part_Data_Sheets/Yageo/R_TH-Yageo_all.pdf" )
+     ("MFR_1_PN" "CFR-25J330R" )
+     ("MFR_1" "YAGEO" )
+     ("WATTAGE" "1/4W" )
+     ("TOL" "5%" )
+     ("PART_NUMBER" "10013752" )
+     ("CDS_SEC" "1" )
+     ("\\$sec\\" "1" )
+     ("CDS_LOCATION" "R4" )
+     ("\\$location\\" "R4" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(2075,2375)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$wattage\\" "?" )
+      ("\\$pn\\" "1" ))))
+   (Inst "page1_I3" 
+    (Pr 
+     ("NEEDS_NO_SIZE" "True" )
+     ("CDS_LMAN_SYM_OUTLINE" "-75,25,75,-25" )
+     ("CDS_LIB" "r_resistor" )
+     ("VALUE" "330" )
+     ("PART_NAME" "R_TH_CARBON_1_4W" )
+     ("\\type\\" "CARBON" )
+     ("JEDEC_TYPE" "RES_12P5_3D_0P9H" )
+     ("MFR_1" "YAGEO" )
+     ("MFR_1_PN" "CFR-25J330R" )
+     ("MFR_1_SPEC" "http://a35as03applge.appl.ge.com/Part_Data_Sheets/Yageo/R_TH-Yageo_all.pdf" )
+     ("MFR_2" "NIC" )
+     ("MFR_2_PN" "NCF25J331TRF" )
+     ("MFR_2_SPEC" "http://a35as03applge.appl.ge.com/Part_Data_Sheets/NIC/R_TH_Carbon-NIC_NCF.pdf" )
+     ("MFR_3" "KOA" )
+     ("MFR_3_PN" "CF1/4CXXX331J" )
+     ("MFR_3_SPEC" "http://a35as03applge.appl.ge.com/Part_Data_Sheets/KOA/R_TH_carbon-KOA_CF.pdf" )
+     ("MFR_4" "HKR" )
+     ("MFR_4_PN" "CFR25330RJ" )
+     ("MFR_4_SPEC" "http://a35as03applge.appl.ge.com/Part_Data_Sheets/HKR/R_TH_carbon-HKR_CF.pdf" )
+     ("WATTAGE" "1/4W" )
+     ("TOL" "5%" )
+     ("PART_NUMBER" "10013752" )
+     ("CDS_SEC" "1" )
+     ("\\$sec\\" "1" )
+     ("CDS_LOCATION" "R1" )
+     ("\\$location\\" "R1" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(2075,2175)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$wattage\\" "?" )
+      ("\\$pn\\" "1" ))))
+   (Inst "page1_I4" 
+    (Pr 
+     ("VALUE" "330" )
+     ("NEEDS_NO_SIZE" "True" )
+     ("CDS_LMAN_SYM_OUTLINE" "-75,25,75,-25" )
+     ("CDS_LIB" "r_resistor" )
+     ("PART_NAME" "R_TH_CARBON_1_4W" )
+     ("\\type\\" "CARBON" )
+     ("JEDEC_TYPE" "RES_12P5_3D_0P9H" )
+     ("MFR_1" "YAGEO" )
+     ("MFR_1_PN" "CFR-25J330R" )
+     ("MFR_1_SPEC" "http://a35as03applge.appl.ge.com/Part_Data_Sheets/Yageo/R_TH-Yageo_all.pdf" )
+     ("MFR_2" "NIC" )
+     ("MFR_2_PN" "NCF25J331TRF" )
+     ("MFR_2_SPEC" "http://a35as03applge.appl.ge.com/Part_Data_Sheets/NIC/R_TH_Carbon-NIC_NCF.pdf" )
+     ("MFR_3" "KOA" )
+     ("MFR_3_PN" "CF1/4CXXX331J" )
+     ("MFR_3_SPEC" "http://a35as03applge.appl.ge.com/Part_Data_Sheets/KOA/R_TH_carbon-KOA_CF.pdf" )
+     ("MFR_4" "HKR" )
+     ("MFR_4_PN" "CFR25330RJ" )
+     ("MFR_4_SPEC" "http://a35as03applge.appl.ge.com/Part_Data_Sheets/HKR/R_TH_carbon-HKR_CF.pdf" )
+     ("WATTAGE" "1/4W" )
+     ("TOL" "5%" )
+     ("PART_NUMBER" "10013752" )
+     ("CDS_SEC" "1" )
+     ("\\$sec\\" "1" )
+     ("CDS_LOCATION" "R3" )
+     ("\\$location\\" "R3" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(2075,1975)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$wattage\\" "?" )
+      ("\\$pn\\" "1" ))))
+   (Inst "page1_I6" 
+    (Pr 
+     ("\\$alt_symbols\\" "?" )
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("CDS_LMAN_SYM_OUTLINE" "-50,50,50,-50" )
+     ("CDS_LIB" "d_diode" )
+     ("\\if\\" "150MA" )
+     ("VALUE" "1N4148" )
+     ("PART_NAME" "D_TH_SIGNAL_DO-35" )
+     ("\\type\\" "SIGNAL" )
+     ("VRRM" "75V" )
+     ("JEDEC_TYPE" "DO-35_7P5" )
+     ("MFR_5_SPEC" "http://a35as03applge.appl.ge.com/Part_Data_Sheets/Philips/D_SIGNAL-Philips_1N4148-1N4448_DO-35.pdf" )
+     ("MFR_5_PN" "1N4148" )
+     ("MFR_5" "PHILIPS" )
+     ("MFR_4_SPEC" "http://a35as03applge.appl.ge.com/Part_Data_Sheets/Vishay/D_SIGNAL-Vishay_1N4148_DO-35.pdf" )
+     ("MFR_4_PN" "1N4148" )
+     ("MFR_4" "VISHAY" )
+     ("MFR_2_SPEC" "http://a35as03applge.appl.ge.com/Part_Data_Sheets/Fairchild/D_SIGNAL-Fairchild_1N4148-1N4448_DO-35.pdf" )
+     ("MFR_2_PN" "1N4148" )
+     ("MFR_2" "FAIRCHILD" )
+     ("MFR_1_SPEC" "http://a35as03applge.appl.ge.com/Part_Data_Sheets/Diodes/D_SIGNAL-Diodes_1N4148-1N4448_DO-35.pdf" )
+     ("MFR_1_PN" "1N4148" )
+     ("MFR_1" "DIODES" )
+     ("PART_NUMBER" "10004927" )
+     ("CDS_SEC" "1" )
+     ("\\$sec\\" "1" )
+     ("CDS_LOCATION" "D1" )
+     ("\\$location\\" "D1" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(1025,800)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "C" 
+     (Pr 
+      ("CLOCK" "False" )
+      ("\\$pn\\" "C" )))
+    (IPrt "A" 
+     (Pr 
+      ("CLOCK" "False" )
+      ("\\$pn\\" "A" ))))
+   (Inst "page1_I7" 
+    (Pr 
+     ("\\$alt_symbols\\" "?" )
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("CDS_LMAN_SYM_OUTLINE" "-50,50,50,-50" )
+     ("CDS_LIB" "d_diode" )
+     ("\\if\\" "150MA" )
+     ("VALUE" "1N4148" )
+     ("PART_NAME" "D_TH_SIGNAL_DO-35" )
+     ("\\type\\" "SIGNAL" )
+     ("VRRM" "75V" )
+     ("JEDEC_TYPE" "DO-35_7P5" )
+     ("MFR_5_SPEC" "http://a35as03applge.appl.ge.com/Part_Data_Sheets/Philips/D_SIGNAL-Philips_1N4148-1N4448_DO-35.pdf" )
+     ("MFR_5_PN" "1N4148" )
+     ("MFR_5" "PHILIPS" )
+     ("MFR_4_SPEC" "http://a35as03applge.appl.ge.com/Part_Data_Sheets/Vishay/D_SIGNAL-Vishay_1N4148_DO-35.pdf" )
+     ("MFR_4_PN" "1N4148" )
+     ("MFR_4" "VISHAY" )
+     ("MFR_2_SPEC" "http://a35as03applge.appl.ge.com/Part_Data_Sheets/Fairchild/D_SIGNAL-Fairchild_1N4148-1N4448_DO-35.pdf" )
+     ("MFR_2_PN" "1N4148" )
+     ("MFR_2" "FAIRCHILD" )
+     ("MFR_1_SPEC" "http://a35as03applge.appl.ge.com/Part_Data_Sheets/Diodes/D_SIGNAL-Diodes_1N4148-1N4448_DO-35.pdf" )
+     ("MFR_1_PN" "1N4148" )
+     ("MFR_1" "DIODES" )
+     ("PART_NUMBER" "10004927" )
+     ("CDS_SEC" "1" )
+     ("\\$sec\\" "1" )
+     ("CDS_LOCATION" "D2" )
+     ("\\$location\\" "D2" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(1025,1075)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "C" 
+     (Pr 
+      ("CLOCK" "False" )
+      ("\\$pn\\" "C" )))
+    (IPrt "A" 
+     (Pr 
+      ("CLOCK" "False" )
+      ("\\$pn\\" "A" ))))
+   (Inst "page1_I8" 
+    (Pr 
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("CDS_LMAN_SYM_OUTLINE" "-75,150,75,-150" )
+     ("CDS_LIB" "j_connector2fjumper" )
+     ("VALUE" "640457-5" )
+     ("PART_NAME" "J_5_RT_AMP_640457" )
+     ("JEDEC_TYPE" "CONN-TYCO-5PIN-100MIL-RT" )
+     ("MFR_1" "AMP" )
+     ("MFR_1_PN" "640457-5" )
+     ("MFR_1_SPEC" "http://a35as03applge.appl.ge.com/part_data_sheets/amp/amp_640457.pdf" )
+     ("PART_NUMBER" "10017317" )
+     ("CDS_SEC" "1" )
+     ("\\$sec\\" "1" )
+     ("CDS_LOCATION" "J3" )
+     ("\\$location\\" "J3" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(2400,1125)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "\\5\\" 
+     (Pr 
+      ("\\$pn\\" "5" )))
+    (IPrt "\\4\\" 
+     (Pr 
+      ("\\$pn\\" "4" )))
+    (IPrt "\\3\\" 
+     (Pr 
+      ("\\$pn\\" "3" )))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page1_I9" 
+    (Pr 
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("CDS_LMAN_SYM_OUTLINE" "-75,150,75,-150" )
+     ("CDS_LIB" "j_connector2fjumper" )
+     ("VALUE" "640457-5" )
+     ("PART_NAME" "J_5_RT_AMP_640457" )
+     ("JEDEC_TYPE" "CONN-TYCO-5PIN-100MIL-RT" )
+     ("MFR_1_SPEC" "http://a35as03applge.appl.ge.com/part_data_sheets/amp/amp_640457.pdf" )
+     ("MFR_1_PN" "640457-5" )
+     ("MFR_1" "AMP" )
+     ("PART_NUMBER" "10017317" )
+     ("CDS_SEC" "1" )
+     ("\\$sec\\" "1" )
+     ("CDS_LOCATION" "J4" )
+     ("\\$location\\" "J4" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(2400,700)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "\\5\\" 
+     (Pr 
+      ("\\$pn\\" "5" )))
+    (IPrt "\\4\\" 
+     (Pr 
+      ("\\$pn\\" "4" )))
+    (IPrt "\\3\\" 
+     (Pr 
+      ("\\$pn\\" "3" )))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page1_I10" 
+    (Pr 
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("CDS_LMAN_SYM_OUTLINE" "-75,150,75,-150" )
+     ("CDS_LIB" "j_connector2fjumper" )
+     ("VALUE" "640457-5" )
+     ("PART_NAME" "J_5_RT_AMP_640457" )
+     ("JEDEC_TYPE" "CONN-TYCO-5PIN-100MIL-RT" )
+     ("MFR_1_SPEC" "http://a35as03applge.appl.ge.com/part_data_sheets/amp/amp_640457.pdf" )
+     ("MFR_1_PN" "640457-5" )
+     ("MFR_1" "AMP" )
+     ("PART_NUMBER" "10017317" )
+     ("CDS_SEC" "1" )
+     ("\\$sec\\" "1" )
+     ("CDS_LOCATION" "J2" )
+     ("\\$location\\" "J2" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(2375,225)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "\\5\\" 
+     (Pr 
+      ("\\$pn\\" "5" )))
+    (IPrt "\\4\\" 
+     (Pr 
+      ("\\$pn\\" "4" )))
+    (IPrt "\\3\\" 
+     (Pr 
+      ("\\$pn\\" "3" )))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page1_I11" 
+    (Pr 
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("CDS_LMAN_SYM_OUTLINE" "-75,150,75,-150" )
+     ("CDS_LIB" "j_connector2fjumper" )
+     ("VALUE" "640457-5" )
+     ("PART_NAME" "J_5_RT_AMP_640457" )
+     ("JEDEC_TYPE" "CONN-TYCO-5PIN-100MIL-RT" )
+     ("MFR_1_SPEC" "http://a35as03applge.appl.ge.com/part_data_sheets/amp/amp_640457.pdf" )
+     ("MFR_1_PN" "640457-5" )
+     ("MFR_1" "AMP" )
+     ("PART_NUMBER" "10017317" )
+     ("CDS_SEC" "1" )
+     ("\\$sec\\" "1" )
+     ("CDS_LOCATION" "J1" )
+     ("\\$location\\" "J1" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(2350,-200)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "\\5\\" 
+     (Pr 
+      ("\\$pn\\" "5" )))
+    (IPrt "\\4\\" 
+     (Pr 
+      ("\\$pn\\" "4" )))
+    (IPrt "\\3\\" 
+     (Pr 
+      ("\\$pn\\" "3" )))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page1_I12" 
+    (Pr 
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("CDS_LMAN_SYM_OUTLINE" "-75,125,75,-125" )
+     ("CDS_LIB" "j_connector2fjumper" )
+     ("VALUE" "3-647048-4" )
+     ("PART_NAME" "J_4_RT_TYCO_3_647048_4" )
+     ("JEDEC_TYPE" "CONN-TYCO-4PIN-100MIL-RT" )
+     ("MFR_1" "TYCO" )
+     ("MFR_1_PN" "3-647048-4" )
+     ("MFR_1_SPEC" "HTTP://A35AS03APPLGE.APPL.GE.COM/PART_DATA_SHEETS/TYCO/647048.PDF" )
+     ("PART_NUMBER" "10017233" )
+     ("CDS_SEC" "1" )
+     ("\\$sec\\" "1" )
+     ("CDS_LOCATION" "J5" )
+     ("\\$location\\" "J5" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(2675,1550)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "\\4\\" 
+     (Pr 
+      ("\\$pn\\" "4" )))
+    (IPrt "\\3\\" 
+     (Pr 
+      ("\\$pn\\" "3" )))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page1_I13" 
+    (Pr 
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("CDS_LMAN_SYM_OUTLINE" "-75,150,75,-150" )
+     ("CDS_LIB" "j_connector2fjumper" )
+     ("VALUE" "640457-5" )
+     ("PART_NAME" "J_5_RT_AMP_640457" )
+     ("JEDEC_TYPE" "CONN-TYCO-5PIN-100MIL-RT" )
+     ("MFR_1_SPEC" "http://a35as03applge.appl.ge.com/part_data_sheets/amp/amp_640457.pdf" )
+     ("MFR_1_PN" "640457-5" )
+     ("MFR_1" "AMP" )
+     ("PART_NUMBER" "10017317" )
+     ("CDS_SEC" "1" )
+     ("\\$sec\\" "1" )
+     ("CDS_LOCATION" "J9" )
+     ("\\$location\\" "J9" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(3050,1125)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "\\5\\" 
+     (Pr 
+      ("\\$pn\\" "5" )))
+    (IPrt "\\4\\" 
+     (Pr 
+      ("\\$pn\\" "4" )))
+    (IPrt "\\3\\" 
+     (Pr 
+      ("\\$pn\\" "3" )))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page1_I14" 
+    (Pr 
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("CDS_LMAN_SYM_OUTLINE" "-75,150,75,-150" )
+     ("CDS_LIB" "j_connector2fjumper" )
+     ("VALUE" "640457-5" )
+     ("PART_NAME" "J_5_RT_AMP_640457" )
+     ("JEDEC_TYPE" "CONN-TYCO-5PIN-100MIL-RT" )
+     ("MFR_1" "AMP" )
+     ("MFR_1_PN" "640457-5" )
+     ("MFR_1_SPEC" "http://a35as03applge.appl.ge.com/part_data_sheets/amp/amp_640457.pdf" )
+     ("PART_NUMBER" "10017317" )
+     ("CDS_SEC" "1" )
+     ("\\$sec\\" "1" )
+     ("CDS_LOCATION" "J6" )
+     ("\\$location\\" "J6" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(3025,700)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "\\5\\" 
+     (Pr 
+      ("\\$pn\\" "5" )))
+    (IPrt "\\4\\" 
+     (Pr 
+      ("\\$pn\\" "4" )))
+    (IPrt "\\3\\" 
+     (Pr 
+      ("\\$pn\\" "3" )))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page1_I15" 
+    (Pr 
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("CDS_LMAN_SYM_OUTLINE" "-75,150,75,-150" )
+     ("CDS_LIB" "j_connector2fjumper" )
+     ("VALUE" "640457-5" )
+     ("PART_NAME" "J_5_RT_AMP_640457" )
+     ("JEDEC_TYPE" "CONN-TYCO-5PIN-100MIL-RT" )
+     ("MFR_1_SPEC" "http://a35as03applge.appl.ge.com/part_data_sheets/amp/amp_640457.pdf" )
+     ("MFR_1_PN" "640457-5" )
+     ("MFR_1" "AMP" )
+     ("PART_NUMBER" "10017317" )
+     ("CDS_SEC" "1" )
+     ("\\$sec\\" "1" )
+     ("CDS_LOCATION" "J7" )
+     ("\\$location\\" "J7" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(3025,250)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "\\5\\" 
+     (Pr 
+      ("\\$pn\\" "5" )))
+    (IPrt "\\4\\" 
+     (Pr 
+      ("\\$pn\\" "4" )))
+    (IPrt "\\3\\" 
+     (Pr 
+      ("\\$pn\\" "3" )))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page1_I16" 
+    (Pr 
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("CDS_LMAN_SYM_OUTLINE" "-75,150,75,-150" )
+     ("CDS_LIB" "j_connector2fjumper" )
+     ("VALUE" "640457-5" )
+     ("PART_NAME" "J_5_RT_AMP_640457" )
+     ("JEDEC_TYPE" "CONN-TYCO-5PIN-100MIL-RT" )
+     ("MFR_1_SPEC" "http://a35as03applge.appl.ge.com/part_data_sheets/amp/amp_640457.pdf" )
+     ("MFR_1_PN" "640457-5" )
+     ("MFR_1" "AMP" )
+     ("PART_NUMBER" "10017317" )
+     ("CDS_SEC" "1" )
+     ("\\$sec\\" "1" )
+     ("CDS_LOCATION" "J8" )
+     ("\\$location\\" "J8" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(3025,-175)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "\\5\\" 
+     (Pr 
+      ("\\$pn\\" "5" )))
+    (IPrt "\\4\\" 
+     (Pr 
+      ("\\$pn\\" "4" )))
+    (IPrt "\\3\\" 
+     (Pr 
+      ("\\$pn\\" "3" )))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page1_I17" 
+    (Pr 
+     ("VALUE" "LM324D" )
+     ("CDS_LMAN_SYM_OUTLINE" "-200,125,100,-175" )
+     ("CDS_LIB" "u_ic" )
+     ("PART_NAME" "U_LM324_SERIES_SO14" )
+     ("JEDEC_TYPE" "SO14" )
+     ("PART_NUMBER" "10019427" )
+     ("CDS_SEC" "1" )
+     ("\\$sec\\" "1" )
+     ("CDS_LOCATION" "U1" )
+     ("\\$location\\" "U1" )
+     ("ROT" "6" )
+     ("VER" "1" )
+     ("XY" "(4925,2800)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "\\out\\" 
+     (Pr 
+      ("\\$pn\\" "1" )))
+    (IPrt "IP" 
+     (Pr 
+      ("\\$pn\\" "3" )))
+    (IPrt "\\in\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\11\\" 
+     (Pr 
+      ("\\$pn\\" "11" )))
+    (IPrt "\\4\\" 
+     (Pr 
+      ("\\$pn\\" "4" ))))
+   (Inst "page1_I19" 
+    (Pr 
+     ("JEDEC_TYPE" "RESC-0805_W" )
+     ("\\type\\" "TF-SMT0805" )
+     ("PART_NAME" "R_SMT_0805" )
+     ("VALUE" "47K" )
+     ("CDS_LIB" "r_resistor" )
+     ("CDS_LMAN_SYM_OUTLINE" "-75,25,75,-25" )
+     ("NEEDS_NO_SIZE" "True" )
+     ("WATTAGE" "1/8W" )
+     ("TOL" "5%" )
+     ("PART_NUMBER" "10006506" )
+     ("CDS_SEC" "1" )
+     ("\\$sec\\" "1" )
+     ("CDS_LOCATION" "R6" )
+     ("\\$location\\" "R6" )
+     ("ROT" "1" )
+     ("VER" "1" )
+     ("XY" "(4425,2600)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$wattage\\" "?" )
+      ("\\$pn\\" "1" ))))
+   (Inst "page1_I20" 
+    (Pr 
+     ("JEDEC_TYPE" "RESC-0805_W" )
+     ("\\type\\" "TF-SMT0805" )
+     ("PART_NAME" "R_SMT_0805" )
+     ("VALUE" "1.0K" )
+     ("CDS_LIB" "r_resistor" )
+     ("CDS_LMAN_SYM_OUTLINE" "-75,25,75,-25" )
+     ("NEEDS_NO_SIZE" "True" )
+     ("WATTAGE" "1/8W" )
+     ("TOL" "5%" )
+     ("PART_NUMBER" "10006466" )
+     ("CDS_SEC" "1" )
+     ("\\$sec\\" "1" )
+     ("CDS_LOCATION" "R8" )
+     ("\\$location\\" "R8" )
+     ("ROT" "1" )
+     ("VER" "1" )
+     ("XY" "(5875,2650)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$wattage\\" "?" )
+      ("\\$pn\\" "1" ))))
+   (Inst "page1_I21" 
+    (Pr 
+     ("NEEDS_NO_SIZE" "True" )
+     ("CDS_LMAN_SYM_OUTLINE" "-75,25,75,-25" )
+     ("CDS_LIB" "r_resistor" )
+     ("VALUE" "100K" )
+     ("PART_NAME" "R_SMT_0805" )
+     ("\\type\\" "TF-SMT0805" )
+     ("JEDEC_TYPE" "RESC-0805_W" )
+     ("WATTAGE" "1/8W" )
+     ("TOL" "5%" )
+     ("PART_NUMBER" "10006514" )
+     ("CDS_SEC" "1" )
+     ("\\$sec\\" "1" )
+     ("CDS_LOCATION" "R7" )
+     ("\\$location\\" "R7" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(5200,3200)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$wattage\\" "?" )
+      ("\\$pn\\" "1" ))))
+   (Inst "page1_I22" 
+    (Pr 
+     ("JEDEC_TYPE" "RESC-0805_W" )
+     ("\\type\\" "TF-SMT0805" )
+     ("PART_NAME" "R_SMT_0805" )
+     ("VALUE" "100K" )
+     ("CDS_LIB" "r_resistor" )
+     ("CDS_LMAN_SYM_OUTLINE" "-75,25,75,-25" )
+     ("NEEDS_NO_SIZE" "True" )
+     ("WATTAGE" "1/8W" )
+     ("TOL" "5%" )
+     ("PART_NUMBER" "10006514" )
+     ("CDS_SEC" "1" )
+     ("\\$sec\\" "1" )
+     ("CDS_LOCATION" "R5" )
+     ("\\$location\\" "R5" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(4350,3200)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$wattage\\" "?" )
+      ("\\$pn\\" "1" ))))
+   (Inst "page1_I23" 
+    (Pr 
+     ("\\$temp\\" "?" )
+     ("NEEDS_NO_SIZE" "true" )
+     ("\\$alt_symbols\\" "?" )
+     ("CDS_LMAN_SYM_OUTLINE" "-50,25,50,-25" )
+     ("CDS_LIB" "c_capacitor" )
+     ("VALUE" "0.1UF" )
+     ("PART_NAME" "C_SMT_X7R_0805" )
+     ("\\type\\" "X7R" )
+     ("JEDEC_TYPE" "CAPC-0805_W" )
+     ("TOL" "20%" )
+     ("VOLT" "16V" )
+     ("PART_NUMBER" "10000680" )
+     ("CDS_SEC" "1" )
+     ("\\$sec\\" "1" )
+     ("CDS_LOCATION" "C2" )
+     ("\\$location\\" "C2" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(5525,2650)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("CLOCK" "False" )
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("CLOCK" "False" )
+      ("\\$pn\\" "1" ))))
+   (Inst "page1_I24" 
+    (Pr 
+     ("\\$temp\\" "?" )
+     ("NEEDS_NO_SIZE" "true" )
+     ("\\$alt_symbols\\" "?" )
+     ("CDS_LMAN_SYM_OUTLINE" "-50,25,50,-25" )
+     ("CDS_LIB" "c_capacitor" )
+     ("VALUE" "0.1UF" )
+     ("PART_NAME" "C_SMT_X7R_0805" )
+     ("\\type\\" "X7R" )
+     ("JEDEC_TYPE" "CAPC-0805_W" )
+     ("TOL" "20%" )
+     ("VOLT" "16V" )
+     ("PART_NUMBER" "10000680" )
+     ("CDS_SEC" "1" )
+     ("\\$sec\\" "1" )
+     ("CDS_LOCATION" "C1" )
+     ("\\$location\\" "C1" )
+     ("ROT" "1" )
+     ("VER" "1" )
+     ("XY" "(3950,2750)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("CLOCK" "False" )
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("CLOCK" "False" )
+      ("\\$pn\\" "1" ))))
+   (Inst "page1_I25" 
+    (Pr 
+     ("JEDEC_TYPE" "SOT-23_W" )
+     ("VRRM" "75V" )
+     ("\\type\\" "SIGNAL-3PIN" )
+     ("PART_NAME" "D_SMT_SIGNAL_1A3C_SOT-23" )
+     ("VALUE" "MMBD4148" )
+     ("\\if\\" "200MA" )
+     ("CDS_LIB" "d_diode" )
+     ("CDS_LMAN_SYM_OUTLINE" "-50,50,50,-50" )
+     ("NEEDS_NO_SIZE" "true" )
+     ("\\$alt_symbols\\" "?" )
+     ("PART_NUMBER" "10004947" )
+     ("CDS_SEC" "1" )
+     ("\\$sec\\" "1" )
+     ("CDS_LOCATION" "D4" )
+     ("\\$location\\" "D4" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(5275,2800)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "C" 
+     (Pr 
+      ("CLOCK" "False" )
+      ("\\$pn\\" "3" )))
+    (IPrt "A" 
+     (Pr 
+      ("CLOCK" "False" )
+      ("\\$pn\\" "1" ))))
+   (Inst "page1_I28" 
+    (Pr 
+     ("VALUE" "LM324D" )
+     ("JEDEC_TYPE" "SO14" )
+     ("PART_NAME" "U_LM324_SERIES_SO14" )
+     ("CDS_LIB" "u_ic" )
+     ("CDS_LMAN_SYM_OUTLINE" "-200,125,100,-175" )
+     ("PART_NUMBER" "10019427" )
+     ("CDS_SEC" "2" )
+     ("\\$sec\\" "2" )
+     ("CDS_LOCATION" "U1" )
+     ("\\$location\\" "U1" )
+     ("ROT" "6" )
+     ("VER" "2" )
+     ("XY" "(4950,1700)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "\\out\\" 
+     (Pr 
+      ("\\$pn\\" "7" )))
+    (IPrt "IP" 
+     (Pr 
+      ("\\$pn\\" "5" )))
+    (IPrt "\\in\\" 
+     (Pr 
+      ("\\$pn\\" "6" )))
+    (IPrt "\\11\\" 
+     (Pr 
+      ("CDS_NOT_ON_SYM" "TRUE" )))
+    (IPrt "\\4\\" 
+     (Pr 
+      ("CDS_NOT_ON_SYM" "TRUE" ))))
+   (Inst "page1_I29" 
+    (Pr 
+     ("JEDEC_TYPE" "SOD-123_W" )
+     ("VRRM" "30V" )
+     ("\\type\\" "SCHOTTKY" )
+     ("PART_NAME" "D_SMT_SCHOTTKY_SOD-123" )
+     ("VALUE" "MBR0530" )
+     ("\\if\\" "500MA" )
+     ("CDS_LIB" "d_diode" )
+     ("CDS_LMAN_SYM_OUTLINE" "-50,50,50,-50" )
+     ("NEEDS_NO_SIZE" "true" )
+     ("\\$alt_symbols\\" "?" )
+     ("PART_NUMBER" "10004915" )
+     ("CDS_SEC" "1" )
+     ("\\$sec\\" "1" )
+     ("CDS_LOCATION" "D3" )
+     ("\\$location\\" "D3" )
+     ("ROT" "1" )
+     ("VER" "1" )
+     ("XY" "(4150,2600)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "C" 
+     (Pr 
+      ("CLOCK" "False" )
+      ("\\$pn\\" "C" )))
+    (IPrt "A" 
+     (Pr 
+      ("CLOCK" "False" )
+      ("\\$pn\\" "A" ))))
+   (Inst "page1_I31" 
+    (Pr 
+     ("JEDEC_TYPE" "RESC-0805_W" )
+     ("\\type\\" "TF-SMT0805" )
+     ("PART_NAME" "R_SMT_0805" )
+     ("NEEDS_NO_SIZE" "True" )
+     ("VALUE" "1.0K" )
+     ("CDS_LMAN_SYM_OUTLINE" "-75,25,75,-25" )
+     ("CDS_LIB" "r_resistor" )
+     ("WATTAGE" "1/8W" )
+     ("TOL" "5%" )
+     ("PART_NUMBER" "10006466" )
+     ("CDS_SEC" "1" )
+     ("\\$sec\\" "1" )
+     ("CDS_LOCATION" "R19" )
+     ("\\$location\\" "R19" )
+     ("ROT" "1" )
+     ("VER" "1" )
+     ("XY" "(5900,1550)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$wattage\\" "?" )
+      ("\\$pn\\" "1" ))))
+   (Inst "page1_I32" 
+    (Pr 
+     ("JEDEC_TYPE" "SOT-23_W" )
+     ("VRRM" "75V" )
+     ("\\type\\" "SIGNAL-3PIN" )
+     ("PART_NAME" "D_SMT_SIGNAL_1A3C_SOT-23" )
+     ("\\if\\" "200MA" )
+     ("NEEDS_NO_SIZE" "true" )
+     ("VALUE" "MMBD4148" )
+     ("\\$alt_symbols\\" "?" )
+     ("CDS_LMAN_SYM_OUTLINE" "-50,50,50,-50" )
+     ("CDS_LIB" "d_diode" )
+     ("PART_NUMBER" "10004947" )
+     ("CDS_SEC" "1" )
+     ("\\$sec\\" "1" )
+     ("CDS_LOCATION" "D9" )
+     ("\\$location\\" "D9" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(5300,1700)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "C" 
+     (Pr 
+      ("CLOCK" "False" )
+      ("\\$pn\\" "3" )))
+    (IPrt "A" 
+     (Pr 
+      ("CLOCK" "False" )
+      ("\\$pn\\" "1" ))))
+   (Inst "page1_I33" 
+    (Pr 
+     ("NEEDS_NO_SIZE" "true" )
+     ("PART_NAME" "C_SMT_X7R_0805" )
+     ("\\type\\" "X7R" )
+     ("JEDEC_TYPE" "CAPC-0805_W" )
+     ("VALUE" "0.1UF" )
+     ("\\$temp\\" "?" )
+     ("\\$alt_symbols\\" "?" )
+     ("CDS_LMAN_SYM_OUTLINE" "-50,25,50,-25" )
+     ("CDS_LIB" "c_capacitor" )
+     ("TOL" "20%" )
+     ("VOLT" "16V" )
+     ("PART_NUMBER" "10000680" )
+     ("CDS_SEC" "1" )
+     ("\\$sec\\" "1" )
+     ("CDS_LOCATION" "C7" )
+     ("\\$location\\" "C7" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(5550,1550)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("CLOCK" "False" )
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("CLOCK" "False" )
+      ("\\$pn\\" "1" ))))
+   (Inst "page1_I35" 
+    (Pr 
+     ("NEEDS_NO_SIZE" "True" )
+     ("PART_NAME" "R_SMT_0805" )
+     ("\\type\\" "TF-SMT0805" )
+     ("JEDEC_TYPE" "RESC-0805_W" )
+     ("VALUE" "100K" )
+     ("CDS_LMAN_SYM_OUTLINE" "-75,25,75,-25" )
+     ("CDS_LIB" "r_resistor" )
+     ("WATTAGE" "1/8W" )
+     ("TOL" "5%" )
+     ("PART_NUMBER" "10006514" )
+     ("CDS_SEC" "1" )
+     ("\\$sec\\" "1" )
+     ("CDS_LOCATION" "R16" )
+     ("\\$location\\" "R16" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(5225,2100)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$wattage\\" "?" )
+      ("\\$pn\\" "1" ))))
+   (Inst "page1_I36" 
+    (Pr 
+     ("JEDEC_TYPE" "RESC-0805_W" )
+     ("\\type\\" "TF-SMT0805" )
+     ("PART_NAME" "R_SMT_0805" )
+     ("NEEDS_NO_SIZE" "True" )
+     ("VALUE" "100K" )
+     ("CDS_LMAN_SYM_OUTLINE" "-75,25,75,-25" )
+     ("CDS_LIB" "r_resistor" )
+     ("WATTAGE" "1/8W" )
+     ("TOL" "5%" )
+     ("PART_NUMBER" "10006514" )
+     ("CDS_SEC" "1" )
+     ("\\$sec\\" "1" )
+     ("CDS_LOCATION" "R10" )
+     ("\\$location\\" "R10" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(4375,2100)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$wattage\\" "?" )
+      ("\\$pn\\" "1" ))))
+   (Inst "page1_I39" 
+    (Pr 
+     ("JEDEC_TYPE" "RESC-0805_W" )
+     ("\\type\\" "TF-SMT0805" )
+     ("PART_NAME" "R_SMT_0805" )
+     ("NEEDS_NO_SIZE" "True" )
+     ("VALUE" "47K" )
+     ("CDS_LMAN_SYM_OUTLINE" "-75,25,75,-25" )
+     ("CDS_LIB" "r_resistor" )
+     ("WATTAGE" "1/8W" )
+     ("TOL" "5%" )
+     ("PART_NUMBER" "10006506" )
+     ("CDS_SEC" "1" )
+     ("\\$sec\\" "1" )
+     ("CDS_LOCATION" "R12" )
+     ("\\$location\\" "R12" )
+     ("ROT" "1" )
+     ("VER" "1" )
+     ("XY" "(4450,1500)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$wattage\\" "?" )
+      ("\\$pn\\" "1" ))))
+   (Inst "page1_I40" 
+    (Pr 
+     ("JEDEC_TYPE" "SOD-123_W" )
+     ("VRRM" "30V" )
+     ("\\type\\" "SCHOTTKY" )
+     ("PART_NAME" "D_SMT_SCHOTTKY_SOD-123" )
+     ("\\if\\" "500MA" )
+     ("NEEDS_NO_SIZE" "true" )
+     ("VALUE" "MBR0530" )
+     ("\\$alt_symbols\\" "?" )
+     ("CDS_LMAN_SYM_OUTLINE" "-50,50,50,-50" )
+     ("CDS_LIB" "d_diode" )
+     ("PART_NUMBER" "10004915" )
+     ("CDS_SEC" "1" )
+     ("\\$sec\\" "1" )
+     ("CDS_LOCATION" "D6" )
+     ("\\$location\\" "D6" )
+     ("ROT" "1" )
+     ("VER" "1" )
+     ("XY" "(4175,1500)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "C" 
+     (Pr 
+      ("CLOCK" "False" )
+      ("\\$pn\\" "C" )))
+    (IPrt "A" 
+     (Pr 
+      ("CLOCK" "False" )
+      ("\\$pn\\" "A" ))))
+   (Inst "page1_I42" 
+    (Pr 
+     ("NEEDS_NO_SIZE" "true" )
+     ("PART_NAME" "C_SMT_X7R_0805" )
+     ("\\type\\" "X7R" )
+     ("JEDEC_TYPE" "CAPC-0805_W" )
+     ("VALUE" "0.1UF" )
+     ("\\$temp\\" "?" )
+     ("\\$alt_symbols\\" "?" )
+     ("CDS_LMAN_SYM_OUTLINE" "-50,25,50,-25" )
+     ("CDS_LIB" "c_capacitor" )
+     ("TOL" "20%" )
+     ("VOLT" "16V" )
+     ("PART_NUMBER" "10000680" )
+     ("CDS_SEC" "1" )
+     ("\\$sec\\" "1" )
+     ("CDS_LOCATION" "C4" )
+     ("\\$location\\" "C4" )
+     ("ROT" "1" )
+     ("VER" "1" )
+     ("XY" "(3975,1650)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("CLOCK" "False" )
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("CLOCK" "False" )
+      ("\\$pn\\" "1" ))))
+   (Inst "page1_I43" 
+    (Pr 
+     ("JEDEC_TYPE" "RESC-0805_W" )
+     ("\\type\\" "TF-SMT0805" )
+     ("PART_NAME" "R_SMT_0805" )
+     ("NEEDS_NO_SIZE" "True" )
+     ("VALUE" "1.0K" )
+     ("CDS_LMAN_SYM_OUTLINE" "-75,25,75,-25" )
+     ("CDS_LIB" "r_resistor" )
+     ("WATTAGE" "1/8W" )
+     ("TOL" "5%" )
+     ("PART_NUMBER" "10006466" )
+     ("CDS_SEC" "1" )
+     ("\\$sec\\" "1" )
+     ("CDS_LOCATION" "R18" )
+     ("\\$location\\" "R18" )
+     ("ROT" "1" )
+     ("VER" "1" )
+     ("XY" "(5875,500)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$wattage\\" "?" )
+      ("\\$pn\\" "1" ))))
+   (Inst "page1_I44" 
+    (Pr 
+     ("JEDEC_TYPE" "SOT-23_W" )
+     ("VRRM" "75V" )
+     ("\\type\\" "SIGNAL-3PIN" )
+     ("PART_NAME" "D_SMT_SIGNAL_1A3C_SOT-23" )
+     ("\\if\\" "200MA" )
+     ("NEEDS_NO_SIZE" "true" )
+     ("VALUE" "MMBD4148" )
+     ("\\$alt_symbols\\" "?" )
+     ("CDS_LMAN_SYM_OUTLINE" "-50,50,50,-50" )
+     ("CDS_LIB" "d_diode" )
+     ("PART_NUMBER" "10004947" )
+     ("CDS_SEC" "1" )
+     ("\\$sec\\" "1" )
+     ("CDS_LOCATION" "D8" )
+     ("\\$location\\" "D8" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(5275,650)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "C" 
+     (Pr 
+      ("CLOCK" "False" )
+      ("\\$pn\\" "3" )))
+    (IPrt "A" 
+     (Pr 
+      ("CLOCK" "False" )
+      ("\\$pn\\" "1" ))))
+   (Inst "page1_I45" 
+    (Pr 
+     ("NEEDS_NO_SIZE" "true" )
+     ("PART_NAME" "C_SMT_X7R_0805" )
+     ("\\type\\" "X7R" )
+     ("JEDEC_TYPE" "CAPC-0805_W" )
+     ("VALUE" "0.1UF" )
+     ("\\$temp\\" "?" )
+     ("\\$alt_symbols\\" "?" )
+     ("CDS_LMAN_SYM_OUTLINE" "-50,25,50,-25" )
+     ("CDS_LIB" "c_capacitor" )
+     ("TOL" "20%" )
+     ("VOLT" "16V" )
+     ("PART_NUMBER" "10000680" )
+     ("CDS_SEC" "1" )
+     ("\\$sec\\" "1" )
+     ("CDS_LOCATION" "C6" )
+     ("\\$location\\" "C6" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(5525,500)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("CLOCK" "False" )
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("CLOCK" "False" )
+      ("\\$pn\\" "1" ))))
+   (Inst "page1_I47" 
+    (Pr 
+     ("NEEDS_NO_SIZE" "True" )
+     ("PART_NAME" "R_SMT_0805" )
+     ("\\type\\" "TF-SMT0805" )
+     ("JEDEC_TYPE" "RESC-0805_W" )
+     ("VALUE" "100K" )
+     ("CDS_LMAN_SYM_OUTLINE" "-75,25,75,-25" )
+     ("CDS_LIB" "r_resistor" )
+     ("WATTAGE" "1/8W" )
+     ("TOL" "5%" )
+     ("PART_NUMBER" "10006514" )
+     ("CDS_SEC" "1" )
+     ("\\$sec\\" "1" )
+     ("CDS_LOCATION" "R15" )
+     ("\\$location\\" "R15" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(5200,1050)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$wattage\\" "?" )
+      ("\\$pn\\" "1" ))))
+   (Inst "page1_I48" 
+    (Pr 
+     ("JEDEC_TYPE" "RESC-0805_W" )
+     ("\\type\\" "TF-SMT0805" )
+     ("PART_NAME" "R_SMT_0805" )
+     ("NEEDS_NO_SIZE" "True" )
+     ("VALUE" "100K" )
+     ("CDS_LMAN_SYM_OUTLINE" "-75,25,75,-25" )
+     ("CDS_LIB" "r_resistor" )
+     ("WATTAGE" "1/8W" )
+     ("TOL" "5%" )
+     ("PART_NUMBER" "10006514" )
+     ("CDS_SEC" "1" )
+     ("\\$sec\\" "1" )
+     ("CDS_LOCATION" "R9" )
+     ("\\$location\\" "R9" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(4350,1050)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$wattage\\" "?" )
+      ("\\$pn\\" "1" ))))
+   (Inst "page1_I51" 
+    (Pr 
+     ("JEDEC_TYPE" "RESC-0805_W" )
+     ("\\type\\" "TF-SMT0805" )
+     ("PART_NAME" "R_SMT_0805" )
+     ("NEEDS_NO_SIZE" "True" )
+     ("VALUE" "47K" )
+     ("CDS_LMAN_SYM_OUTLINE" "-75,25,75,-25" )
+     ("CDS_LIB" "r_resistor" )
+     ("WATTAGE" "1/8W" )
+     ("TOL" "5%" )
+     ("PART_NUMBER" "10006506" )
+     ("CDS_SEC" "1" )
+     ("\\$sec\\" "1" )
+     ("CDS_LOCATION" "R11" )
+     ("\\$location\\" "R11" )
+     ("ROT" "1" )
+     ("VER" "1" )
+     ("XY" "(4425,450)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$wattage\\" "?" )
+      ("\\$pn\\" "1" ))))
+   (Inst "page1_I52" 
+    (Pr 
+     ("JEDEC_TYPE" "SOD-123_W" )
+     ("VRRM" "30V" )
+     ("\\type\\" "SCHOTTKY" )
+     ("PART_NAME" "D_SMT_SCHOTTKY_SOD-123" )
+     ("\\if\\" "500MA" )
+     ("NEEDS_NO_SIZE" "true" )
+     ("VALUE" "MBR0530" )
+     ("\\$alt_symbols\\" "?" )
+     ("CDS_LMAN_SYM_OUTLINE" "-50,50,50,-50" )
+     ("CDS_LIB" "d_diode" )
+     ("PART_NUMBER" "10004915" )
+     ("CDS_SEC" "1" )
+     ("\\$sec\\" "1" )
+     ("CDS_LOCATION" "D5" )
+     ("\\$location\\" "D5" )
+     ("ROT" "1" )
+     ("VER" "1" )
+     ("XY" "(4150,450)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "C" 
+     (Pr 
+      ("CLOCK" "False" )
+      ("\\$pn\\" "C" )))
+    (IPrt "A" 
+     (Pr 
+      ("CLOCK" "False" )
+      ("\\$pn\\" "A" ))))
+   (Inst "page1_I54" 
+    (Pr 
+     ("NEEDS_NO_SIZE" "true" )
+     ("PART_NAME" "C_SMT_X7R_0805" )
+     ("\\type\\" "X7R" )
+     ("JEDEC_TYPE" "CAPC-0805_W" )
+     ("VALUE" "0.1UF" )
+     ("\\$temp\\" "?" )
+     ("\\$alt_symbols\\" "?" )
+     ("CDS_LMAN_SYM_OUTLINE" "-50,25,50,-25" )
+     ("CDS_LIB" "c_capacitor" )
+     ("TOL" "20%" )
+     ("VOLT" "16V" )
+     ("PART_NUMBER" "10000680" )
+     ("CDS_SEC" "1" )
+     ("\\$sec\\" "1" )
+     ("CDS_LOCATION" "C3" )
+     ("\\$location\\" "C3" )
+     ("ROT" "1" )
+     ("VER" "1" )
+     ("XY" "(3950,600)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("CLOCK" "False" )
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("CLOCK" "False" )
+      ("\\$pn\\" "1" ))))
+   (Inst "page1_I55" 
+    (Pr 
+     ("JEDEC_TYPE" "RESC-0805_W" )
+     ("\\type\\" "TF-SMT0805" )
+     ("PART_NAME" "R_SMT_0805" )
+     ("NEEDS_NO_SIZE" "True" )
+     ("VALUE" "1.0K" )
+     ("CDS_LMAN_SYM_OUTLINE" "-75,25,75,-25" )
+     ("CDS_LIB" "r_resistor" )
+     ("WATTAGE" "1/8W" )
+     ("TOL" "5%" )
+     ("PART_NUMBER" "10006466" )
+     ("CDS_SEC" "1" )
+     ("\\$sec\\" "1" )
+     ("CDS_LOCATION" "R20" )
+     ("\\$location\\" "R20" )
+     ("ROT" "1" )
+     ("VER" "1" )
+     ("XY" "(5975,-625)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$wattage\\" "?" )
+      ("\\$pn\\" "1" ))))
+   (Inst "page1_I56" 
+    (Pr 
+     ("JEDEC_TYPE" "SOT-23_W" )
+     ("VRRM" "75V" )
+     ("\\type\\" "SIGNAL-3PIN" )
+     ("PART_NAME" "D_SMT_SIGNAL_1A3C_SOT-23" )
+     ("\\if\\" "200MA" )
+     ("NEEDS_NO_SIZE" "true" )
+     ("VALUE" "MMBD4148" )
+     ("\\$alt_symbols\\" "?" )
+     ("CDS_LMAN_SYM_OUTLINE" "-50,50,50,-50" )
+     ("CDS_LIB" "d_diode" )
+     ("PART_NUMBER" "10004947" )
+     ("CDS_SEC" "1" )
+     ("\\$sec\\" "1" )
+     ("CDS_LOCATION" "D10" )
+     ("\\$location\\" "D10" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(5375,-475)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "C" 
+     (Pr 
+      ("CLOCK" "False" )
+      ("\\$pn\\" "3" )))
+    (IPrt "A" 
+     (Pr 
+      ("CLOCK" "False" )
+      ("\\$pn\\" "1" ))))
+   (Inst "page1_I57" 
+    (Pr 
+     ("NEEDS_NO_SIZE" "true" )
+     ("PART_NAME" "C_SMT_X7R_0805" )
+     ("\\type\\" "X7R" )
+     ("JEDEC_TYPE" "CAPC-0805_W" )
+     ("VALUE" "0.1UF" )
+     ("\\$temp\\" "?" )
+     ("\\$alt_symbols\\" "?" )
+     ("CDS_LMAN_SYM_OUTLINE" "-50,25,50,-25" )
+     ("CDS_LIB" "c_capacitor" )
+     ("TOL" "20%" )
+     ("VOLT" "16V" )
+     ("PART_NUMBER" "10000680" )
+     ("CDS_SEC" "1" )
+     ("\\$sec\\" "1" )
+     ("CDS_LOCATION" "C8" )
+     ("\\$location\\" "C8" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(5625,-625)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("CLOCK" "False" )
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("CLOCK" "False" )
+      ("\\$pn\\" "1" ))))
+   (Inst "page1_I59" 
+    (Pr 
+     ("NEEDS_NO_SIZE" "True" )
+     ("PART_NAME" "R_SMT_0805" )
+     ("\\type\\" "TF-SMT0805" )
+     ("JEDEC_TYPE" "RESC-0805_W" )
+     ("VALUE" "100K" )
+     ("CDS_LMAN_SYM_OUTLINE" "-75,25,75,-25" )
+     ("CDS_LIB" "r_resistor" )
+     ("WATTAGE" "1/8W" )
+     ("TOL" "5%" )
+     ("PART_NUMBER" "10006514" )
+     ("CDS_SEC" "1" )
+     ("\\$sec\\" "1" )
+     ("CDS_LOCATION" "R17" )
+     ("\\$location\\" "R17" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(5300,-75)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$wattage\\" "?" )
+      ("\\$pn\\" "1" ))))
+   (Inst "page1_I60" 
+    (Pr 
+     ("JEDEC_TYPE" "RESC-0805_W" )
+     ("\\type\\" "TF-SMT0805" )
+     ("PART_NAME" "R_SMT_0805" )
+     ("NEEDS_NO_SIZE" "True" )
+     ("VALUE" "100K" )
+     ("CDS_LMAN_SYM_OUTLINE" "-75,25,75,-25" )
+     ("CDS_LIB" "r_resistor" )
+     ("WATTAGE" "1/8W" )
+     ("TOL" "5%" )
+     ("PART_NUMBER" "10006514" )
+     ("CDS_SEC" "1" )
+     ("\\$sec\\" "1" )
+     ("CDS_LOCATION" "R13" )
+     ("\\$location\\" "R13" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(4450,-75)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$wattage\\" "?" )
+      ("\\$pn\\" "1" ))))
+   (Inst "page1_I63" 
+    (Pr 
+     ("JEDEC_TYPE" "RESC-0805_W" )
+     ("\\type\\" "TF-SMT0805" )
+     ("PART_NAME" "R_SMT_0805" )
+     ("NEEDS_NO_SIZE" "True" )
+     ("VALUE" "47K" )
+     ("CDS_LMAN_SYM_OUTLINE" "-75,25,75,-25" )
+     ("CDS_LIB" "r_resistor" )
+     ("WATTAGE" "1/8W" )
+     ("TOL" "5%" )
+     ("PART_NUMBER" "10006506" )
+     ("CDS_SEC" "1" )
+     ("\\$sec\\" "1" )
+     ("CDS_LOCATION" "R14" )
+     ("\\$location\\" "R14" )
+     ("ROT" "1" )
+     ("VER" "1" )
+     ("XY" "(4525,-675)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$wattage\\" "?" )
+      ("\\$pn\\" "1" ))))
+   (Inst "page1_I64" 
+    (Pr 
+     ("JEDEC_TYPE" "SOD-123_W" )
+     ("VRRM" "30V" )
+     ("\\type\\" "SCHOTTKY" )
+     ("PART_NAME" "D_SMT_SCHOTTKY_SOD-123" )
+     ("\\if\\" "500MA" )
+     ("NEEDS_NO_SIZE" "true" )
+     ("VALUE" "MBR0530" )
+     ("\\$alt_symbols\\" "?" )
+     ("CDS_LMAN_SYM_OUTLINE" "-50,50,50,-50" )
+     ("CDS_LIB" "d_diode" )
+     ("PART_NUMBER" "10004915" )
+     ("CDS_SEC" "1" )
+     ("\\$sec\\" "1" )
+     ("CDS_LOCATION" "D7" )
+     ("\\$location\\" "D7" )
+     ("ROT" "1" )
+     ("VER" "1" )
+     ("XY" "(4250,-675)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "C" 
+     (Pr 
+      ("CLOCK" "False" )
+      ("\\$pn\\" "C" )))
+    (IPrt "A" 
+     (Pr 
+      ("CLOCK" "False" )
+      ("\\$pn\\" "A" ))))
+   (Inst "page1_I66" 
+    (Pr 
+     ("NEEDS_NO_SIZE" "true" )
+     ("PART_NAME" "C_SMT_X7R_0805" )
+     ("\\type\\" "X7R" )
+     ("JEDEC_TYPE" "CAPC-0805_W" )
+     ("VALUE" "0.1UF" )
+     ("\\$temp\\" "?" )
+     ("\\$alt_symbols\\" "?" )
+     ("CDS_LMAN_SYM_OUTLINE" "-50,25,50,-25" )
+     ("CDS_LIB" "c_capacitor" )
+     ("TOL" "20%" )
+     ("VOLT" "16V" )
+     ("PART_NUMBER" "10000680" )
+     ("CDS_SEC" "1" )
+     ("\\$sec\\" "1" )
+     ("CDS_LOCATION" "C5" )
+     ("\\$location\\" "C5" )
+     ("ROT" "1" )
+     ("VER" "1" )
+     ("XY" "(4050,-525)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("CLOCK" "False" )
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("CLOCK" "False" )
+      ("\\$pn\\" "1" ))))
+   (Inst "page1_I67" 
+    (Pr 
+     ("JEDEC_TYPE" "SO14" )
+     ("PART_NAME" "U_LM324_SERIES_SO14" )
+     ("VALUE" "LM324D" )
+     ("CDS_LMAN_SYM_OUTLINE" "-200,125,100,-175" )
+     ("CDS_LIB" "u_ic" )
+     ("PART_NUMBER" "10019427" )
+     ("CDS_SEC" "3" )
+     ("\\$sec\\" "3" )
+     ("CDS_LOCATION" "U1" )
+     ("\\$location\\" "U1" )
+     ("ROT" "6" )
+     ("VER" "2" )
+     ("XY" "(4925,650)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "\\out\\" 
+     (Pr 
+      ("\\$pn\\" "8" )))
+    (IPrt "IP" 
+     (Pr 
+      ("\\$pn\\" "10" )))
+    (IPrt "\\in\\" 
+     (Pr 
+      ("\\$pn\\" "9" )))
+    (IPrt "\\11\\" 
+     (Pr 
+      ("CDS_NOT_ON_SYM" "TRUE" )))
+    (IPrt "\\4\\" 
+     (Pr 
+      ("CDS_NOT_ON_SYM" "TRUE" ))))
+   (Inst "page1_I68" 
+    (Pr 
+     ("PART_NAME" "U_LM324_SERIES_SO14" )
+     ("JEDEC_TYPE" "SO14" )
+     ("VALUE" "LM324D" )
+     ("CDS_LMAN_SYM_OUTLINE" "-200,125,100,-175" )
+     ("CDS_LIB" "u_ic" )
+     ("PART_NUMBER" "10019427" )
+     ("CDS_SEC" "4" )
+     ("\\$sec\\" "4" )
+     ("CDS_LOCATION" "U1" )
+     ("\\$location\\" "U1" )
+     ("ROT" "6" )
+     ("VER" "2" )
+     ("XY" "(5025,-475)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "\\out\\" 
+     (Pr 
+      ("\\$pn\\" "14" )))
+    (IPrt "IP" 
+     (Pr 
+      ("\\$pn\\" "12" )))
+    (IPrt "\\in\\" 
+     (Pr 
+      ("\\$pn\\" "13" )))
+    (IPrt "\\11\\" 
+     (Pr 
+      ("CDS_NOT_ON_SYM" "TRUE" )))
+    (IPrt "\\4\\" 
+     (Pr 
+      ("CDS_NOT_ON_SYM" "TRUE" ))))
+   (Inst "page1_I69" 
+    (Pr 
+     ("JEDEC_TYPE" "RESC-0805_W" )
+     ("\\type\\" "TF-SMT0805" )
+     ("PART_NAME" "R_SMT_0805" )
+     ("NEEDS_NO_SIZE" "True" )
+     ("WATTAGE" "1/8W" )
+     ("TOL" "5%" )
+     ("PART_NUMBER" "10006466" )
+     ("VALUE" "1.0K" )
+     ("CDS_LMAN_SYM_OUTLINE" "-75,25,75,-25" )
+     ("CDS_LIB" "r_resistor" )
+     ("CDS_SEC" "1" )
+     ("\\$sec\\" "1" )
+     ("CDS_LOCATION" "R24" )
+     ("\\$location\\" "R24" )
+     ("ROT" "1" )
+     ("VER" "1" )
+     ("XY" "(8475,2650)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$wattage\\" "?" )
+      ("\\$pn\\" "1" ))))
+   (Inst "page1_I70" 
+    (Pr 
+     ("JEDEC_TYPE" "SOT-23_W" )
+     ("VRRM" "75V" )
+     ("\\type\\" "SIGNAL-3PIN" )
+     ("PART_NAME" "D_SMT_SIGNAL_1A3C_SOT-23" )
+     ("\\if\\" "200MA" )
+     ("NEEDS_NO_SIZE" "true" )
+     ("PART_NUMBER" "10004947" )
+     ("VALUE" "MMBD4148" )
+     ("\\$alt_symbols\\" "?" )
+     ("CDS_LMAN_SYM_OUTLINE" "-50,50,50,-50" )
+     ("CDS_LIB" "d_diode" )
+     ("CDS_SEC" "1" )
+     ("\\$sec\\" "1" )
+     ("CDS_LOCATION" "D12" )
+     ("\\$location\\" "D12" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(7875,2800)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "C" 
+     (Pr 
+      ("CLOCK" "False" )
+      ("\\$pn\\" "3" )))
+    (IPrt "A" 
+     (Pr 
+      ("CLOCK" "False" )
+      ("\\$pn\\" "1" ))))
+   (Inst "page1_I71" 
+    (Pr 
+     ("NEEDS_NO_SIZE" "true" )
+     ("PART_NAME" "C_SMT_X7R_0805" )
+     ("\\type\\" "X7R" )
+     ("JEDEC_TYPE" "CAPC-0805_W" )
+     ("TOL" "20%" )
+     ("VOLT" "16V" )
+     ("PART_NUMBER" "10000680" )
+     ("VALUE" "0.1UF" )
+     ("\\$temp\\" "?" )
+     ("\\$alt_symbols\\" "?" )
+     ("CDS_LMAN_SYM_OUTLINE" "-50,25,50,-25" )
+     ("CDS_LIB" "c_capacitor" )
+     ("CDS_SEC" "1" )
+     ("\\$sec\\" "1" )
+     ("CDS_LOCATION" "C10" )
+     ("\\$location\\" "C10" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(8125,2650)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("CLOCK" "False" )
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("CLOCK" "False" )
+      ("\\$pn\\" "1" ))))
+   (Inst "page1_I73" 
+    (Pr 
+     ("NEEDS_NO_SIZE" "True" )
+     ("PART_NAME" "R_SMT_0805" )
+     ("\\type\\" "TF-SMT0805" )
+     ("JEDEC_TYPE" "RESC-0805_W" )
+     ("WATTAGE" "1/8W" )
+     ("TOL" "5%" )
+     ("PART_NUMBER" "10006514" )
+     ("VALUE" "100K" )
+     ("CDS_LMAN_SYM_OUTLINE" "-75,25,75,-25" )
+     ("CDS_LIB" "r_resistor" )
+     ("CDS_SEC" "1" )
+     ("\\$sec\\" "1" )
+     ("CDS_LOCATION" "R23" )
+     ("\\$location\\" "R23" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(7800,3200)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$wattage\\" "?" )
+      ("\\$pn\\" "1" ))))
+   (Inst "page1_I74" 
+    (Pr 
+     ("JEDEC_TYPE" "RESC-0805_W" )
+     ("\\type\\" "TF-SMT0805" )
+     ("PART_NAME" "R_SMT_0805" )
+     ("NEEDS_NO_SIZE" "True" )
+     ("WATTAGE" "1/8W" )
+     ("TOL" "5%" )
+     ("PART_NUMBER" "10006514" )
+     ("VALUE" "100K" )
+     ("CDS_LMAN_SYM_OUTLINE" "-75,25,75,-25" )
+     ("CDS_LIB" "r_resistor" )
+     ("CDS_SEC" "1" )
+     ("\\$sec\\" "1" )
+     ("CDS_LOCATION" "R21" )
+     ("\\$location\\" "R21" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(6950,3200)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$wattage\\" "?" )
+      ("\\$pn\\" "1" ))))
+   (Inst "page1_I76" 
+    (Pr 
+     ("PART_NAME" "U_LM324_SERIES_SO14" )
+     ("JEDEC_TYPE" "SO14" )
+     ("PART_NUMBER" "10019427" )
+     ("VALUE" "LM324D" )
+     ("CDS_LMAN_SYM_OUTLINE" "-200,125,100,-175" )
+     ("CDS_LIB" "u_ic" )
+     ("CDS_SEC" "1" )
+     ("\\$sec\\" "1" )
+     ("CDS_LOCATION" "U2" )
+     ("\\$location\\" "U2" )
+     ("ROT" "6" )
+     ("VER" "1" )
+     ("XY" "(7525,2800)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "\\out\\" 
+     (Pr 
+      ("\\$pn\\" "1" )))
+    (IPrt "IP" 
+     (Pr 
+      ("\\$pn\\" "3" )))
+    (IPrt "\\in\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\11\\" 
+     (Pr 
+      ("\\$pn\\" "11" )))
+    (IPrt "\\4\\" 
+     (Pr 
+      ("\\$pn\\" "4" ))))
+   (Inst "page1_I77" 
+    (Pr 
+     ("JEDEC_TYPE" "RESC-0805_W" )
+     ("\\type\\" "TF-SMT0805" )
+     ("PART_NAME" "R_SMT_0805" )
+     ("NEEDS_NO_SIZE" "True" )
+     ("WATTAGE" "1/8W" )
+     ("TOL" "5%" )
+     ("PART_NUMBER" "10006506" )
+     ("VALUE" "47K" )
+     ("CDS_LMAN_SYM_OUTLINE" "-75,25,75,-25" )
+     ("CDS_LIB" "r_resistor" )
+     ("CDS_SEC" "1" )
+     ("\\$sec\\" "1" )
+     ("CDS_LOCATION" "R22" )
+     ("\\$location\\" "R22" )
+     ("ROT" "1" )
+     ("VER" "1" )
+     ("XY" "(7025,2600)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$wattage\\" "?" )
+      ("\\$pn\\" "1" ))))
+   (Inst "page1_I78" 
+    (Pr 
+     ("JEDEC_TYPE" "SOD-123_W" )
+     ("VRRM" "30V" )
+     ("\\type\\" "SCHOTTKY" )
+     ("PART_NAME" "D_SMT_SCHOTTKY_SOD-123" )
+     ("\\if\\" "500MA" )
+     ("NEEDS_NO_SIZE" "true" )
+     ("PART_NUMBER" "10004915" )
+     ("VALUE" "MBR0530" )
+     ("\\$alt_symbols\\" "?" )
+     ("CDS_LMAN_SYM_OUTLINE" "-50,50,50,-50" )
+     ("CDS_LIB" "d_diode" )
+     ("CDS_SEC" "1" )
+     ("\\$sec\\" "1" )
+     ("CDS_LOCATION" "D11" )
+     ("\\$location\\" "D11" )
+     ("ROT" "1" )
+     ("VER" "1" )
+     ("XY" "(6750,2600)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "C" 
+     (Pr 
+      ("CLOCK" "False" )
+      ("\\$pn\\" "C" )))
+    (IPrt "A" 
+     (Pr 
+      ("CLOCK" "False" )
+      ("\\$pn\\" "A" ))))
+   (Inst "page1_I80" 
+    (Pr 
+     ("NEEDS_NO_SIZE" "true" )
+     ("PART_NAME" "C_SMT_X7R_0805" )
+     ("\\type\\" "X7R" )
+     ("JEDEC_TYPE" "CAPC-0805_W" )
+     ("TOL" "20%" )
+     ("VOLT" "16V" )
+     ("PART_NUMBER" "10000680" )
+     ("VALUE" "0.1UF" )
+     ("\\$temp\\" "?" )
+     ("\\$alt_symbols\\" "?" )
+     ("CDS_LMAN_SYM_OUTLINE" "-50,25,50,-25" )
+     ("CDS_LIB" "c_capacitor" )
+     ("CDS_SEC" "1" )
+     ("\\$sec\\" "1" )
+     ("CDS_LOCATION" "C9" )
+     ("\\$location\\" "C9" )
+     ("ROT" "1" )
+     ("VER" "1" )
+     ("XY" "(6550,2750)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("CLOCK" "False" )
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("CLOCK" "False" )
+      ("\\$pn\\" "1" ))))
+   (Inst "page1_I82" 
+    (Pr 
+     ("NEEDS_NO_SIZE" "true" )
+     ("PART_NAME" "C_SMT_X7R_0805" )
+     ("\\type\\" "X7R" )
+     ("JEDEC_TYPE" "CAPC-0805_W" )
+     ("TOL" "20%" )
+     ("VOLT" "16V" )
+     ("PART_NUMBER" "10000680" )
+     ("VALUE" "0.1UF" )
+     ("\\$temp\\" "?" )
+     ("\\$alt_symbols\\" "?" )
+     ("CDS_LMAN_SYM_OUTLINE" "-50,25,50,-25" )
+     ("CDS_LIB" "c_capacitor" )
+     ("CDS_SEC" "1" )
+     ("\\$sec\\" "1" )
+     ("CDS_LOCATION" "C11" )
+     ("\\$location\\" "C11" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(5425,2975)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("CLOCK" "False" )
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("CLOCK" "False" )
+      ("\\$pn\\" "1" ))))
+   (Inst "page1_I83" 
+    (Pr 
+     ("NEEDS_NO_SIZE" "true" )
+     ("PART_NAME" "C_SMT_X7R_0805" )
+     ("\\type\\" "X7R" )
+     ("JEDEC_TYPE" "CAPC-0805_W" )
+     ("TOL" "20%" )
+     ("VOLT" "16V" )
+     ("PART_NUMBER" "10000680" )
+     ("VALUE" "0.1UF" )
+     ("\\$temp\\" "?" )
+     ("\\$alt_symbols\\" "?" )
+     ("CDS_LMAN_SYM_OUTLINE" "-50,25,50,-25" )
+     ("CDS_LIB" "c_capacitor" )
+     ("CDS_SEC" "1" )
+     ("\\$sec\\" "1" )
+     ("CDS_LOCATION" "C15" )
+     ("\\$location\\" "C15" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(8025,2975)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("CLOCK" "False" )
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("CLOCK" "False" )
+      ("\\$pn\\" "1" ))))
+   (Inst "page1_I85" 
+    (Pr 
+     ("NEEDS_NO_SIZE" "True" )
+     ("PART_NAME" "R_SMT_0805" )
+     ("\\type\\" "TF-SMT0805" )
+     ("JEDEC_TYPE" "RESC-0805_W" )
+     ("WATTAGE" "1/8W" )
+     ("TOL" "5%" )
+     ("PART_NUMBER" "10006514" )
+     ("VALUE" "100K" )
+     ("CDS_LMAN_SYM_OUTLINE" "-75,25,75,-25" )
+     ("CDS_LIB" "r_resistor" )
+     ("CDS_SEC" "1" )
+     ("\\$sec\\" "1" )
+     ("CDS_LOCATION" "R32" )
+     ("\\$location\\" "R32" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(7775,2025)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$wattage\\" "?" )
+      ("\\$pn\\" "1" ))))
+   (Inst "page1_I86" 
+    (Pr 
+     ("JEDEC_TYPE" "RESC-0805_W" )
+     ("\\type\\" "TF-SMT0805" )
+     ("PART_NAME" "R_SMT_0805" )
+     ("NEEDS_NO_SIZE" "True" )
+     ("WATTAGE" "1/8W" )
+     ("TOL" "5%" )
+     ("PART_NUMBER" "10006514" )
+     ("VALUE" "100K" )
+     ("CDS_LMAN_SYM_OUTLINE" "-75,25,75,-25" )
+     ("CDS_LIB" "r_resistor" )
+     ("CDS_SEC" "1" )
+     ("\\$sec\\" "1" )
+     ("CDS_LOCATION" "R26" )
+     ("\\$location\\" "R26" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(6925,2025)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$wattage\\" "?" )
+      ("\\$pn\\" "1" ))))
+   (Inst "page1_I87" 
+    (Pr 
+     ("JEDEC_TYPE" "RESC-0805_W" )
+     ("\\type\\" "TF-SMT0805" )
+     ("PART_NAME" "R_SMT_0805" )
+     ("NEEDS_NO_SIZE" "True" )
+     ("WATTAGE" "1/8W" )
+     ("TOL" "5%" )
+     ("PART_NUMBER" "10006466" )
+     ("VALUE" "1.0K" )
+     ("CDS_LMAN_SYM_OUTLINE" "-75,25,75,-25" )
+     ("CDS_LIB" "r_resistor" )
+     ("CDS_SEC" "1" )
+     ("\\$sec\\" "1" )
+     ("CDS_LOCATION" "R35" )
+     ("\\$location\\" "R35" )
+     ("ROT" "1" )
+     ("VER" "1" )
+     ("XY" "(8450,1475)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$wattage\\" "?" )
+      ("\\$pn\\" "1" ))))
+   (Inst "page1_I88" 
+    (Pr 
+     ("JEDEC_TYPE" "SOT-23_W" )
+     ("VRRM" "75V" )
+     ("\\type\\" "SIGNAL-3PIN" )
+     ("PART_NAME" "D_SMT_SIGNAL_1A3C_SOT-23" )
+     ("\\if\\" "200MA" )
+     ("NEEDS_NO_SIZE" "true" )
+     ("PART_NUMBER" "10004947" )
+     ("VALUE" "MMBD4148" )
+     ("\\$alt_symbols\\" "?" )
+     ("CDS_LMAN_SYM_OUTLINE" "-50,50,50,-50" )
+     ("CDS_LIB" "d_diode" )
+     ("CDS_SEC" "1" )
+     ("\\$sec\\" "1" )
+     ("CDS_LOCATION" "D17" )
+     ("\\$location\\" "D17" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(7850,1625)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "C" 
+     (Pr 
+      ("CLOCK" "False" )
+      ("\\$pn\\" "3" )))
+    (IPrt "A" 
+     (Pr 
+      ("CLOCK" "False" )
+      ("\\$pn\\" "1" ))))
+   (Inst "page1_I89" 
+    (Pr 
+     ("NEEDS_NO_SIZE" "true" )
+     ("PART_NAME" "C_SMT_X7R_0805" )
+     ("\\type\\" "X7R" )
+     ("JEDEC_TYPE" "CAPC-0805_W" )
+     ("TOL" "20%" )
+     ("VOLT" "16V" )
+     ("PART_NUMBER" "10000680" )
+     ("VALUE" "0.1UF" )
+     ("\\$temp\\" "?" )
+     ("\\$alt_symbols\\" "?" )
+     ("CDS_LMAN_SYM_OUTLINE" "-50,25,50,-25" )
+     ("CDS_LIB" "c_capacitor" )
+     ("CDS_SEC" "1" )
+     ("\\$sec\\" "1" )
+     ("CDS_LOCATION" "C17" )
+     ("\\$location\\" "C17" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(8100,1475)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("CLOCK" "False" )
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("CLOCK" "False" )
+      ("\\$pn\\" "1" ))))
+   (Inst "page1_I91" 
+    (Pr 
+     ("JEDEC_TYPE" "RESC-0805_W" )
+     ("\\type\\" "TF-SMT0805" )
+     ("PART_NAME" "R_SMT_0805" )
+     ("NEEDS_NO_SIZE" "True" )
+     ("WATTAGE" "1/8W" )
+     ("TOL" "5%" )
+     ("PART_NUMBER" "10006466" )
+     ("VALUE" "1.0K" )
+     ("CDS_LMAN_SYM_OUTLINE" "-75,25,75,-25" )
+     ("CDS_LIB" "r_resistor" )
+     ("CDS_SEC" "1" )
+     ("\\$sec\\" "1" )
+     ("CDS_LOCATION" "R34" )
+     ("\\$location\\" "R34" )
+     ("ROT" "1" )
+     ("VER" "1" )
+     ("XY" "(8425,425)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$wattage\\" "?" )
+      ("\\$pn\\" "1" ))))
+   (Inst "page1_I92" 
+    (Pr 
+     ("JEDEC_TYPE" "SOT-23_W" )
+     ("VRRM" "75V" )
+     ("\\type\\" "SIGNAL-3PIN" )
+     ("PART_NAME" "D_SMT_SIGNAL_1A3C_SOT-23" )
+     ("\\if\\" "200MA" )
+     ("NEEDS_NO_SIZE" "true" )
+     ("PART_NUMBER" "10004947" )
+     ("VALUE" "MMBD4148" )
+     ("\\$alt_symbols\\" "?" )
+     ("CDS_LMAN_SYM_OUTLINE" "-50,50,50,-50" )
+     ("CDS_LIB" "d_diode" )
+     ("CDS_SEC" "1" )
+     ("\\$sec\\" "1" )
+     ("CDS_LOCATION" "D16" )
+     ("\\$location\\" "D16" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(7825,575)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "C" 
+     (Pr 
+      ("CLOCK" "False" )
+      ("\\$pn\\" "3" )))
+    (IPrt "A" 
+     (Pr 
+      ("CLOCK" "False" )
+      ("\\$pn\\" "1" ))))
+   (Inst "page1_I93" 
+    (Pr 
+     ("NEEDS_NO_SIZE" "true" )
+     ("PART_NAME" "C_SMT_X7R_0805" )
+     ("\\type\\" "X7R" )
+     ("JEDEC_TYPE" "CAPC-0805_W" )
+     ("TOL" "20%" )
+     ("VOLT" "16V" )
+     ("PART_NUMBER" "10000680" )
+     ("VALUE" "0.1UF" )
+     ("\\$temp\\" "?" )
+     ("\\$alt_symbols\\" "?" )
+     ("CDS_LMAN_SYM_OUTLINE" "-50,25,50,-25" )
+     ("CDS_LIB" "c_capacitor" )
+     ("CDS_SEC" "1" )
+     ("\\$sec\\" "1" )
+     ("CDS_LOCATION" "C16" )
+     ("\\$location\\" "C16" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(8075,425)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("CLOCK" "False" )
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("CLOCK" "False" )
+      ("\\$pn\\" "1" ))))
+   (Inst "page1_I95" 
+    (Pr 
+     ("JEDEC_TYPE" "SO14" )
+     ("PART_NAME" "U_LM324_SERIES_SO14" )
+     ("PART_NUMBER" "10019427" )
+     ("VALUE" "LM324D" )
+     ("CDS_LMAN_SYM_OUTLINE" "-200,125,100,-175" )
+     ("CDS_LIB" "u_ic" )
+     ("CDS_SEC" "3" )
+     ("\\$sec\\" "3" )
+     ("CDS_LOCATION" "U2" )
+     ("\\$location\\" "U2" )
+     ("ROT" "6" )
+     ("VER" "2" )
+     ("XY" "(7500,1625)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "\\out\\" 
+     (Pr 
+      ("\\$pn\\" "8" )))
+    (IPrt "IP" 
+     (Pr 
+      ("\\$pn\\" "10" )))
+    (IPrt "\\in\\" 
+     (Pr 
+      ("\\$pn\\" "9" )))
+    (IPrt "\\11\\" 
+     (Pr 
+      ("CDS_NOT_ON_SYM" "TRUE" )))
+    (IPrt "\\4\\" 
+     (Pr 
+      ("CDS_NOT_ON_SYM" "TRUE" ))))
+   (Inst "page1_I96" 
+    (Pr 
+     ("NEEDS_NO_SIZE" "True" )
+     ("PART_NAME" "R_SMT_0805" )
+     ("\\type\\" "TF-SMT0805" )
+     ("JEDEC_TYPE" "RESC-0805_W" )
+     ("WATTAGE" "1/8W" )
+     ("TOL" "5%" )
+     ("PART_NUMBER" "10006514" )
+     ("VALUE" "100K" )
+     ("CDS_LMAN_SYM_OUTLINE" "-75,25,75,-25" )
+     ("CDS_LIB" "r_resistor" )
+     ("CDS_SEC" "1" )
+     ("\\$sec\\" "1" )
+     ("CDS_LOCATION" "R31" )
+     ("\\$location\\" "R31" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(7750,975)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$wattage\\" "?" )
+      ("\\$pn\\" "1" ))))
+   (Inst "page1_I97" 
+    (Pr 
+     ("JEDEC_TYPE" "RESC-0805_W" )
+     ("\\type\\" "TF-SMT0805" )
+     ("PART_NAME" "R_SMT_0805" )
+     ("NEEDS_NO_SIZE" "True" )
+     ("WATTAGE" "1/8W" )
+     ("TOL" "5%" )
+     ("PART_NUMBER" "10006506" )
+     ("VALUE" "47K" )
+     ("CDS_LMAN_SYM_OUTLINE" "-75,25,75,-25" )
+     ("CDS_LIB" "r_resistor" )
+     ("CDS_SEC" "1" )
+     ("\\$sec\\" "1" )
+     ("CDS_LOCATION" "R28" )
+     ("\\$location\\" "R28" )
+     ("ROT" "1" )
+     ("VER" "1" )
+     ("XY" "(7000,1425)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$wattage\\" "?" )
+      ("\\$pn\\" "1" ))))
+   (Inst "page1_I98" 
+    (Pr 
+     ("JEDEC_TYPE" "SOD-123_W" )
+     ("VRRM" "30V" )
+     ("\\type\\" "SCHOTTKY" )
+     ("PART_NAME" "D_SMT_SCHOTTKY_SOD-123" )
+     ("\\if\\" "500MA" )
+     ("NEEDS_NO_SIZE" "true" )
+     ("PART_NUMBER" "10004915" )
+     ("VALUE" "MBR0530" )
+     ("\\$alt_symbols\\" "?" )
+     ("CDS_LMAN_SYM_OUTLINE" "-50,50,50,-50" )
+     ("CDS_LIB" "d_diode" )
+     ("CDS_SEC" "1" )
+     ("\\$sec\\" "1" )
+     ("CDS_LOCATION" "D14" )
+     ("\\$location\\" "D14" )
+     ("ROT" "1" )
+     ("VER" "1" )
+     ("XY" "(6725,1425)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "C" 
+     (Pr 
+      ("CLOCK" "False" )
+      ("\\$pn\\" "C" )))
+    (IPrt "A" 
+     (Pr 
+      ("CLOCK" "False" )
+      ("\\$pn\\" "A" ))))
+   (Inst "page1_I99" 
+    (Pr 
+     ("JEDEC_TYPE" "RESC-0805_W" )
+     ("\\type\\" "TF-SMT0805" )
+     ("PART_NAME" "R_SMT_0805" )
+     ("NEEDS_NO_SIZE" "True" )
+     ("WATTAGE" "1/8W" )
+     ("TOL" "5%" )
+     ("PART_NUMBER" "10006514" )
+     ("VALUE" "100K" )
+     ("CDS_LMAN_SYM_OUTLINE" "-75,25,75,-25" )
+     ("CDS_LIB" "r_resistor" )
+     ("CDS_SEC" "1" )
+     ("\\$sec\\" "1" )
+     ("CDS_LOCATION" "R25" )
+     ("\\$location\\" "R25" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(6900,975)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$wattage\\" "?" )
+      ("\\$pn\\" "1" ))))
+   (Inst "page1_I100" 
+    (Pr 
+     ("JEDEC_TYPE" "SO14" )
+     ("PART_NAME" "U_LM324_SERIES_SO14" )
+     ("PART_NUMBER" "10019427" )
+     ("VALUE" "LM324D" )
+     ("CDS_LMAN_SYM_OUTLINE" "-200,125,100,-175" )
+     ("CDS_LIB" "u_ic" )
+     ("CDS_SEC" "2" )
+     ("\\$sec\\" "2" )
+     ("CDS_LOCATION" "U2" )
+     ("\\$location\\" "U2" )
+     ("ROT" "6" )
+     ("VER" "2" )
+     ("XY" "(7475,575)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "\\out\\" 
+     (Pr 
+      ("\\$pn\\" "7" )))
+    (IPrt "IP" 
+     (Pr 
+      ("\\$pn\\" "5" )))
+    (IPrt "\\in\\" 
+     (Pr 
+      ("\\$pn\\" "6" )))
+    (IPrt "\\11\\" 
+     (Pr 
+      ("CDS_NOT_ON_SYM" "TRUE" )))
+    (IPrt "\\4\\" 
+     (Pr 
+      ("CDS_NOT_ON_SYM" "TRUE" ))))
+   (Inst "page1_I101" 
+    (Pr 
+     ("JEDEC_TYPE" "RESC-0805_W" )
+     ("\\type\\" "TF-SMT0805" )
+     ("PART_NAME" "R_SMT_0805" )
+     ("NEEDS_NO_SIZE" "True" )
+     ("WATTAGE" "1/8W" )
+     ("TOL" "5%" )
+     ("PART_NUMBER" "10006506" )
+     ("VALUE" "47K" )
+     ("CDS_LMAN_SYM_OUTLINE" "-75,25,75,-25" )
+     ("CDS_LIB" "r_resistor" )
+     ("CDS_SEC" "1" )
+     ("\\$sec\\" "1" )
+     ("CDS_LOCATION" "R27" )
+     ("\\$location\\" "R27" )
+     ("ROT" "1" )
+     ("VER" "1" )
+     ("XY" "(6975,375)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$wattage\\" "?" )
+      ("\\$pn\\" "1" ))))
+   (Inst "page1_I102" 
+    (Pr 
+     ("JEDEC_TYPE" "SOD-123_W" )
+     ("VRRM" "30V" )
+     ("\\type\\" "SCHOTTKY" )
+     ("PART_NAME" "D_SMT_SCHOTTKY_SOD-123" )
+     ("\\if\\" "500MA" )
+     ("NEEDS_NO_SIZE" "true" )
+     ("PART_NUMBER" "10004915" )
+     ("VALUE" "MBR0530" )
+     ("\\$alt_symbols\\" "?" )
+     ("CDS_LMAN_SYM_OUTLINE" "-50,50,50,-50" )
+     ("CDS_LIB" "d_diode" )
+     ("CDS_SEC" "1" )
+     ("\\$sec\\" "1" )
+     ("CDS_LOCATION" "D13" )
+     ("\\$location\\" "D13" )
+     ("ROT" "1" )
+     ("VER" "1" )
+     ("XY" "(6700,375)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "C" 
+     (Pr 
+      ("CLOCK" "False" )
+      ("\\$pn\\" "C" )))
+    (IPrt "A" 
+     (Pr 
+      ("CLOCK" "False" )
+      ("\\$pn\\" "A" ))))
+   (Inst "page1_I104" 
+    (Pr 
+     ("NEEDS_NO_SIZE" "true" )
+     ("PART_NAME" "C_SMT_X7R_0805" )
+     ("\\type\\" "X7R" )
+     ("JEDEC_TYPE" "CAPC-0805_W" )
+     ("TOL" "20%" )
+     ("VOLT" "16V" )
+     ("PART_NUMBER" "10000680" )
+     ("VALUE" "0.1UF" )
+     ("\\$temp\\" "?" )
+     ("\\$alt_symbols\\" "?" )
+     ("CDS_LMAN_SYM_OUTLINE" "-50,25,50,-25" )
+     ("CDS_LIB" "c_capacitor" )
+     ("CDS_SEC" "1" )
+     ("\\$sec\\" "1" )
+     ("CDS_LOCATION" "C13" )
+     ("\\$location\\" "C13" )
+     ("ROT" "1" )
+     ("VER" "1" )
+     ("XY" "(6525,1575)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("CLOCK" "False" )
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("CLOCK" "False" )
+      ("\\$pn\\" "1" ))))
+   (Inst "page1_I106" 
+    (Pr 
+     ("NEEDS_NO_SIZE" "true" )
+     ("PART_NAME" "C_SMT_X7R_0805" )
+     ("\\type\\" "X7R" )
+     ("JEDEC_TYPE" "CAPC-0805_W" )
+     ("TOL" "20%" )
+     ("VOLT" "16V" )
+     ("PART_NUMBER" "10000680" )
+     ("VALUE" "0.1UF" )
+     ("\\$temp\\" "?" )
+     ("\\$alt_symbols\\" "?" )
+     ("CDS_LMAN_SYM_OUTLINE" "-50,25,50,-25" )
+     ("CDS_LIB" "c_capacitor" )
+     ("CDS_SEC" "1" )
+     ("\\$sec\\" "1" )
+     ("CDS_LOCATION" "C12" )
+     ("\\$location\\" "C12" )
+     ("ROT" "1" )
+     ("VER" "1" )
+     ("XY" "(6500,525)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("CLOCK" "False" )
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("CLOCK" "False" )
+      ("\\$pn\\" "1" ))))
+   (Inst "page1_I107" 
+    (Pr 
+     ("JEDEC_TYPE" "RESC-0805_W" )
+     ("\\type\\" "TF-SMT0805" )
+     ("PART_NAME" "R_SMT_0805" )
+     ("NEEDS_NO_SIZE" "True" )
+     ("WATTAGE" "1/8W" )
+     ("TOL" "5%" )
+     ("PART_NUMBER" "10006466" )
+     ("VALUE" "1.0K" )
+     ("CDS_LMAN_SYM_OUTLINE" "-75,25,75,-25" )
+     ("CDS_LIB" "r_resistor" )
+     ("CDS_SEC" "1" )
+     ("\\$sec\\" "1" )
+     ("CDS_LOCATION" "R36" )
+     ("\\$location\\" "R36" )
+     ("ROT" "1" )
+     ("VER" "1" )
+     ("XY" "(8525,-700)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$wattage\\" "?" )
+      ("\\$pn\\" "1" ))))
+   (Inst "page1_I108" 
+    (Pr 
+     ("NEEDS_NO_SIZE" "True" )
+     ("PART_NAME" "R_SMT_0805" )
+     ("\\type\\" "TF-SMT0805" )
+     ("JEDEC_TYPE" "RESC-0805_W" )
+     ("WATTAGE" "1/8W" )
+     ("TOL" "5%" )
+     ("PART_NUMBER" "10006514" )
+     ("VALUE" "100K" )
+     ("CDS_LMAN_SYM_OUTLINE" "-75,25,75,-25" )
+     ("CDS_LIB" "r_resistor" )
+     ("CDS_SEC" "1" )
+     ("\\$sec\\" "1" )
+     ("CDS_LOCATION" "R33" )
+     ("\\$location\\" "R33" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(7850,-150)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$wattage\\" "?" )
+      ("\\$pn\\" "1" ))))
+   (Inst "page1_I109" 
+    (Pr 
+     ("JEDEC_TYPE" "SOT-23_W" )
+     ("VRRM" "75V" )
+     ("\\type\\" "SIGNAL-3PIN" )
+     ("PART_NAME" "D_SMT_SIGNAL_1A3C_SOT-23" )
+     ("\\if\\" "200MA" )
+     ("NEEDS_NO_SIZE" "true" )
+     ("PART_NUMBER" "10004947" )
+     ("VALUE" "MMBD4148" )
+     ("\\$alt_symbols\\" "?" )
+     ("CDS_LMAN_SYM_OUTLINE" "-50,50,50,-50" )
+     ("CDS_LIB" "d_diode" )
+     ("CDS_SEC" "1" )
+     ("\\$sec\\" "1" )
+     ("CDS_LOCATION" "D18" )
+     ("\\$location\\" "D18" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(7925,-550)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "C" 
+     (Pr 
+      ("CLOCK" "False" )
+      ("\\$pn\\" "3" )))
+    (IPrt "A" 
+     (Pr 
+      ("CLOCK" "False" )
+      ("\\$pn\\" "1" ))))
+   (Inst "page1_I110" 
+    (Pr 
+     ("NEEDS_NO_SIZE" "true" )
+     ("PART_NAME" "C_SMT_X7R_0805" )
+     ("\\type\\" "X7R" )
+     ("JEDEC_TYPE" "CAPC-0805_W" )
+     ("TOL" "20%" )
+     ("VOLT" "16V" )
+     ("PART_NUMBER" "10000680" )
+     ("VALUE" "0.1UF" )
+     ("\\$temp\\" "?" )
+     ("\\$alt_symbols\\" "?" )
+     ("CDS_LMAN_SYM_OUTLINE" "-50,25,50,-25" )
+     ("CDS_LIB" "c_capacitor" )
+     ("CDS_SEC" "1" )
+     ("\\$sec\\" "1" )
+     ("CDS_LOCATION" "C18" )
+     ("\\$location\\" "C18" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(8175,-700)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("CLOCK" "False" )
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("CLOCK" "False" )
+      ("\\$pn\\" "1" ))))
+   (Inst "page1_I112" 
+    (Pr 
+     ("PART_NAME" "U_LM324_SERIES_SO14" )
+     ("JEDEC_TYPE" "SO14" )
+     ("PART_NUMBER" "10019427" )
+     ("VALUE" "LM324D" )
+     ("CDS_LMAN_SYM_OUTLINE" "-200,125,100,-175" )
+     ("CDS_LIB" "u_ic" )
+     ("CDS_SEC" "4" )
+     ("\\$sec\\" "4" )
+     ("CDS_LOCATION" "U2" )
+     ("\\$location\\" "U2" )
+     ("ROT" "6" )
+     ("VER" "2" )
+     ("XY" "(7575,-550)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "\\out\\" 
+     (Pr 
+      ("\\$pn\\" "14" )))
+    (IPrt "IP" 
+     (Pr 
+      ("\\$pn\\" "12" )))
+    (IPrt "\\in\\" 
+     (Pr 
+      ("\\$pn\\" "13" )))
+    (IPrt "\\11\\" 
+     (Pr 
+      ("CDS_NOT_ON_SYM" "TRUE" )))
+    (IPrt "\\4\\" 
+     (Pr 
+      ("CDS_NOT_ON_SYM" "TRUE" ))))
+   (Inst "page1_I113" 
+    (Pr 
+     ("JEDEC_TYPE" "RESC-0805_W" )
+     ("\\type\\" "TF-SMT0805" )
+     ("PART_NAME" "R_SMT_0805" )
+     ("NEEDS_NO_SIZE" "True" )
+     ("WATTAGE" "1/8W" )
+     ("TOL" "5%" )
+     ("PART_NUMBER" "10006514" )
+     ("VALUE" "100K" )
+     ("CDS_LMAN_SYM_OUTLINE" "-75,25,75,-25" )
+     ("CDS_LIB" "r_resistor" )
+     ("CDS_SEC" "1" )
+     ("\\$sec\\" "1" )
+     ("CDS_LOCATION" "R29" )
+     ("\\$location\\" "R29" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(7000,-150)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$wattage\\" "?" )
+      ("\\$pn\\" "1" ))))
+   (Inst "page1_I114" 
+    (Pr 
+     ("JEDEC_TYPE" "RESC-0805_W" )
+     ("\\type\\" "TF-SMT0805" )
+     ("PART_NAME" "R_SMT_0805" )
+     ("NEEDS_NO_SIZE" "True" )
+     ("WATTAGE" "1/8W" )
+     ("TOL" "5%" )
+     ("PART_NUMBER" "10006506" )
+     ("VALUE" "47K" )
+     ("CDS_LMAN_SYM_OUTLINE" "-75,25,75,-25" )
+     ("CDS_LIB" "r_resistor" )
+     ("CDS_SEC" "1" )
+     ("\\$sec\\" "1" )
+     ("CDS_LOCATION" "R30" )
+     ("\\$location\\" "R30" )
+     ("ROT" "1" )
+     ("VER" "1" )
+     ("XY" "(7075,-750)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$wattage\\" "?" )
+      ("\\$pn\\" "1" ))))
+   (Inst "page1_I115" 
+    (Pr 
+     ("JEDEC_TYPE" "SOD-123_W" )
+     ("VRRM" "30V" )
+     ("\\type\\" "SCHOTTKY" )
+     ("PART_NAME" "D_SMT_SCHOTTKY_SOD-123" )
+     ("\\if\\" "500MA" )
+     ("NEEDS_NO_SIZE" "true" )
+     ("PART_NUMBER" "10004915" )
+     ("VALUE" "MBR0530" )
+     ("\\$alt_symbols\\" "?" )
+     ("CDS_LMAN_SYM_OUTLINE" "-50,50,50,-50" )
+     ("CDS_LIB" "d_diode" )
+     ("CDS_SEC" "1" )
+     ("\\$sec\\" "1" )
+     ("CDS_LOCATION" "D15" )
+     ("\\$location\\" "D15" )
+     ("ROT" "1" )
+     ("VER" "1" )
+     ("XY" "(6800,-750)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "C" 
+     (Pr 
+      ("CLOCK" "False" )
+      ("\\$pn\\" "C" )))
+    (IPrt "A" 
+     (Pr 
+      ("CLOCK" "False" )
+      ("\\$pn\\" "A" ))))
+   (Inst "page1_I117" 
+    (Pr 
+     ("NEEDS_NO_SIZE" "true" )
+     ("PART_NAME" "C_SMT_X7R_0805" )
+     ("\\type\\" "X7R" )
+     ("JEDEC_TYPE" "CAPC-0805_W" )
+     ("TOL" "20%" )
+     ("VOLT" "16V" )
+     ("PART_NUMBER" "10000680" )
+     ("VALUE" "0.1UF" )
+     ("\\$temp\\" "?" )
+     ("\\$alt_symbols\\" "?" )
+     ("CDS_LMAN_SYM_OUTLINE" "-50,25,50,-25" )
+     ("CDS_LIB" "c_capacitor" )
+     ("CDS_SEC" "1" )
+     ("\\$sec\\" "1" )
+     ("CDS_LOCATION" "C14" )
+     ("\\$location\\" "C14" )
+     ("ROT" "1" )
+     ("VER" "1" )
+     ("XY" "(6600,-600)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("CLOCK" "False" )
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("CLOCK" "False" )
+      ("\\$pn\\" "1" ))))
+   (Inst "page1_I118" 
+    (Pr 
+     ("JEDEC_TYPE" "RESC-0805_W" )
+     ("\\type\\" "TF-SMT0805" )
+     ("PART_NAME" "R_SMT_0805" )
+     ("NEEDS_NO_SIZE" "True" )
+     ("WATTAGE" "1/8W" )
+     ("TOL" "5%" )
+     ("PART_NUMBER" "10006466" )
+     ("VALUE" "1.0K" )
+     ("CDS_LMAN_SYM_OUTLINE" "-75,25,75,-25" )
+     ("CDS_LIB" "r_resistor" )
+     ("CDS_SEC" "1" )
+     ("\\$sec\\" "1" )
+     ("CDS_LOCATION" "R67" )
+     ("\\$location\\" "R67" )
+     ("ROT" "1" )
+     ("VER" "1" )
+     ("XY" "(13500,2575)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$wattage\\" "?" )
+      ("\\$pn\\" "1" ))))
+   (Inst "page1_I119" 
+    (Pr 
+     ("JEDEC_TYPE" "RESC-0805_W" )
+     ("\\type\\" "TF-SMT0805" )
+     ("PART_NAME" "R_SMT_0805" )
+     ("NEEDS_NO_SIZE" "True" )
+     ("WATTAGE" "1/8W" )
+     ("TOL" "5%" )
+     ("PART_NUMBER" "10006466" )
+     ("VALUE" "1.0K" )
+     ("CDS_LMAN_SYM_OUTLINE" "-75,25,75,-25" )
+     ("CDS_LIB" "r_resistor" )
+     ("CDS_SEC" "1" )
+     ("\\$sec\\" "1" )
+     ("CDS_LOCATION" "R66" )
+     ("\\$location\\" "R66" )
+     ("ROT" "1" )
+     ("VER" "1" )
+     ("XY" "(13475,1400)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$wattage\\" "?" )
+      ("\\$pn\\" "1" ))))
+   (Inst "page1_I120" 
+    (Pr 
+     ("JEDEC_TYPE" "RESC-0805_W" )
+     ("\\type\\" "TF-SMT0805" )
+     ("PART_NAME" "R_SMT_0805" )
+     ("NEEDS_NO_SIZE" "True" )
+     ("WATTAGE" "1/8W" )
+     ("TOL" "5%" )
+     ("PART_NUMBER" "10006466" )
+     ("VALUE" "1.0K" )
+     ("CDS_LMAN_SYM_OUTLINE" "-75,25,75,-25" )
+     ("CDS_LIB" "r_resistor" )
+     ("CDS_SEC" "1" )
+     ("\\$sec\\" "1" )
+     ("CDS_LOCATION" "R65" )
+     ("\\$location\\" "R65" )
+     ("ROT" "1" )
+     ("VER" "1" )
+     ("XY" "(13450,350)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$wattage\\" "?" )
+      ("\\$pn\\" "1" ))))
+   (Inst "page1_I121" 
+    (Pr 
+     ("NEEDS_NO_SIZE" "True" )
+     ("PART_NAME" "R_SMT_0805" )
+     ("\\type\\" "TF-SMT0805" )
+     ("JEDEC_TYPE" "RESC-0805_W" )
+     ("WATTAGE" "1/8W" )
+     ("TOL" "5%" )
+     ("PART_NUMBER" "10006514" )
+     ("VALUE" "100K" )
+     ("CDS_LMAN_SYM_OUTLINE" "-75,25,75,-25" )
+     ("CDS_LIB" "r_resistor" )
+     ("CDS_SEC" "1" )
+     ("\\$sec\\" "1" )
+     ("CDS_LOCATION" "R63" )
+     ("\\$location\\" "R63" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(12825,3125)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$wattage\\" "?" )
+      ("\\$pn\\" "1" ))))
+   (Inst "page1_I122" 
+    (Pr 
+     ("NEEDS_NO_SIZE" "true" )
+     ("PART_NAME" "C_SMT_X7R_0805" )
+     ("\\type\\" "X7R" )
+     ("JEDEC_TYPE" "CAPC-0805_W" )
+     ("TOL" "20%" )
+     ("VOLT" "16V" )
+     ("PART_NUMBER" "10000680" )
+     ("VALUE" "0.1UF" )
+     ("\\$temp\\" "?" )
+     ("\\$alt_symbols\\" "?" )
+     ("CDS_LMAN_SYM_OUTLINE" "-50,25,50,-25" )
+     ("CDS_LIB" "c_capacitor" )
+     ("CDS_SEC" "1" )
+     ("\\$sec\\" "1" )
+     ("CDS_LOCATION" "C32" )
+     ("\\$location\\" "C32" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(13050,2900)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("CLOCK" "False" )
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("CLOCK" "False" )
+      ("\\$pn\\" "1" ))))
+   (Inst "page1_I123" 
+    (Pr 
+     ("JEDEC_TYPE" "SOT-23_W" )
+     ("VRRM" "75V" )
+     ("\\type\\" "SIGNAL-3PIN" )
+     ("PART_NAME" "D_SMT_SIGNAL_1A3C_SOT-23" )
+     ("\\if\\" "200MA" )
+     ("NEEDS_NO_SIZE" "true" )
+     ("PART_NUMBER" "10004947" )
+     ("VALUE" "MMBD4148" )
+     ("\\$alt_symbols\\" "?" )
+     ("CDS_LMAN_SYM_OUTLINE" "-50,50,50,-50" )
+     ("CDS_LIB" "d_diode" )
+     ("CDS_SEC" "1" )
+     ("\\$sec\\" "1" )
+     ("CDS_LOCATION" "D33" )
+     ("\\$location\\" "D33" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(12900,2725)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "C" 
+     (Pr 
+      ("CLOCK" "False" )
+      ("\\$pn\\" "3" )))
+    (IPrt "A" 
+     (Pr 
+      ("CLOCK" "False" )
+      ("\\$pn\\" "1" ))))
+   (Inst "page1_I124" 
+    (Pr 
+     ("NEEDS_NO_SIZE" "true" )
+     ("PART_NAME" "C_SMT_X7R_0805" )
+     ("\\type\\" "X7R" )
+     ("JEDEC_TYPE" "CAPC-0805_W" )
+     ("TOL" "20%" )
+     ("VOLT" "16V" )
+     ("PART_NUMBER" "10000680" )
+     ("VALUE" "0.1UF" )
+     ("\\$temp\\" "?" )
+     ("\\$alt_symbols\\" "?" )
+     ("CDS_LMAN_SYM_OUTLINE" "-50,25,50,-25" )
+     ("CDS_LIB" "c_capacitor" )
+     ("CDS_SEC" "1" )
+     ("\\$sec\\" "1" )
+     ("CDS_LOCATION" "C35" )
+     ("\\$location\\" "C35" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(13150,2575)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("CLOCK" "False" )
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("CLOCK" "False" )
+      ("\\$pn\\" "1" ))))
+   (Inst "page1_I127" 
+    (Pr 
+     ("PART_NAME" "U_LM324_SERIES_SO14" )
+     ("JEDEC_TYPE" "SO14" )
+     ("PART_NUMBER" "10019427" )
+     ("VALUE" "LM324D" )
+     ("CDS_LMAN_SYM_OUTLINE" "-200,125,100,-175" )
+     ("CDS_LIB" "u_ic" )
+     ("CDS_SEC" "1" )
+     ("\\$sec\\" "1" )
+     ("CDS_LOCATION" "U4" )
+     ("\\$location\\" "U4" )
+     ("ROT" "6" )
+     ("VER" "1" )
+     ("XY" "(12550,2725)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "\\out\\" 
+     (Pr 
+      ("\\$pn\\" "1" )))
+    (IPrt "IP" 
+     (Pr 
+      ("\\$pn\\" "3" )))
+    (IPrt "\\in\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\11\\" 
+     (Pr 
+      ("\\$pn\\" "11" )))
+    (IPrt "\\4\\" 
+     (Pr 
+      ("\\$pn\\" "4" ))))
+   (Inst "page1_I129" 
+    (Pr 
+     ("JEDEC_TYPE" "RESC-0805_W" )
+     ("\\type\\" "TF-SMT0805" )
+     ("PART_NAME" "R_SMT_0805" )
+     ("NEEDS_NO_SIZE" "True" )
+     ("WATTAGE" "1/8W" )
+     ("TOL" "5%" )
+     ("PART_NUMBER" "10006514" )
+     ("VALUE" "100K" )
+     ("CDS_LMAN_SYM_OUTLINE" "-75,25,75,-25" )
+     ("CDS_LIB" "r_resistor" )
+     ("CDS_SEC" "1" )
+     ("\\$sec\\" "1" )
+     ("CDS_LOCATION" "R55" )
+     ("\\$location\\" "R55" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(11975,3125)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$wattage\\" "?" )
+      ("\\$pn\\" "1" ))))
+   (Inst "page1_I131" 
+    (Pr 
+     ("JEDEC_TYPE" "RESC-0805_W" )
+     ("\\type\\" "TF-SMT0805" )
+     ("PART_NAME" "R_SMT_0805" )
+     ("NEEDS_NO_SIZE" "True" )
+     ("WATTAGE" "1/8W" )
+     ("TOL" "5%" )
+     ("PART_NUMBER" "10006506" )
+     ("VALUE" "47K" )
+     ("CDS_LMAN_SYM_OUTLINE" "-75,25,75,-25" )
+     ("CDS_LIB" "r_resistor" )
+     ("CDS_SEC" "1" )
+     ("\\$sec\\" "1" )
+     ("CDS_LOCATION" "R59" )
+     ("\\$location\\" "R59" )
+     ("ROT" "1" )
+     ("VER" "1" )
+     ("XY" "(12050,2525)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$wattage\\" "?" )
+      ("\\$pn\\" "1" ))))
+   (Inst "page1_I132" 
+    (Pr 
+     ("JEDEC_TYPE" "SOD-123_W" )
+     ("VRRM" "30V" )
+     ("\\type\\" "SCHOTTKY" )
+     ("PART_NAME" "D_SMT_SCHOTTKY_SOD-123" )
+     ("\\if\\" "500MA" )
+     ("NEEDS_NO_SIZE" "true" )
+     ("PART_NUMBER" "10004915" )
+     ("VALUE" "MBR0530" )
+     ("\\$alt_symbols\\" "?" )
+     ("CDS_LMAN_SYM_OUTLINE" "-50,50,50,-50" )
+     ("CDS_LIB" "d_diode" )
+     ("CDS_SEC" "1" )
+     ("\\$sec\\" "1" )
+     ("CDS_LOCATION" "D29" )
+     ("\\$location\\" "D29" )
+     ("ROT" "1" )
+     ("VER" "1" )
+     ("XY" "(11775,2525)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "C" 
+     (Pr 
+      ("CLOCK" "False" )
+      ("\\$pn\\" "C" )))
+    (IPrt "A" 
+     (Pr 
+      ("CLOCK" "False" )
+      ("\\$pn\\" "A" ))))
+   (Inst "page1_I133" 
+    (Pr 
+     ("NEEDS_NO_SIZE" "true" )
+     ("PART_NAME" "C_SMT_X7R_0805" )
+     ("\\type\\" "X7R" )
+     ("JEDEC_TYPE" "CAPC-0805_W" )
+     ("TOL" "20%" )
+     ("VOLT" "16V" )
+     ("PART_NUMBER" "10000680" )
+     ("VALUE" "0.1UF" )
+     ("\\$temp\\" "?" )
+     ("\\$alt_symbols\\" "?" )
+     ("CDS_LMAN_SYM_OUTLINE" "-50,25,50,-25" )
+     ("CDS_LIB" "c_capacitor" )
+     ("CDS_SEC" "1" )
+     ("\\$sec\\" "1" )
+     ("CDS_LOCATION" "C30" )
+     ("\\$location\\" "C30" )
+     ("ROT" "1" )
+     ("VER" "1" )
+     ("XY" "(11575,2675)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("CLOCK" "False" )
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("CLOCK" "False" )
+      ("\\$pn\\" "1" ))))
+   (Inst "page1_I134" 
+    (Pr 
+     ("JEDEC_TYPE" "SOT-23_W" )
+     ("VRRM" "75V" )
+     ("\\type\\" "SIGNAL-3PIN" )
+     ("PART_NAME" "D_SMT_SIGNAL_1A3C_SOT-23" )
+     ("\\if\\" "200MA" )
+     ("NEEDS_NO_SIZE" "true" )
+     ("PART_NUMBER" "10004947" )
+     ("VALUE" "MMBD4148" )
+     ("\\$alt_symbols\\" "?" )
+     ("CDS_LMAN_SYM_OUTLINE" "-50,50,50,-50" )
+     ("CDS_LIB" "d_diode" )
+     ("CDS_SEC" "1" )
+     ("\\$sec\\" "1" )
+     ("CDS_LOCATION" "D32" )
+     ("\\$location\\" "D32" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(12875,1550)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "C" 
+     (Pr 
+      ("CLOCK" "False" )
+      ("\\$pn\\" "3" )))
+    (IPrt "A" 
+     (Pr 
+      ("CLOCK" "False" )
+      ("\\$pn\\" "1" ))))
+   (Inst "page1_I135" 
+    (Pr 
+     ("NEEDS_NO_SIZE" "true" )
+     ("PART_NAME" "C_SMT_X7R_0805" )
+     ("\\type\\" "X7R" )
+     ("JEDEC_TYPE" "CAPC-0805_W" )
+     ("TOL" "20%" )
+     ("VOLT" "16V" )
+     ("PART_NUMBER" "10000680" )
+     ("VALUE" "0.1UF" )
+     ("\\$temp\\" "?" )
+     ("\\$alt_symbols\\" "?" )
+     ("CDS_LMAN_SYM_OUTLINE" "-50,25,50,-25" )
+     ("CDS_LIB" "c_capacitor" )
+     ("CDS_SEC" "1" )
+     ("\\$sec\\" "1" )
+     ("CDS_LOCATION" "C34" )
+     ("\\$location\\" "C34" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(13125,1400)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("CLOCK" "False" )
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("CLOCK" "False" )
+      ("\\$pn\\" "1" ))))
+   (Inst "page1_I137" 
+    (Pr 
+     ("NEEDS_NO_SIZE" "True" )
+     ("PART_NAME" "R_SMT_0805" )
+     ("\\type\\" "TF-SMT0805" )
+     ("JEDEC_TYPE" "RESC-0805_W" )
+     ("WATTAGE" "1/8W" )
+     ("TOL" "5%" )
+     ("PART_NUMBER" "10006514" )
+     ("VALUE" "100K" )
+     ("CDS_LMAN_SYM_OUTLINE" "-75,25,75,-25" )
+     ("CDS_LIB" "r_resistor" )
+     ("CDS_SEC" "1" )
+     ("\\$sec\\" "1" )
+     ("CDS_LOCATION" "R62" )
+     ("\\$location\\" "R62" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(12800,1950)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$wattage\\" "?" )
+      ("\\$pn\\" "1" ))))
+   (Inst "page1_I138" 
+    (Pr 
+     ("JEDEC_TYPE" "SO14" )
+     ("PART_NAME" "U_LM324_SERIES_SO14" )
+     ("PART_NUMBER" "10019427" )
+     ("VALUE" "LM324D" )
+     ("CDS_LMAN_SYM_OUTLINE" "-200,125,100,-175" )
+     ("CDS_LIB" "u_ic" )
+     ("CDS_SEC" "3" )
+     ("\\$sec\\" "3" )
+     ("CDS_LOCATION" "U4" )
+     ("\\$location\\" "U4" )
+     ("ROT" "6" )
+     ("VER" "2" )
+     ("XY" "(12525,1550)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "\\out\\" 
+     (Pr 
+      ("\\$pn\\" "8" )))
+    (IPrt "IP" 
+     (Pr 
+      ("\\$pn\\" "10" )))
+    (IPrt "\\in\\" 
+     (Pr 
+      ("\\$pn\\" "9" )))
+    (IPrt "\\11\\" 
+     (Pr 
+      ("CDS_NOT_ON_SYM" "TRUE" )))
+    (IPrt "\\4\\" 
+     (Pr 
+      ("CDS_NOT_ON_SYM" "TRUE" ))))
+   (Inst "page1_I139" 
+    (Pr 
+     ("JEDEC_TYPE" "SOT-23_W" )
+     ("VRRM" "75V" )
+     ("\\type\\" "SIGNAL-3PIN" )
+     ("PART_NAME" "D_SMT_SIGNAL_1A3C_SOT-23" )
+     ("\\if\\" "200MA" )
+     ("NEEDS_NO_SIZE" "true" )
+     ("PART_NUMBER" "10004947" )
+     ("VALUE" "MMBD4148" )
+     ("\\$alt_symbols\\" "?" )
+     ("CDS_LMAN_SYM_OUTLINE" "-50,50,50,-50" )
+     ("CDS_LIB" "d_diode" )
+     ("CDS_SEC" "1" )
+     ("\\$sec\\" "1" )
+     ("CDS_LOCATION" "D31" )
+     ("\\$location\\" "D31" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(12850,500)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "C" 
+     (Pr 
+      ("CLOCK" "False" )
+      ("\\$pn\\" "3" )))
+    (IPrt "A" 
+     (Pr 
+      ("CLOCK" "False" )
+      ("\\$pn\\" "1" ))))
+   (Inst "page1_I140" 
+    (Pr 
+     ("NEEDS_NO_SIZE" "true" )
+     ("PART_NAME" "C_SMT_X7R_0805" )
+     ("\\type\\" "X7R" )
+     ("JEDEC_TYPE" "CAPC-0805_W" )
+     ("TOL" "20%" )
+     ("VOLT" "16V" )
+     ("PART_NUMBER" "10000680" )
+     ("VALUE" "0.1UF" )
+     ("\\$temp\\" "?" )
+     ("\\$alt_symbols\\" "?" )
+     ("CDS_LMAN_SYM_OUTLINE" "-50,25,50,-25" )
+     ("CDS_LIB" "c_capacitor" )
+     ("CDS_SEC" "1" )
+     ("\\$sec\\" "1" )
+     ("CDS_LOCATION" "C33" )
+     ("\\$location\\" "C33" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(13100,350)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("CLOCK" "False" )
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("CLOCK" "False" )
+      ("\\$pn\\" "1" ))))
+   (Inst "page1_I142" 
+    (Pr 
+     ("NEEDS_NO_SIZE" "True" )
+     ("PART_NAME" "R_SMT_0805" )
+     ("\\type\\" "TF-SMT0805" )
+     ("JEDEC_TYPE" "RESC-0805_W" )
+     ("WATTAGE" "1/8W" )
+     ("TOL" "5%" )
+     ("PART_NUMBER" "10006514" )
+     ("VALUE" "100K" )
+     ("CDS_LMAN_SYM_OUTLINE" "-75,25,75,-25" )
+     ("CDS_LIB" "r_resistor" )
+     ("CDS_SEC" "1" )
+     ("\\$sec\\" "1" )
+     ("CDS_LOCATION" "R61" )
+     ("\\$location\\" "R61" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(12775,900)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$wattage\\" "?" )
+      ("\\$pn\\" "1" ))))
+   (Inst "page1_I143" 
+    (Pr 
+     ("JEDEC_TYPE" "SO14" )
+     ("PART_NAME" "U_LM324_SERIES_SO14" )
+     ("PART_NUMBER" "10019427" )
+     ("VALUE" "LM324D" )
+     ("CDS_LMAN_SYM_OUTLINE" "-200,125,100,-175" )
+     ("CDS_LIB" "u_ic" )
+     ("CDS_SEC" "2" )
+     ("\\$sec\\" "2" )
+     ("CDS_LOCATION" "U4" )
+     ("\\$location\\" "U4" )
+     ("ROT" "6" )
+     ("VER" "2" )
+     ("XY" "(12500,500)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "\\out\\" 
+     (Pr 
+      ("\\$pn\\" "7" )))
+    (IPrt "IP" 
+     (Pr 
+      ("\\$pn\\" "5" )))
+    (IPrt "\\in\\" 
+     (Pr 
+      ("\\$pn\\" "6" )))
+    (IPrt "\\11\\" 
+     (Pr 
+      ("CDS_NOT_ON_SYM" "TRUE" )))
+    (IPrt "\\4\\" 
+     (Pr 
+      ("CDS_NOT_ON_SYM" "TRUE" ))))
+   (Inst "page1_I144" 
+    (Pr 
+     ("JEDEC_TYPE" "RESC-0805_W" )
+     ("\\type\\" "TF-SMT0805" )
+     ("PART_NAME" "R_SMT_0805" )
+     ("NEEDS_NO_SIZE" "True" )
+     ("WATTAGE" "1/8W" )
+     ("TOL" "5%" )
+     ("PART_NUMBER" "10006514" )
+     ("VALUE" "100K" )
+     ("CDS_LMAN_SYM_OUTLINE" "-75,25,75,-25" )
+     ("CDS_LIB" "r_resistor" )
+     ("CDS_SEC" "1" )
+     ("\\$sec\\" "1" )
+     ("CDS_LOCATION" "R54" )
+     ("\\$location\\" "R54" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(11950,1950)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$wattage\\" "?" )
+      ("\\$pn\\" "1" ))))
+   (Inst "page1_I145" 
+    (Pr 
+     ("JEDEC_TYPE" "RESC-0805_W" )
+     ("\\type\\" "TF-SMT0805" )
+     ("PART_NAME" "R_SMT_0805" )
+     ("NEEDS_NO_SIZE" "True" )
+     ("WATTAGE" "1/8W" )
+     ("TOL" "5%" )
+     ("PART_NUMBER" "10006506" )
+     ("VALUE" "47K" )
+     ("CDS_LMAN_SYM_OUTLINE" "-75,25,75,-25" )
+     ("CDS_LIB" "r_resistor" )
+     ("CDS_SEC" "1" )
+     ("\\$sec\\" "1" )
+     ("CDS_LOCATION" "R57" )
+     ("\\$location\\" "R57" )
+     ("ROT" "1" )
+     ("VER" "1" )
+     ("XY" "(12025,1350)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$wattage\\" "?" )
+      ("\\$pn\\" "1" ))))
+   (Inst "page1_I146" 
+    (Pr 
+     ("JEDEC_TYPE" "SOD-123_W" )
+     ("VRRM" "30V" )
+     ("\\type\\" "SCHOTTKY" )
+     ("PART_NAME" "D_SMT_SCHOTTKY_SOD-123" )
+     ("\\if\\" "500MA" )
+     ("NEEDS_NO_SIZE" "true" )
+     ("PART_NUMBER" "10004915" )
+     ("VALUE" "MBR0530" )
+     ("\\$alt_symbols\\" "?" )
+     ("CDS_LMAN_SYM_OUTLINE" "-50,50,50,-50" )
+     ("CDS_LIB" "d_diode" )
+     ("CDS_SEC" "1" )
+     ("\\$sec\\" "1" )
+     ("CDS_LOCATION" "D28" )
+     ("\\$location\\" "D28" )
+     ("ROT" "1" )
+     ("VER" "1" )
+     ("XY" "(11750,1350)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "C" 
+     (Pr 
+      ("CLOCK" "False" )
+      ("\\$pn\\" "C" )))
+    (IPrt "A" 
+     (Pr 
+      ("CLOCK" "False" )
+      ("\\$pn\\" "A" ))))
+   (Inst "page1_I148" 
+    (Pr 
+     ("NEEDS_NO_SIZE" "true" )
+     ("PART_NAME" "C_SMT_X7R_0805" )
+     ("\\type\\" "X7R" )
+     ("JEDEC_TYPE" "CAPC-0805_W" )
+     ("TOL" "20%" )
+     ("VOLT" "16V" )
+     ("PART_NUMBER" "10000680" )
+     ("VALUE" "0.1UF" )
+     ("\\$temp\\" "?" )
+     ("\\$alt_symbols\\" "?" )
+     ("CDS_LMAN_SYM_OUTLINE" "-50,25,50,-25" )
+     ("CDS_LIB" "c_capacitor" )
+     ("CDS_SEC" "1" )
+     ("\\$sec\\" "1" )
+     ("CDS_LOCATION" "C29" )
+     ("\\$location\\" "C29" )
+     ("ROT" "1" )
+     ("VER" "1" )
+     ("XY" "(11550,1500)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("CLOCK" "False" )
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("CLOCK" "False" )
+      ("\\$pn\\" "1" ))))
+   (Inst "page1_I149" 
+    (Pr 
+     ("JEDEC_TYPE" "RESC-0805_W" )
+     ("\\type\\" "TF-SMT0805" )
+     ("PART_NAME" "R_SMT_0805" )
+     ("NEEDS_NO_SIZE" "True" )
+     ("WATTAGE" "1/8W" )
+     ("TOL" "5%" )
+     ("PART_NUMBER" "10006514" )
+     ("VALUE" "100K" )
+     ("CDS_LMAN_SYM_OUTLINE" "-75,25,75,-25" )
+     ("CDS_LIB" "r_resistor" )
+     ("CDS_SEC" "1" )
+     ("\\$sec\\" "1" )
+     ("CDS_LOCATION" "R53" )
+     ("\\$location\\" "R53" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(11925,900)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$wattage\\" "?" )
+      ("\\$pn\\" "1" ))))
+   (Inst "page1_I150" 
+    (Pr 
+     ("JEDEC_TYPE" "RESC-0805_W" )
+     ("\\type\\" "TF-SMT0805" )
+     ("PART_NAME" "R_SMT_0805" )
+     ("NEEDS_NO_SIZE" "True" )
+     ("WATTAGE" "1/8W" )
+     ("TOL" "5%" )
+     ("PART_NUMBER" "10006506" )
+     ("VALUE" "47K" )
+     ("CDS_LMAN_SYM_OUTLINE" "-75,25,75,-25" )
+     ("CDS_LIB" "r_resistor" )
+     ("CDS_SEC" "1" )
+     ("\\$sec\\" "1" )
+     ("CDS_LOCATION" "R56" )
+     ("\\$location\\" "R56" )
+     ("ROT" "1" )
+     ("VER" "1" )
+     ("XY" "(12000,300)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$wattage\\" "?" )
+      ("\\$pn\\" "1" ))))
+   (Inst "page1_I151" 
+    (Pr 
+     ("JEDEC_TYPE" "SOD-123_W" )
+     ("VRRM" "30V" )
+     ("\\type\\" "SCHOTTKY" )
+     ("PART_NAME" "D_SMT_SCHOTTKY_SOD-123" )
+     ("\\if\\" "500MA" )
+     ("NEEDS_NO_SIZE" "true" )
+     ("PART_NUMBER" "10004915" )
+     ("VALUE" "MBR0530" )
+     ("\\$alt_symbols\\" "?" )
+     ("CDS_LMAN_SYM_OUTLINE" "-50,50,50,-50" )
+     ("CDS_LIB" "d_diode" )
+     ("CDS_SEC" "1" )
+     ("\\$sec\\" "1" )
+     ("CDS_LOCATION" "D27" )
+     ("\\$location\\" "D27" )
+     ("ROT" "1" )
+     ("VER" "1" )
+     ("XY" "(11725,300)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "C" 
+     (Pr 
+      ("CLOCK" "False" )
+      ("\\$pn\\" "C" )))
+    (IPrt "A" 
+     (Pr 
+      ("CLOCK" "False" )
+      ("\\$pn\\" "A" ))))
+   (Inst "page1_I153" 
+    (Pr 
+     ("NEEDS_NO_SIZE" "true" )
+     ("PART_NAME" "C_SMT_X7R_0805" )
+     ("\\type\\" "X7R" )
+     ("JEDEC_TYPE" "CAPC-0805_W" )
+     ("TOL" "20%" )
+     ("VOLT" "16V" )
+     ("PART_NUMBER" "10000680" )
+     ("VALUE" "0.1UF" )
+     ("\\$temp\\" "?" )
+     ("\\$alt_symbols\\" "?" )
+     ("CDS_LMAN_SYM_OUTLINE" "-50,25,50,-25" )
+     ("CDS_LIB" "c_capacitor" )
+     ("CDS_SEC" "1" )
+     ("\\$sec\\" "1" )
+     ("CDS_LOCATION" "C28" )
+     ("\\$location\\" "C28" )
+     ("ROT" "1" )
+     ("VER" "1" )
+     ("XY" "(11525,450)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("CLOCK" "False" )
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("CLOCK" "False" )
+      ("\\$pn\\" "1" ))))
+   (Inst "page1_I154" 
+    (Pr 
+     ("JEDEC_TYPE" "RESC-0805_W" )
+     ("\\type\\" "TF-SMT0805" )
+     ("PART_NAME" "R_SMT_0805" )
+     ("NEEDS_NO_SIZE" "True" )
+     ("WATTAGE" "1/8W" )
+     ("TOL" "5%" )
+     ("PART_NUMBER" "10006466" )
+     ("VALUE" "1.0K" )
+     ("CDS_LMAN_SYM_OUTLINE" "-75,25,75,-25" )
+     ("CDS_LIB" "r_resistor" )
+     ("CDS_SEC" "1" )
+     ("\\$sec\\" "1" )
+     ("CDS_LOCATION" "R49" )
+     ("\\$location\\" "R49" )
+     ("ROT" "1" )
+     ("VER" "1" )
+     ("XY" "(10900,2575)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$wattage\\" "?" )
+      ("\\$pn\\" "1" ))))
+   (Inst "page1_I155" 
+    (Pr 
+     ("NEEDS_NO_SIZE" "true" )
+     ("PART_NAME" "C_SMT_X7R_0805" )
+     ("\\type\\" "X7R" )
+     ("JEDEC_TYPE" "CAPC-0805_W" )
+     ("TOL" "20%" )
+     ("VOLT" "16V" )
+     ("PART_NUMBER" "10000680" )
+     ("VALUE" "0.1UF" )
+     ("\\$temp\\" "?" )
+     ("\\$alt_symbols\\" "?" )
+     ("CDS_LMAN_SYM_OUTLINE" "-50,25,50,-25" )
+     ("CDS_LIB" "c_capacitor" )
+     ("CDS_SEC" "1" )
+     ("\\$sec\\" "1" )
+     ("CDS_LOCATION" "C23" )
+     ("\\$location\\" "C23" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(10450,2900)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("CLOCK" "False" )
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("CLOCK" "False" )
+      ("\\$pn\\" "1" ))))
+   (Inst "page1_I156" 
+    (Pr 
+     ("JEDEC_TYPE" "SOT-23_W" )
+     ("VRRM" "75V" )
+     ("\\type\\" "SIGNAL-3PIN" )
+     ("PART_NAME" "D_SMT_SIGNAL_1A3C_SOT-23" )
+     ("\\if\\" "200MA" )
+     ("NEEDS_NO_SIZE" "true" )
+     ("PART_NUMBER" "10004947" )
+     ("VALUE" "MMBD4148" )
+     ("\\$alt_symbols\\" "?" )
+     ("CDS_LMAN_SYM_OUTLINE" "-50,50,50,-50" )
+     ("CDS_LIB" "d_diode" )
+     ("CDS_SEC" "1" )
+     ("\\$sec\\" "1" )
+     ("CDS_LOCATION" "D23" )
+     ("\\$location\\" "D23" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(10300,2725)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "C" 
+     (Pr 
+      ("CLOCK" "False" )
+      ("\\$pn\\" "3" )))
+    (IPrt "A" 
+     (Pr 
+      ("CLOCK" "False" )
+      ("\\$pn\\" "1" ))))
+   (Inst "page1_I157" 
+    (Pr 
+     ("NEEDS_NO_SIZE" "true" )
+     ("PART_NAME" "C_SMT_X7R_0805" )
+     ("\\type\\" "X7R" )
+     ("JEDEC_TYPE" "CAPC-0805_W" )
+     ("TOL" "20%" )
+     ("VOLT" "16V" )
+     ("PART_NUMBER" "10000680" )
+     ("VALUE" "0.1UF" )
+     ("\\$temp\\" "?" )
+     ("\\$alt_symbols\\" "?" )
+     ("CDS_LMAN_SYM_OUTLINE" "-50,25,50,-25" )
+     ("CDS_LIB" "c_capacitor" )
+     ("CDS_SEC" "1" )
+     ("\\$sec\\" "1" )
+     ("CDS_LOCATION" "C24" )
+     ("\\$location\\" "C24" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(10550,2575)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("CLOCK" "False" )
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("CLOCK" "False" )
+      ("\\$pn\\" "1" ))))
+   (Inst "page1_I159" 
+    (Pr 
+     ("NEEDS_NO_SIZE" "True" )
+     ("PART_NAME" "R_SMT_0805" )
+     ("\\type\\" "TF-SMT0805" )
+     ("JEDEC_TYPE" "RESC-0805_W" )
+     ("WATTAGE" "1/8W" )
+     ("TOL" "5%" )
+     ("PART_NUMBER" "10006514" )
+     ("VALUE" "100K" )
+     ("CDS_LMAN_SYM_OUTLINE" "-75,25,75,-25" )
+     ("CDS_LIB" "r_resistor" )
+     ("CDS_SEC" "1" )
+     ("\\$sec\\" "1" )
+     ("CDS_LOCATION" "R47" )
+     ("\\$location\\" "R47" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(10250,2025)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$wattage\\" "?" )
+      ("\\$pn\\" "1" ))))
+   (Inst "page1_I160" 
+    (Pr 
+     ("NEEDS_NO_SIZE" "True" )
+     ("PART_NAME" "R_SMT_0805" )
+     ("\\type\\" "TF-SMT0805" )
+     ("JEDEC_TYPE" "RESC-0805_W" )
+     ("WATTAGE" "1/8W" )
+     ("TOL" "5%" )
+     ("PART_NUMBER" "10006514" )
+     ("VALUE" "100K" )
+     ("CDS_LMAN_SYM_OUTLINE" "-75,25,75,-25" )
+     ("CDS_LIB" "r_resistor" )
+     ("CDS_SEC" "1" )
+     ("\\$sec\\" "1" )
+     ("CDS_LOCATION" "R45" )
+     ("\\$location\\" "R45" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(10225,3125)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$wattage\\" "?" )
+      ("\\$pn\\" "1" ))))
+   (Inst "page1_I161" 
+    (Pr 
+     ("JEDEC_TYPE" "RESC-0805_W" )
+     ("\\type\\" "TF-SMT0805" )
+     ("PART_NAME" "R_SMT_0805" )
+     ("NEEDS_NO_SIZE" "True" )
+     ("WATTAGE" "1/8W" )
+     ("TOL" "5%" )
+     ("PART_NUMBER" "10006514" )
+     ("VALUE" "100K" )
+     ("CDS_LMAN_SYM_OUTLINE" "-75,25,75,-25" )
+     ("CDS_LIB" "r_resistor" )
+     ("CDS_SEC" "1" )
+     ("\\$sec\\" "1" )
+     ("CDS_LOCATION" "R37" )
+     ("\\$location\\" "R37" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(9375,3125)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$wattage\\" "?" )
+      ("\\$pn\\" "1" ))))
+   (Inst "page1_I163" 
+    (Pr 
+     ("PART_NAME" "U_LM324_SERIES_SO14" )
+     ("JEDEC_TYPE" "SO14" )
+     ("PART_NUMBER" "10019427" )
+     ("VALUE" "LM324D" )
+     ("CDS_LMAN_SYM_OUTLINE" "-200,125,100,-175" )
+     ("CDS_LIB" "u_ic" )
+     ("CDS_SEC" "1" )
+     ("\\$sec\\" "1" )
+     ("CDS_LOCATION" "U3" )
+     ("\\$location\\" "U3" )
+     ("ROT" "6" )
+     ("VER" "1" )
+     ("XY" "(9950,2725)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "\\out\\" 
+     (Pr 
+      ("\\$pn\\" "1" )))
+    (IPrt "IP" 
+     (Pr 
+      ("\\$pn\\" "3" )))
+    (IPrt "\\in\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\11\\" 
+     (Pr 
+      ("\\$pn\\" "11" )))
+    (IPrt "\\4\\" 
+     (Pr 
+      ("\\$pn\\" "4" ))))
+   (Inst "page1_I165" 
+    (Pr 
+     ("JEDEC_TYPE" "RESC-0805_W" )
+     ("\\type\\" "TF-SMT0805" )
+     ("PART_NAME" "R_SMT_0805" )
+     ("NEEDS_NO_SIZE" "True" )
+     ("WATTAGE" "1/8W" )
+     ("TOL" "5%" )
+     ("PART_NUMBER" "10006506" )
+     ("VALUE" "47K" )
+     ("CDS_LMAN_SYM_OUTLINE" "-75,25,75,-25" )
+     ("CDS_LIB" "r_resistor" )
+     ("CDS_SEC" "1" )
+     ("\\$sec\\" "1" )
+     ("CDS_LOCATION" "R40" )
+     ("\\$location\\" "R40" )
+     ("ROT" "1" )
+     ("VER" "1" )
+     ("XY" "(9450,2525)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$wattage\\" "?" )
+      ("\\$pn\\" "1" ))))
+   (Inst "page1_I166" 
+    (Pr 
+     ("JEDEC_TYPE" "RESC-0805_W" )
+     ("\\type\\" "TF-SMT0805" )
+     ("PART_NAME" "R_SMT_0805" )
+     ("NEEDS_NO_SIZE" "True" )
+     ("WATTAGE" "1/8W" )
+     ("TOL" "5%" )
+     ("PART_NUMBER" "10006514" )
+     ("VALUE" "100K" )
+     ("CDS_LMAN_SYM_OUTLINE" "-75,25,75,-25" )
+     ("CDS_LIB" "r_resistor" )
+     ("CDS_SEC" "1" )
+     ("\\$sec\\" "1" )
+     ("CDS_LOCATION" "R39" )
+     ("\\$location\\" "R39" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(9400,2025)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$wattage\\" "?" )
+      ("\\$pn\\" "1" ))))
+   (Inst "page1_I167" 
+    (Pr 
+     ("JEDEC_TYPE" "SOD-123_W" )
+     ("VRRM" "30V" )
+     ("\\type\\" "SCHOTTKY" )
+     ("PART_NAME" "D_SMT_SCHOTTKY_SOD-123" )
+     ("\\if\\" "500MA" )
+     ("NEEDS_NO_SIZE" "true" )
+     ("PART_NUMBER" "10004915" )
+     ("VALUE" "MBR0530" )
+     ("\\$alt_symbols\\" "?" )
+     ("CDS_LMAN_SYM_OUTLINE" "-50,50,50,-50" )
+     ("CDS_LIB" "d_diode" )
+     ("CDS_SEC" "1" )
+     ("\\$sec\\" "1" )
+     ("CDS_LOCATION" "D19" )
+     ("\\$location\\" "D19" )
+     ("ROT" "1" )
+     ("VER" "1" )
+     ("XY" "(9175,2525)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "C" 
+     (Pr 
+      ("CLOCK" "False" )
+      ("\\$pn\\" "C" )))
+    (IPrt "A" 
+     (Pr 
+      ("CLOCK" "False" )
+      ("\\$pn\\" "A" ))))
+   (Inst "page1_I168" 
+    (Pr 
+     ("JEDEC_TYPE" "RESC-0805_W" )
+     ("\\type\\" "TF-SMT0805" )
+     ("PART_NAME" "R_SMT_0805" )
+     ("NEEDS_NO_SIZE" "True" )
+     ("WATTAGE" "1/8W" )
+     ("TOL" "5%" )
+     ("PART_NUMBER" "10006466" )
+     ("VALUE" "1.0K" )
+     ("CDS_LMAN_SYM_OUTLINE" "-75,25,75,-25" )
+     ("CDS_LIB" "r_resistor" )
+     ("CDS_SEC" "1" )
+     ("\\$sec\\" "1" )
+     ("CDS_LOCATION" "R51" )
+     ("\\$location\\" "R51" )
+     ("ROT" "1" )
+     ("VER" "1" )
+     ("XY" "(10925,1475)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$wattage\\" "?" )
+      ("\\$pn\\" "1" ))))
+   (Inst "page1_I169" 
+    (Pr 
+     ("JEDEC_TYPE" "SOT-23_W" )
+     ("VRRM" "75V" )
+     ("\\type\\" "SIGNAL-3PIN" )
+     ("PART_NAME" "D_SMT_SIGNAL_1A3C_SOT-23" )
+     ("\\if\\" "200MA" )
+     ("NEEDS_NO_SIZE" "true" )
+     ("PART_NUMBER" "10004947" )
+     ("VALUE" "MMBD4148" )
+     ("\\$alt_symbols\\" "?" )
+     ("CDS_LMAN_SYM_OUTLINE" "-50,50,50,-50" )
+     ("CDS_LIB" "d_diode" )
+     ("CDS_SEC" "1" )
+     ("\\$sec\\" "1" )
+     ("CDS_LOCATION" "D25" )
+     ("\\$location\\" "D25" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(10325,1625)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "C" 
+     (Pr 
+      ("CLOCK" "False" )
+      ("\\$pn\\" "3" )))
+    (IPrt "A" 
+     (Pr 
+      ("CLOCK" "False" )
+      ("\\$pn\\" "1" ))))
+   (Inst "page1_I170" 
+    (Pr 
+     ("NEEDS_NO_SIZE" "true" )
+     ("PART_NAME" "C_SMT_X7R_0805" )
+     ("\\type\\" "X7R" )
+     ("JEDEC_TYPE" "CAPC-0805_W" )
+     ("TOL" "20%" )
+     ("VOLT" "16V" )
+     ("PART_NUMBER" "10000680" )
+     ("VALUE" "0.1UF" )
+     ("\\$temp\\" "?" )
+     ("\\$alt_symbols\\" "?" )
+     ("CDS_LMAN_SYM_OUTLINE" "-50,25,50,-25" )
+     ("CDS_LIB" "c_capacitor" )
+     ("CDS_SEC" "1" )
+     ("\\$sec\\" "1" )
+     ("CDS_LOCATION" "C26" )
+     ("\\$location\\" "C26" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(10575,1475)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("CLOCK" "False" )
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("CLOCK" "False" )
+      ("\\$pn\\" "1" ))))
+   (Inst "page1_I172" 
+    (Pr 
+     ("JEDEC_TYPE" "RESC-0805_W" )
+     ("\\type\\" "TF-SMT0805" )
+     ("PART_NAME" "R_SMT_0805" )
+     ("NEEDS_NO_SIZE" "True" )
+     ("WATTAGE" "1/8W" )
+     ("TOL" "5%" )
+     ("PART_NUMBER" "10006466" )
+     ("VALUE" "1.0K" )
+     ("CDS_LMAN_SYM_OUTLINE" "-75,25,75,-25" )
+     ("CDS_LIB" "r_resistor" )
+     ("CDS_SEC" "1" )
+     ("\\$sec\\" "1" )
+     ("CDS_LOCATION" "R50" )
+     ("\\$location\\" "R50" )
+     ("ROT" "1" )
+     ("VER" "1" )
+     ("XY" "(10900,425)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$wattage\\" "?" )
+      ("\\$pn\\" "1" ))))
+   (Inst "page1_I173" 
+    (Pr 
+     ("JEDEC_TYPE" "SOT-23_W" )
+     ("VRRM" "75V" )
+     ("\\type\\" "SIGNAL-3PIN" )
+     ("PART_NAME" "D_SMT_SIGNAL_1A3C_SOT-23" )
+     ("\\if\\" "200MA" )
+     ("NEEDS_NO_SIZE" "true" )
+     ("PART_NUMBER" "10004947" )
+     ("VALUE" "MMBD4148" )
+     ("\\$alt_symbols\\" "?" )
+     ("CDS_LMAN_SYM_OUTLINE" "-50,50,50,-50" )
+     ("CDS_LIB" "d_diode" )
+     ("CDS_SEC" "1" )
+     ("\\$sec\\" "1" )
+     ("CDS_LOCATION" "D24" )
+     ("\\$location\\" "D24" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(10300,575)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "C" 
+     (Pr 
+      ("CLOCK" "False" )
+      ("\\$pn\\" "3" )))
+    (IPrt "A" 
+     (Pr 
+      ("CLOCK" "False" )
+      ("\\$pn\\" "1" ))))
+   (Inst "page1_I174" 
+    (Pr 
+     ("NEEDS_NO_SIZE" "true" )
+     ("PART_NAME" "C_SMT_X7R_0805" )
+     ("\\type\\" "X7R" )
+     ("JEDEC_TYPE" "CAPC-0805_W" )
+     ("TOL" "20%" )
+     ("VOLT" "16V" )
+     ("PART_NUMBER" "10000680" )
+     ("VALUE" "0.1UF" )
+     ("\\$temp\\" "?" )
+     ("\\$alt_symbols\\" "?" )
+     ("CDS_LMAN_SYM_OUTLINE" "-50,25,50,-25" )
+     ("CDS_LIB" "c_capacitor" )
+     ("CDS_SEC" "1" )
+     ("\\$sec\\" "1" )
+     ("CDS_LOCATION" "C25" )
+     ("\\$location\\" "C25" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(10550,425)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("CLOCK" "False" )
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("CLOCK" "False" )
+      ("\\$pn\\" "1" ))))
+   (Inst "page1_I176" 
+    (Pr 
+     ("JEDEC_TYPE" "SO14" )
+     ("PART_NAME" "U_LM324_SERIES_SO14" )
+     ("PART_NUMBER" "10019427" )
+     ("VALUE" "LM324D" )
+     ("CDS_LMAN_SYM_OUTLINE" "-200,125,100,-175" )
+     ("CDS_LIB" "u_ic" )
+     ("CDS_SEC" "3" )
+     ("\\$sec\\" "3" )
+     ("CDS_LOCATION" "U3" )
+     ("\\$location\\" "U3" )
+     ("ROT" "6" )
+     ("VER" "2" )
+     ("XY" "(9975,1625)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "\\out\\" 
+     (Pr 
+      ("\\$pn\\" "8" )))
+    (IPrt "IP" 
+     (Pr 
+      ("\\$pn\\" "10" )))
+    (IPrt "\\in\\" 
+     (Pr 
+      ("\\$pn\\" "9" )))
+    (IPrt "\\11\\" 
+     (Pr 
+      ("CDS_NOT_ON_SYM" "TRUE" )))
+    (IPrt "\\4\\" 
+     (Pr 
+      ("CDS_NOT_ON_SYM" "TRUE" ))))
+   (Inst "page1_I177" 
+    (Pr 
+     ("NEEDS_NO_SIZE" "True" )
+     ("PART_NAME" "R_SMT_0805" )
+     ("\\type\\" "TF-SMT0805" )
+     ("JEDEC_TYPE" "RESC-0805_W" )
+     ("WATTAGE" "1/8W" )
+     ("TOL" "5%" )
+     ("PART_NUMBER" "10006514" )
+     ("VALUE" "100K" )
+     ("CDS_LMAN_SYM_OUTLINE" "-75,25,75,-25" )
+     ("CDS_LIB" "r_resistor" )
+     ("CDS_SEC" "1" )
+     ("\\$sec\\" "1" )
+     ("CDS_LOCATION" "R46" )
+     ("\\$location\\" "R46" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(10225,975)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$wattage\\" "?" )
+      ("\\$pn\\" "1" ))))
+   (Inst "page1_I178" 
+    (Pr 
+     ("JEDEC_TYPE" "RESC-0805_W" )
+     ("\\type\\" "TF-SMT0805" )
+     ("PART_NAME" "R_SMT_0805" )
+     ("NEEDS_NO_SIZE" "True" )
+     ("WATTAGE" "1/8W" )
+     ("TOL" "5%" )
+     ("PART_NUMBER" "10006506" )
+     ("VALUE" "47K" )
+     ("CDS_LMAN_SYM_OUTLINE" "-75,25,75,-25" )
+     ("CDS_LIB" "r_resistor" )
+     ("CDS_SEC" "1" )
+     ("\\$sec\\" "1" )
+     ("CDS_LOCATION" "R42" )
+     ("\\$location\\" "R42" )
+     ("ROT" "1" )
+     ("VER" "1" )
+     ("XY" "(9475,1425)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$wattage\\" "?" )
+      ("\\$pn\\" "1" ))))
+   (Inst "page1_I179" 
+    (Pr 
+     ("JEDEC_TYPE" "SOD-123_W" )
+     ("VRRM" "30V" )
+     ("\\type\\" "SCHOTTKY" )
+     ("PART_NAME" "D_SMT_SCHOTTKY_SOD-123" )
+     ("\\if\\" "500MA" )
+     ("NEEDS_NO_SIZE" "true" )
+     ("PART_NUMBER" "10004915" )
+     ("VALUE" "MBR0530" )
+     ("\\$alt_symbols\\" "?" )
+     ("CDS_LMAN_SYM_OUTLINE" "-50,50,50,-50" )
+     ("CDS_LIB" "d_diode" )
+     ("CDS_SEC" "1" )
+     ("\\$sec\\" "1" )
+     ("CDS_LOCATION" "D21" )
+     ("\\$location\\" "D21" )
+     ("ROT" "1" )
+     ("VER" "1" )
+     ("XY" "(9200,1425)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "C" 
+     (Pr 
+      ("CLOCK" "False" )
+      ("\\$pn\\" "C" )))
+    (IPrt "A" 
+     (Pr 
+      ("CLOCK" "False" )
+      ("\\$pn\\" "A" ))))
+   (Inst "page1_I180" 
+    (Pr 
+     ("JEDEC_TYPE" "RESC-0805_W" )
+     ("\\type\\" "TF-SMT0805" )
+     ("PART_NAME" "R_SMT_0805" )
+     ("NEEDS_NO_SIZE" "True" )
+     ("WATTAGE" "1/8W" )
+     ("TOL" "5%" )
+     ("PART_NUMBER" "10006514" )
+     ("VALUE" "100K" )
+     ("CDS_LMAN_SYM_OUTLINE" "-75,25,75,-25" )
+     ("CDS_LIB" "r_resistor" )
+     ("CDS_SEC" "1" )
+     ("\\$sec\\" "1" )
+     ("CDS_LOCATION" "R38" )
+     ("\\$location\\" "R38" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(9375,975)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$wattage\\" "?" )
+      ("\\$pn\\" "1" ))))
+   (Inst "page1_I181" 
+    (Pr 
+     ("JEDEC_TYPE" "SO14" )
+     ("PART_NAME" "U_LM324_SERIES_SO14" )
+     ("PART_NUMBER" "10019427" )
+     ("VALUE" "LM324D" )
+     ("CDS_LMAN_SYM_OUTLINE" "-200,125,100,-175" )
+     ("CDS_LIB" "u_ic" )
+     ("CDS_SEC" "2" )
+     ("\\$sec\\" "2" )
+     ("CDS_LOCATION" "U3" )
+     ("\\$location\\" "U3" )
+     ("ROT" "6" )
+     ("VER" "2" )
+     ("XY" "(9950,575)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "\\out\\" 
+     (Pr 
+      ("\\$pn\\" "7" )))
+    (IPrt "IP" 
+     (Pr 
+      ("\\$pn\\" "5" )))
+    (IPrt "\\in\\" 
+     (Pr 
+      ("\\$pn\\" "6" )))
+    (IPrt "\\11\\" 
+     (Pr 
+      ("CDS_NOT_ON_SYM" "TRUE" )))
+    (IPrt "\\4\\" 
+     (Pr 
+      ("CDS_NOT_ON_SYM" "TRUE" ))))
+   (Inst "page1_I182" 
+    (Pr 
+     ("JEDEC_TYPE" "RESC-0805_W" )
+     ("\\type\\" "TF-SMT0805" )
+     ("PART_NAME" "R_SMT_0805" )
+     ("NEEDS_NO_SIZE" "True" )
+     ("WATTAGE" "1/8W" )
+     ("TOL" "5%" )
+     ("PART_NUMBER" "10006506" )
+     ("VALUE" "47K" )
+     ("CDS_LMAN_SYM_OUTLINE" "-75,25,75,-25" )
+     ("CDS_LIB" "r_resistor" )
+     ("CDS_SEC" "1" )
+     ("\\$sec\\" "1" )
+     ("CDS_LOCATION" "R41" )
+     ("\\$location\\" "R41" )
+     ("ROT" "1" )
+     ("VER" "1" )
+     ("XY" "(9450,375)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$wattage\\" "?" )
+      ("\\$pn\\" "1" ))))
+   (Inst "page1_I183" 
+    (Pr 
+     ("JEDEC_TYPE" "SOD-123_W" )
+     ("VRRM" "30V" )
+     ("\\type\\" "SCHOTTKY" )
+     ("PART_NAME" "D_SMT_SCHOTTKY_SOD-123" )
+     ("\\if\\" "500MA" )
+     ("NEEDS_NO_SIZE" "true" )
+     ("PART_NUMBER" "10004915" )
+     ("VALUE" "MBR0530" )
+     ("\\$alt_symbols\\" "?" )
+     ("CDS_LMAN_SYM_OUTLINE" "-50,50,50,-50" )
+     ("CDS_LIB" "d_diode" )
+     ("CDS_SEC" "1" )
+     ("\\$sec\\" "1" )
+     ("CDS_LOCATION" "D20" )
+     ("\\$location\\" "D20" )
+     ("ROT" "1" )
+     ("VER" "1" )
+     ("XY" "(9175,375)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "C" 
+     (Pr 
+      ("CLOCK" "False" )
+      ("\\$pn\\" "C" )))
+    (IPrt "A" 
+     (Pr 
+      ("CLOCK" "False" )
+      ("\\$pn\\" "A" ))))
+   (Inst "page1_I185" 
+    (Pr 
+     ("NEEDS_NO_SIZE" "true" )
+     ("PART_NAME" "C_SMT_X7R_0805" )
+     ("\\type\\" "X7R" )
+     ("JEDEC_TYPE" "CAPC-0805_W" )
+     ("TOL" "20%" )
+     ("VOLT" "16V" )
+     ("PART_NUMBER" "10000680" )
+     ("VALUE" "0.1UF" )
+     ("\\$temp\\" "?" )
+     ("\\$alt_symbols\\" "?" )
+     ("CDS_LMAN_SYM_OUTLINE" "-50,25,50,-25" )
+     ("CDS_LIB" "c_capacitor" )
+     ("CDS_SEC" "1" )
+     ("\\$sec\\" "1" )
+     ("CDS_LOCATION" "C19" )
+     ("\\$location\\" "C19" )
+     ("ROT" "1" )
+     ("VER" "1" )
+     ("XY" "(8975,2675)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("CLOCK" "False" )
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("CLOCK" "False" )
+      ("\\$pn\\" "1" ))))
+   (Inst "page1_I187" 
+    (Pr 
+     ("NEEDS_NO_SIZE" "true" )
+     ("PART_NAME" "C_SMT_X7R_0805" )
+     ("\\type\\" "X7R" )
+     ("JEDEC_TYPE" "CAPC-0805_W" )
+     ("TOL" "20%" )
+     ("VOLT" "16V" )
+     ("PART_NUMBER" "10000680" )
+     ("VALUE" "0.1UF" )
+     ("\\$temp\\" "?" )
+     ("\\$alt_symbols\\" "?" )
+     ("CDS_LMAN_SYM_OUTLINE" "-50,25,50,-25" )
+     ("CDS_LIB" "c_capacitor" )
+     ("CDS_SEC" "1" )
+     ("\\$sec\\" "1" )
+     ("CDS_LOCATION" "C21" )
+     ("\\$location\\" "C21" )
+     ("ROT" "1" )
+     ("VER" "1" )
+     ("XY" "(9000,1575)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("CLOCK" "False" )
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("CLOCK" "False" )
+      ("\\$pn\\" "1" ))))
+   (Inst "page1_I189" 
+    (Pr 
+     ("NEEDS_NO_SIZE" "true" )
+     ("PART_NAME" "C_SMT_X7R_0805" )
+     ("\\type\\" "X7R" )
+     ("JEDEC_TYPE" "CAPC-0805_W" )
+     ("TOL" "20%" )
+     ("VOLT" "16V" )
+     ("PART_NUMBER" "10000680" )
+     ("VALUE" "0.1UF" )
+     ("\\$temp\\" "?" )
+     ("\\$alt_symbols\\" "?" )
+     ("CDS_LMAN_SYM_OUTLINE" "-50,25,50,-25" )
+     ("CDS_LIB" "c_capacitor" )
+     ("CDS_SEC" "1" )
+     ("\\$sec\\" "1" )
+     ("CDS_LOCATION" "C20" )
+     ("\\$location\\" "C20" )
+     ("ROT" "1" )
+     ("VER" "1" )
+     ("XY" "(8975,525)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("CLOCK" "False" )
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("CLOCK" "False" )
+      ("\\$pn\\" "1" ))))
+   (Inst "page1_I190" 
+    (Pr 
+     ("JEDEC_TYPE" "RESC-0805_W" )
+     ("\\type\\" "TF-SMT0805" )
+     ("PART_NAME" "R_SMT_0805" )
+     ("NEEDS_NO_SIZE" "True" )
+     ("WATTAGE" "1/8W" )
+     ("TOL" "5%" )
+     ("PART_NUMBER" "10006466" )
+     ("VALUE" "1.0K" )
+     ("CDS_LMAN_SYM_OUTLINE" "-75,25,75,-25" )
+     ("CDS_LIB" "r_resistor" )
+     ("CDS_SEC" "1" )
+     ("\\$sec\\" "1" )
+     ("CDS_LOCATION" "R68" )
+     ("\\$location\\" "R68" )
+     ("ROT" "1" )
+     ("VER" "1" )
+     ("XY" "(13550,-775)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$wattage\\" "?" )
+      ("\\$pn\\" "1" ))))
+   (Inst "page1_I191" 
+    (Pr 
+     ("NEEDS_NO_SIZE" "True" )
+     ("PART_NAME" "R_SMT_0805" )
+     ("\\type\\" "TF-SMT0805" )
+     ("JEDEC_TYPE" "RESC-0805_W" )
+     ("WATTAGE" "1/8W" )
+     ("TOL" "5%" )
+     ("PART_NUMBER" "10006514" )
+     ("VALUE" "100K" )
+     ("CDS_LMAN_SYM_OUTLINE" "-75,25,75,-25" )
+     ("CDS_LIB" "r_resistor" )
+     ("CDS_SEC" "1" )
+     ("\\$sec\\" "1" )
+     ("CDS_LOCATION" "R64" )
+     ("\\$location\\" "R64" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(12875,-225)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$wattage\\" "?" )
+      ("\\$pn\\" "1" ))))
+   (Inst "page1_I192" 
+    (Pr 
+     ("NEEDS_NO_SIZE" "true" )
+     ("PART_NAME" "C_SMT_X7R_0805" )
+     ("\\type\\" "X7R" )
+     ("JEDEC_TYPE" "CAPC-0805_W" )
+     ("TOL" "20%" )
+     ("VOLT" "16V" )
+     ("PART_NUMBER" "10000680" )
+     ("VALUE" "0.1UF" )
+     ("\\$temp\\" "?" )
+     ("\\$alt_symbols\\" "?" )
+     ("CDS_LMAN_SYM_OUTLINE" "-50,25,50,-25" )
+     ("CDS_LIB" "c_capacitor" )
+     ("CDS_SEC" "1" )
+     ("\\$sec\\" "1" )
+     ("CDS_LOCATION" "C36" )
+     ("\\$location\\" "C36" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(13200,-775)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("CLOCK" "False" )
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("CLOCK" "False" )
+      ("\\$pn\\" "1" ))))
+   (Inst "page1_I193" 
+    (Pr 
+     ("JEDEC_TYPE" "SOT-23_W" )
+     ("VRRM" "75V" )
+     ("\\type\\" "SIGNAL-3PIN" )
+     ("PART_NAME" "D_SMT_SIGNAL_1A3C_SOT-23" )
+     ("\\if\\" "200MA" )
+     ("NEEDS_NO_SIZE" "true" )
+     ("PART_NUMBER" "10004947" )
+     ("VALUE" "MMBD4148" )
+     ("\\$alt_symbols\\" "?" )
+     ("CDS_LMAN_SYM_OUTLINE" "-50,50,50,-50" )
+     ("CDS_LIB" "d_diode" )
+     ("CDS_SEC" "1" )
+     ("\\$sec\\" "1" )
+     ("CDS_LOCATION" "D34" )
+     ("\\$location\\" "D34" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(12950,-625)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "C" 
+     (Pr 
+      ("CLOCK" "False" )
+      ("\\$pn\\" "3" )))
+    (IPrt "A" 
+     (Pr 
+      ("CLOCK" "False" )
+      ("\\$pn\\" "1" ))))
+   (Inst "page1_I194" 
+    (Pr 
+     ("PART_NAME" "U_LM324_SERIES_SO14" )
+     ("JEDEC_TYPE" "SO14" )
+     ("PART_NUMBER" "10019427" )
+     ("VALUE" "LM324D" )
+     ("CDS_LMAN_SYM_OUTLINE" "-200,125,100,-175" )
+     ("CDS_LIB" "u_ic" )
+     ("CDS_SEC" "4" )
+     ("\\$sec\\" "4" )
+     ("CDS_LOCATION" "U4" )
+     ("\\$location\\" "U4" )
+     ("ROT" "6" )
+     ("VER" "2" )
+     ("XY" "(12600,-625)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "\\out\\" 
+     (Pr 
+      ("\\$pn\\" "14" )))
+    (IPrt "IP" 
+     (Pr 
+      ("\\$pn\\" "12" )))
+    (IPrt "\\in\\" 
+     (Pr 
+      ("\\$pn\\" "13" )))
+    (IPrt "\\11\\" 
+     (Pr 
+      ("CDS_NOT_ON_SYM" "TRUE" )))
+    (IPrt "\\4\\" 
+     (Pr 
+      ("CDS_NOT_ON_SYM" "TRUE" ))))
+   (Inst "page1_I196" 
+    (Pr 
+     ("JEDEC_TYPE" "RESC-0805_W" )
+     ("\\type\\" "TF-SMT0805" )
+     ("PART_NAME" "R_SMT_0805" )
+     ("NEEDS_NO_SIZE" "True" )
+     ("WATTAGE" "1/8W" )
+     ("TOL" "5%" )
+     ("PART_NUMBER" "10006514" )
+     ("VALUE" "100K" )
+     ("CDS_LMAN_SYM_OUTLINE" "-75,25,75,-25" )
+     ("CDS_LIB" "r_resistor" )
+     ("CDS_SEC" "1" )
+     ("\\$sec\\" "1" )
+     ("CDS_LOCATION" "R58" )
+     ("\\$location\\" "R58" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(12025,-225)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$wattage\\" "?" )
+      ("\\$pn\\" "1" ))))
+   (Inst "page1_I197" 
+    (Pr 
+     ("JEDEC_TYPE" "RESC-0805_W" )
+     ("\\type\\" "TF-SMT0805" )
+     ("PART_NAME" "R_SMT_0805" )
+     ("NEEDS_NO_SIZE" "True" )
+     ("WATTAGE" "1/8W" )
+     ("TOL" "5%" )
+     ("PART_NUMBER" "10006506" )
+     ("VALUE" "47K" )
+     ("CDS_LMAN_SYM_OUTLINE" "-75,25,75,-25" )
+     ("CDS_LIB" "r_resistor" )
+     ("CDS_SEC" "1" )
+     ("\\$sec\\" "1" )
+     ("CDS_LOCATION" "R60" )
+     ("\\$location\\" "R60" )
+     ("ROT" "1" )
+     ("VER" "1" )
+     ("XY" "(12100,-825)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$wattage\\" "?" )
+      ("\\$pn\\" "1" ))))
+   (Inst "page1_I198" 
+    (Pr 
+     ("JEDEC_TYPE" "SOD-123_W" )
+     ("VRRM" "30V" )
+     ("\\type\\" "SCHOTTKY" )
+     ("PART_NAME" "D_SMT_SCHOTTKY_SOD-123" )
+     ("\\if\\" "500MA" )
+     ("NEEDS_NO_SIZE" "true" )
+     ("PART_NUMBER" "10004915" )
+     ("VALUE" "MBR0530" )
+     ("\\$alt_symbols\\" "?" )
+     ("CDS_LMAN_SYM_OUTLINE" "-50,50,50,-50" )
+     ("CDS_LIB" "d_diode" )
+     ("CDS_SEC" "1" )
+     ("\\$sec\\" "1" )
+     ("CDS_LOCATION" "D30" )
+     ("\\$location\\" "D30" )
+     ("ROT" "1" )
+     ("VER" "1" )
+     ("XY" "(11825,-825)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "C" 
+     (Pr 
+      ("CLOCK" "False" )
+      ("\\$pn\\" "C" )))
+    (IPrt "A" 
+     (Pr 
+      ("CLOCK" "False" )
+      ("\\$pn\\" "A" ))))
+   (Inst "page1_I200" 
+    (Pr 
+     ("NEEDS_NO_SIZE" "true" )
+     ("PART_NAME" "C_SMT_X7R_0805" )
+     ("\\type\\" "X7R" )
+     ("JEDEC_TYPE" "CAPC-0805_W" )
+     ("TOL" "20%" )
+     ("VOLT" "16V" )
+     ("PART_NUMBER" "10000680" )
+     ("VALUE" "0.1UF" )
+     ("\\$temp\\" "?" )
+     ("\\$alt_symbols\\" "?" )
+     ("CDS_LMAN_SYM_OUTLINE" "-50,25,50,-25" )
+     ("CDS_LIB" "c_capacitor" )
+     ("CDS_SEC" "1" )
+     ("\\$sec\\" "1" )
+     ("CDS_LOCATION" "C31" )
+     ("\\$location\\" "C31" )
+     ("ROT" "1" )
+     ("VER" "1" )
+     ("XY" "(11625,-675)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("CLOCK" "False" )
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("CLOCK" "False" )
+      ("\\$pn\\" "1" ))))
+   (Inst "page1_I201" 
+    (Pr 
+     ("JEDEC_TYPE" "RESC-0805_W" )
+     ("\\type\\" "TF-SMT0805" )
+     ("PART_NAME" "R_SMT_0805" )
+     ("NEEDS_NO_SIZE" "True" )
+     ("WATTAGE" "1/8W" )
+     ("TOL" "5%" )
+     ("PART_NUMBER" "10006466" )
+     ("VALUE" "1.0K" )
+     ("CDS_LMAN_SYM_OUTLINE" "-75,25,75,-25" )
+     ("CDS_LIB" "r_resistor" )
+     ("CDS_SEC" "1" )
+     ("\\$sec\\" "1" )
+     ("CDS_LOCATION" "R52" )
+     ("\\$location\\" "R52" )
+     ("ROT" "1" )
+     ("VER" "1" )
+     ("XY" "(11000,-700)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$wattage\\" "?" )
+      ("\\$pn\\" "1" ))))
+   (Inst "page1_I202" 
+    (Pr 
+     ("NEEDS_NO_SIZE" "True" )
+     ("PART_NAME" "R_SMT_0805" )
+     ("\\type\\" "TF-SMT0805" )
+     ("JEDEC_TYPE" "RESC-0805_W" )
+     ("WATTAGE" "1/8W" )
+     ("TOL" "5%" )
+     ("PART_NUMBER" "10006514" )
+     ("VALUE" "100K" )
+     ("CDS_LMAN_SYM_OUTLINE" "-75,25,75,-25" )
+     ("CDS_LIB" "r_resistor" )
+     ("CDS_SEC" "1" )
+     ("\\$sec\\" "1" )
+     ("CDS_LOCATION" "R48" )
+     ("\\$location\\" "R48" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(10325,-150)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$wattage\\" "?" )
+      ("\\$pn\\" "1" ))))
+   (Inst "page1_I203" 
+    (Pr 
+     ("JEDEC_TYPE" "SOT-23_W" )
+     ("VRRM" "75V" )
+     ("\\type\\" "SIGNAL-3PIN" )
+     ("PART_NAME" "D_SMT_SIGNAL_1A3C_SOT-23" )
+     ("\\if\\" "200MA" )
+     ("NEEDS_NO_SIZE" "true" )
+     ("PART_NUMBER" "10004947" )
+     ("VALUE" "MMBD4148" )
+     ("\\$alt_symbols\\" "?" )
+     ("CDS_LMAN_SYM_OUTLINE" "-50,50,50,-50" )
+     ("CDS_LIB" "d_diode" )
+     ("CDS_SEC" "1" )
+     ("\\$sec\\" "1" )
+     ("CDS_LOCATION" "D26" )
+     ("\\$location\\" "D26" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(10400,-550)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "C" 
+     (Pr 
+      ("CLOCK" "False" )
+      ("\\$pn\\" "3" )))
+    (IPrt "A" 
+     (Pr 
+      ("CLOCK" "False" )
+      ("\\$pn\\" "1" ))))
+   (Inst "page1_I204" 
+    (Pr 
+     ("NEEDS_NO_SIZE" "true" )
+     ("PART_NAME" "C_SMT_X7R_0805" )
+     ("\\type\\" "X7R" )
+     ("JEDEC_TYPE" "CAPC-0805_W" )
+     ("TOL" "20%" )
+     ("VOLT" "16V" )
+     ("PART_NUMBER" "10000680" )
+     ("VALUE" "0.1UF" )
+     ("\\$temp\\" "?" )
+     ("\\$alt_symbols\\" "?" )
+     ("CDS_LMAN_SYM_OUTLINE" "-50,25,50,-25" )
+     ("CDS_LIB" "c_capacitor" )
+     ("CDS_SEC" "1" )
+     ("\\$sec\\" "1" )
+     ("CDS_LOCATION" "C27" )
+     ("\\$location\\" "C27" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(10650,-700)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("CLOCK" "False" )
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("CLOCK" "False" )
+      ("\\$pn\\" "1" ))))
+   (Inst "page1_I206" 
+    (Pr 
+     ("PART_NAME" "U_LM324_SERIES_SO14" )
+     ("JEDEC_TYPE" "SO14" )
+     ("PART_NUMBER" "10019427" )
+     ("VALUE" "LM324D" )
+     ("CDS_LMAN_SYM_OUTLINE" "-200,125,100,-175" )
+     ("CDS_LIB" "u_ic" )
+     ("CDS_SEC" "4" )
+     ("\\$sec\\" "4" )
+     ("CDS_LOCATION" "U3" )
+     ("\\$location\\" "U3" )
+     ("ROT" "6" )
+     ("VER" "2" )
+     ("XY" "(10050,-550)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "\\out\\" 
+     (Pr 
+      ("\\$pn\\" "14" )))
+    (IPrt "IP" 
+     (Pr 
+      ("\\$pn\\" "12" )))
+    (IPrt "\\in\\" 
+     (Pr 
+      ("\\$pn\\" "13" )))
+    (IPrt "\\11\\" 
+     (Pr 
+      ("CDS_NOT_ON_SYM" "TRUE" )))
+    (IPrt "\\4\\" 
+     (Pr 
+      ("CDS_NOT_ON_SYM" "TRUE" ))))
+   (Inst "page1_I207" 
+    (Pr 
+     ("JEDEC_TYPE" "RESC-0805_W" )
+     ("\\type\\" "TF-SMT0805" )
+     ("PART_NAME" "R_SMT_0805" )
+     ("NEEDS_NO_SIZE" "True" )
+     ("WATTAGE" "1/8W" )
+     ("TOL" "5%" )
+     ("PART_NUMBER" "10006514" )
+     ("VALUE" "100K" )
+     ("CDS_LMAN_SYM_OUTLINE" "-75,25,75,-25" )
+     ("CDS_LIB" "r_resistor" )
+     ("CDS_SEC" "1" )
+     ("\\$sec\\" "1" )
+     ("CDS_LOCATION" "R43" )
+     ("\\$location\\" "R43" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(9475,-150)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$wattage\\" "?" )
+      ("\\$pn\\" "1" ))))
+   (Inst "page1_I208" 
+    (Pr 
+     ("JEDEC_TYPE" "RESC-0805_W" )
+     ("\\type\\" "TF-SMT0805" )
+     ("PART_NAME" "R_SMT_0805" )
+     ("NEEDS_NO_SIZE" "True" )
+     ("WATTAGE" "1/8W" )
+     ("TOL" "5%" )
+     ("PART_NUMBER" "10006506" )
+     ("VALUE" "47K" )
+     ("CDS_LMAN_SYM_OUTLINE" "-75,25,75,-25" )
+     ("CDS_LIB" "r_resistor" )
+     ("CDS_SEC" "1" )
+     ("\\$sec\\" "1" )
+     ("CDS_LOCATION" "R44" )
+     ("\\$location\\" "R44" )
+     ("ROT" "1" )
+     ("VER" "1" )
+     ("XY" "(9550,-750)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$wattage\\" "?" )
+      ("\\$pn\\" "1" ))))
+   (Inst "page1_I209" 
+    (Pr 
+     ("JEDEC_TYPE" "SOD-123_W" )
+     ("VRRM" "30V" )
+     ("\\type\\" "SCHOTTKY" )
+     ("PART_NAME" "D_SMT_SCHOTTKY_SOD-123" )
+     ("\\if\\" "500MA" )
+     ("NEEDS_NO_SIZE" "true" )
+     ("PART_NUMBER" "10004915" )
+     ("VALUE" "MBR0530" )
+     ("\\$alt_symbols\\" "?" )
+     ("CDS_LMAN_SYM_OUTLINE" "-50,50,50,-50" )
+     ("CDS_LIB" "d_diode" )
+     ("CDS_SEC" "1" )
+     ("\\$sec\\" "1" )
+     ("CDS_LOCATION" "D22" )
+     ("\\$location\\" "D22" )
+     ("ROT" "1" )
+     ("VER" "1" )
+     ("XY" "(9275,-750)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "C" 
+     (Pr 
+      ("CLOCK" "False" )
+      ("\\$pn\\" "C" )))
+    (IPrt "A" 
+     (Pr 
+      ("CLOCK" "False" )
+      ("\\$pn\\" "A" ))))
+   (Inst "page1_I211" 
+    (Pr 
+     ("NEEDS_NO_SIZE" "true" )
+     ("PART_NAME" "C_SMT_X7R_0805" )
+     ("\\type\\" "X7R" )
+     ("JEDEC_TYPE" "CAPC-0805_W" )
+     ("TOL" "20%" )
+     ("VOLT" "16V" )
+     ("PART_NUMBER" "10000680" )
+     ("VALUE" "0.1UF" )
+     ("\\$temp\\" "?" )
+     ("\\$alt_symbols\\" "?" )
+     ("CDS_LMAN_SYM_OUTLINE" "-50,25,50,-25" )
+     ("CDS_LIB" "c_capacitor" )
+     ("CDS_SEC" "1" )
+     ("\\$sec\\" "1" )
+     ("CDS_LOCATION" "C22" )
+     ("\\$location\\" "C22" )
+     ("ROT" "1" )
+     ("VER" "1" )
+     ("XY" "(9075,-600)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("CLOCK" "False" )
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("CLOCK" "False" )
+      ("\\$pn\\" "1" )))))))

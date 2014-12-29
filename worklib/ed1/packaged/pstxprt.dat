@@ -1,0 +1,3958 @@
+FILE_TYPE=EXPANDEDPARTLIST;
+{ Packager-XL run on 12-Jul-2012 AT 16:25:45 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='ED1';
+ POST_TIME='12-Jul-2012 AT 16:25:45';
+ SOURCE_TOOL='PACKAGER_XL';
+END_DIRECTIVES;
+
+PART_NAME
+ C1 'C_SMT_X7R_0805-10000680,0.1UF,B':;
+
+SECTION_NUMBER 1
+ '@ED1_LIB.ED1(SCH_1):PAGE1_I24@C_CAPACITOR.C_SMT(CHIPS)':
+ C_PATH='@ed1_lib.ed1(sch_1):page1_i24@c_capacitor.c_smt(chips)',
+ P_PATH='@ed1_lib.ed1(sch_1):page1_i24@c_capacitor.c_smt(chips)',
+ PATH='I24',
+ DRAWING='@ED1_LIB.ED1(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(3950,2750)',
+ VER='1',
+ ROT='1',
+ PART_NUMBER='10000680',
+ VOLT='16V',
+ TOL='20%',
+ JEDEC_TYPE='CAPC-0805_W',
+ TYPE='X7R',
+ PART_NAME='C_SMT_X7R_0805',
+ VALUE='0.1UF',
+ CDS_LIB='c_capacitor',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/c_capacitor/c_smt/chips/chips.prt';
+
+PART_NAME
+ C2 'C_SMT_X7R_0805-10000680,0.1UF,B':;
+
+SECTION_NUMBER 1
+ '@ED1_LIB.ED1(SCH_1):PAGE1_I23@C_CAPACITOR.C_SMT(CHIPS)':
+ C_PATH='@ed1_lib.ed1(sch_1):page1_i23@c_capacitor.c_smt(chips)',
+ P_PATH='@ed1_lib.ed1(sch_1):page1_i23@c_capacitor.c_smt(chips)',
+ PATH='I23',
+ DRAWING='@ED1_LIB.ED1(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(5525,2650)',
+ VER='1',
+ ROT='0',
+ PART_NUMBER='10000680',
+ VOLT='16V',
+ TOL='20%',
+ JEDEC_TYPE='CAPC-0805_W',
+ TYPE='X7R',
+ PART_NAME='C_SMT_X7R_0805',
+ VALUE='0.1UF',
+ CDS_LIB='c_capacitor',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/c_capacitor/c_smt/chips/chips.prt';
+
+PART_NAME
+ C3 'C_SMT_X7R_0805-10000680,0.1UF,B':;
+
+SECTION_NUMBER 1
+ '@ED1_LIB.ED1(SCH_1):PAGE1_I54@C_CAPACITOR.C_SMT(CHIPS)':
+ C_PATH='@ed1_lib.ed1(sch_1):page1_i54@c_capacitor.c_smt(chips)',
+ P_PATH='@ed1_lib.ed1(sch_1):page1_i54@c_capacitor.c_smt(chips)',
+ PATH='I54',
+ DRAWING='@ED1_LIB.ED1(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(3950,600)',
+ VER='1',
+ ROT='1',
+ PART_NUMBER='10000680',
+ VOLT='16V',
+ TOL='20%',
+ CDS_LIB='c_capacitor',
+ VALUE='0.1UF',
+ JEDEC_TYPE='CAPC-0805_W',
+ TYPE='X7R',
+ PART_NAME='C_SMT_X7R_0805',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/c_capacitor/c_smt/chips/chips.prt';
+
+PART_NAME
+ C4 'C_SMT_X7R_0805-10000680,0.1UF,B':;
+
+SECTION_NUMBER 1
+ '@ED1_LIB.ED1(SCH_1):PAGE1_I42@C_CAPACITOR.C_SMT(CHIPS)':
+ C_PATH='@ed1_lib.ed1(sch_1):page1_i42@c_capacitor.c_smt(chips)',
+ P_PATH='@ed1_lib.ed1(sch_1):page1_i42@c_capacitor.c_smt(chips)',
+ PATH='I42',
+ DRAWING='@ED1_LIB.ED1(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(3975,1650)',
+ VER='1',
+ ROT='1',
+ PART_NUMBER='10000680',
+ VOLT='16V',
+ TOL='20%',
+ CDS_LIB='c_capacitor',
+ VALUE='0.1UF',
+ JEDEC_TYPE='CAPC-0805_W',
+ TYPE='X7R',
+ PART_NAME='C_SMT_X7R_0805',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/c_capacitor/c_smt/chips/chips.prt';
+
+PART_NAME
+ C5 'C_SMT_X7R_0805-10000680,0.1UF,B':;
+
+SECTION_NUMBER 1
+ '@ED1_LIB.ED1(SCH_1):PAGE1_I66@C_CAPACITOR.C_SMT(CHIPS)':
+ C_PATH='@ed1_lib.ed1(sch_1):page1_i66@c_capacitor.c_smt(chips)',
+ P_PATH='@ed1_lib.ed1(sch_1):page1_i66@c_capacitor.c_smt(chips)',
+ PATH='I66',
+ DRAWING='@ED1_LIB.ED1(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(4050,-525)',
+ VER='1',
+ ROT='1',
+ PART_NUMBER='10000680',
+ VOLT='16V',
+ TOL='20%',
+ CDS_LIB='c_capacitor',
+ VALUE='0.1UF',
+ JEDEC_TYPE='CAPC-0805_W',
+ TYPE='X7R',
+ PART_NAME='C_SMT_X7R_0805',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/c_capacitor/c_smt/chips/chips.prt';
+
+PART_NAME
+ C6 'C_SMT_X7R_0805-10000680,0.1UF,B':;
+
+SECTION_NUMBER 1
+ '@ED1_LIB.ED1(SCH_1):PAGE1_I45@C_CAPACITOR.C_SMT(CHIPS)':
+ C_PATH='@ed1_lib.ed1(sch_1):page1_i45@c_capacitor.c_smt(chips)',
+ P_PATH='@ed1_lib.ed1(sch_1):page1_i45@c_capacitor.c_smt(chips)',
+ PATH='I45',
+ DRAWING='@ED1_LIB.ED1(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(5525,500)',
+ VER='1',
+ ROT='0',
+ PART_NUMBER='10000680',
+ VOLT='16V',
+ TOL='20%',
+ CDS_LIB='c_capacitor',
+ VALUE='0.1UF',
+ JEDEC_TYPE='CAPC-0805_W',
+ TYPE='X7R',
+ PART_NAME='C_SMT_X7R_0805',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/c_capacitor/c_smt/chips/chips.prt';
+
+PART_NAME
+ C7 'C_SMT_X7R_0805-10000680,0.1UF,B':;
+
+SECTION_NUMBER 1
+ '@ED1_LIB.ED1(SCH_1):PAGE1_I33@C_CAPACITOR.C_SMT(CHIPS)':
+ C_PATH='@ed1_lib.ed1(sch_1):page1_i33@c_capacitor.c_smt(chips)',
+ P_PATH='@ed1_lib.ed1(sch_1):page1_i33@c_capacitor.c_smt(chips)',
+ PATH='I33',
+ DRAWING='@ED1_LIB.ED1(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(5550,1550)',
+ VER='1',
+ ROT='0',
+ PART_NUMBER='10000680',
+ VOLT='16V',
+ TOL='20%',
+ CDS_LIB='c_capacitor',
+ VALUE='0.1UF',
+ JEDEC_TYPE='CAPC-0805_W',
+ TYPE='X7R',
+ PART_NAME='C_SMT_X7R_0805',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/c_capacitor/c_smt/chips/chips.prt';
+
+PART_NAME
+ C8 'C_SMT_X7R_0805-10000680,0.1UF,B':;
+
+SECTION_NUMBER 1
+ '@ED1_LIB.ED1(SCH_1):PAGE1_I57@C_CAPACITOR.C_SMT(CHIPS)':
+ C_PATH='@ed1_lib.ed1(sch_1):page1_i57@c_capacitor.c_smt(chips)',
+ P_PATH='@ed1_lib.ed1(sch_1):page1_i57@c_capacitor.c_smt(chips)',
+ PATH='I57',
+ DRAWING='@ED1_LIB.ED1(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(5625,-625)',
+ VER='1',
+ ROT='0',
+ PART_NUMBER='10000680',
+ VOLT='16V',
+ TOL='20%',
+ CDS_LIB='c_capacitor',
+ VALUE='0.1UF',
+ JEDEC_TYPE='CAPC-0805_W',
+ TYPE='X7R',
+ PART_NAME='C_SMT_X7R_0805',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/c_capacitor/c_smt/chips/chips.prt';
+
+PART_NAME
+ C9 'C_SMT_X7R_0805-10000680,0.1UF,B':;
+
+SECTION_NUMBER 1
+ '@ED1_LIB.ED1(SCH_1):PAGE1_I80@C_CAPACITOR.C_SMT(CHIPS)':
+ C_PATH='@ed1_lib.ed1(sch_1):page1_i80@c_capacitor.c_smt(chips)',
+ P_PATH='@ed1_lib.ed1(sch_1):page1_i80@c_capacitor.c_smt(chips)',
+ PATH='I80',
+ DRAWING='@ED1_LIB.ED1(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(6550,2750)',
+ VER='1',
+ ROT='1',
+ CDS_LIB='c_capacitor',
+ VALUE='0.1UF',
+ PART_NUMBER='10000680',
+ VOLT='16V',
+ TOL='20%',
+ JEDEC_TYPE='CAPC-0805_W',
+ TYPE='X7R',
+ PART_NAME='C_SMT_X7R_0805',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/c_capacitor/c_smt/chips/chips.prt';
+
+PART_NAME
+ C10 'C_SMT_X7R_0805-10000680,0.1UF,B':;
+
+SECTION_NUMBER 1
+ '@ED1_LIB.ED1(SCH_1):PAGE1_I71@C_CAPACITOR.C_SMT(CHIPS)':
+ C_PATH='@ed1_lib.ed1(sch_1):page1_i71@c_capacitor.c_smt(chips)',
+ P_PATH='@ed1_lib.ed1(sch_1):page1_i71@c_capacitor.c_smt(chips)',
+ PATH='I71',
+ DRAWING='@ED1_LIB.ED1(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(8125,2650)',
+ VER='1',
+ ROT='0',
+ CDS_LIB='c_capacitor',
+ VALUE='0.1UF',
+ PART_NUMBER='10000680',
+ VOLT='16V',
+ TOL='20%',
+ JEDEC_TYPE='CAPC-0805_W',
+ TYPE='X7R',
+ PART_NAME='C_SMT_X7R_0805',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/c_capacitor/c_smt/chips/chips.prt';
+
+PART_NAME
+ C11 'C_SMT_X7R_0805-10000680,0.1UF,B':;
+
+SECTION_NUMBER 1
+ '@ED1_LIB.ED1(SCH_1):PAGE1_I82@C_CAPACITOR.C_SMT(CHIPS)':
+ C_PATH='@ed1_lib.ed1(sch_1):page1_i82@c_capacitor.c_smt(chips)',
+ P_PATH='@ed1_lib.ed1(sch_1):page1_i82@c_capacitor.c_smt(chips)',
+ PATH='I82',
+ DRAWING='@ED1_LIB.ED1(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(5425,2975)',
+ VER='1',
+ ROT='0',
+ CDS_LIB='c_capacitor',
+ VALUE='0.1UF',
+ PART_NUMBER='10000680',
+ VOLT='16V',
+ TOL='20%',
+ JEDEC_TYPE='CAPC-0805_W',
+ TYPE='X7R',
+ PART_NAME='C_SMT_X7R_0805',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/c_capacitor/c_smt/chips/chips.prt';
+
+PART_NAME
+ C12 'C_SMT_X7R_0805-10000680,0.1UF,B':;
+
+SECTION_NUMBER 1
+ '@ED1_LIB.ED1(SCH_1):PAGE1_I106@C_CAPACITOR.C_SMT(CHIPS)':
+ C_PATH='@ed1_lib.ed1(sch_1):page1_i106@c_capacitor.c_smt(chips)',
+ P_PATH='@ed1_lib.ed1(sch_1):page1_i106@c_capacitor.c_smt(chips)',
+ PATH='I106',
+ DRAWING='@ED1_LIB.ED1(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(6500,525)',
+ VER='1',
+ ROT='1',
+ CDS_LIB='c_capacitor',
+ VALUE='0.1UF',
+ PART_NUMBER='10000680',
+ VOLT='16V',
+ TOL='20%',
+ JEDEC_TYPE='CAPC-0805_W',
+ TYPE='X7R',
+ PART_NAME='C_SMT_X7R_0805',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/c_capacitor/c_smt/chips/chips.prt';
+
+PART_NAME
+ C13 'C_SMT_X7R_0805-10000680,0.1UF,B':;
+
+SECTION_NUMBER 1
+ '@ED1_LIB.ED1(SCH_1):PAGE1_I104@C_CAPACITOR.C_SMT(CHIPS)':
+ C_PATH='@ed1_lib.ed1(sch_1):page1_i104@c_capacitor.c_smt(chips)',
+ P_PATH='@ed1_lib.ed1(sch_1):page1_i104@c_capacitor.c_smt(chips)',
+ PATH='I104',
+ DRAWING='@ED1_LIB.ED1(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(6525,1575)',
+ VER='1',
+ ROT='1',
+ CDS_LIB='c_capacitor',
+ VALUE='0.1UF',
+ PART_NUMBER='10000680',
+ VOLT='16V',
+ TOL='20%',
+ JEDEC_TYPE='CAPC-0805_W',
+ TYPE='X7R',
+ PART_NAME='C_SMT_X7R_0805',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/c_capacitor/c_smt/chips/chips.prt';
+
+PART_NAME
+ C14 'C_SMT_X7R_0805-10000680,0.1UF,B':;
+
+SECTION_NUMBER 1
+ '@ED1_LIB.ED1(SCH_1):PAGE1_I117@C_CAPACITOR.C_SMT(CHIPS)':
+ C_PATH='@ed1_lib.ed1(sch_1):page1_i117@c_capacitor.c_smt(chips)',
+ P_PATH='@ed1_lib.ed1(sch_1):page1_i117@c_capacitor.c_smt(chips)',
+ PATH='I117',
+ DRAWING='@ED1_LIB.ED1(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(6600,-600)',
+ VER='1',
+ ROT='1',
+ CDS_LIB='c_capacitor',
+ VALUE='0.1UF',
+ PART_NUMBER='10000680',
+ VOLT='16V',
+ TOL='20%',
+ JEDEC_TYPE='CAPC-0805_W',
+ TYPE='X7R',
+ PART_NAME='C_SMT_X7R_0805',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/c_capacitor/c_smt/chips/chips.prt';
+
+PART_NAME
+ C15 'C_SMT_X7R_0805-10000680,0.1UF,B':;
+
+SECTION_NUMBER 1
+ '@ED1_LIB.ED1(SCH_1):PAGE1_I83@C_CAPACITOR.C_SMT(CHIPS)':
+ C_PATH='@ed1_lib.ed1(sch_1):page1_i83@c_capacitor.c_smt(chips)',
+ P_PATH='@ed1_lib.ed1(sch_1):page1_i83@c_capacitor.c_smt(chips)',
+ PATH='I83',
+ DRAWING='@ED1_LIB.ED1(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(8025,2975)',
+ VER='1',
+ ROT='0',
+ CDS_LIB='c_capacitor',
+ VALUE='0.1UF',
+ PART_NUMBER='10000680',
+ VOLT='16V',
+ TOL='20%',
+ JEDEC_TYPE='CAPC-0805_W',
+ TYPE='X7R',
+ PART_NAME='C_SMT_X7R_0805',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/c_capacitor/c_smt/chips/chips.prt';
+
+PART_NAME
+ C16 'C_SMT_X7R_0805-10000680,0.1UF,B':;
+
+SECTION_NUMBER 1
+ '@ED1_LIB.ED1(SCH_1):PAGE1_I93@C_CAPACITOR.C_SMT(CHIPS)':
+ C_PATH='@ed1_lib.ed1(sch_1):page1_i93@c_capacitor.c_smt(chips)',
+ P_PATH='@ed1_lib.ed1(sch_1):page1_i93@c_capacitor.c_smt(chips)',
+ PATH='I93',
+ DRAWING='@ED1_LIB.ED1(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(8075,425)',
+ VER='1',
+ ROT='0',
+ CDS_LIB='c_capacitor',
+ VALUE='0.1UF',
+ PART_NUMBER='10000680',
+ VOLT='16V',
+ TOL='20%',
+ JEDEC_TYPE='CAPC-0805_W',
+ TYPE='X7R',
+ PART_NAME='C_SMT_X7R_0805',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/c_capacitor/c_smt/chips/chips.prt';
+
+PART_NAME
+ C17 'C_SMT_X7R_0805-10000680,0.1UF,B':;
+
+SECTION_NUMBER 1
+ '@ED1_LIB.ED1(SCH_1):PAGE1_I89@C_CAPACITOR.C_SMT(CHIPS)':
+ C_PATH='@ed1_lib.ed1(sch_1):page1_i89@c_capacitor.c_smt(chips)',
+ P_PATH='@ed1_lib.ed1(sch_1):page1_i89@c_capacitor.c_smt(chips)',
+ PATH='I89',
+ DRAWING='@ED1_LIB.ED1(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(8100,1475)',
+ VER='1',
+ ROT='0',
+ CDS_LIB='c_capacitor',
+ VALUE='0.1UF',
+ PART_NUMBER='10000680',
+ VOLT='16V',
+ TOL='20%',
+ JEDEC_TYPE='CAPC-0805_W',
+ TYPE='X7R',
+ PART_NAME='C_SMT_X7R_0805',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/c_capacitor/c_smt/chips/chips.prt';
+
+PART_NAME
+ C18 'C_SMT_X7R_0805-10000680,0.1UF,B':;
+
+SECTION_NUMBER 1
+ '@ED1_LIB.ED1(SCH_1):PAGE1_I110@C_CAPACITOR.C_SMT(CHIPS)':
+ C_PATH='@ed1_lib.ed1(sch_1):page1_i110@c_capacitor.c_smt(chips)',
+ P_PATH='@ed1_lib.ed1(sch_1):page1_i110@c_capacitor.c_smt(chips)',
+ PATH='I110',
+ DRAWING='@ED1_LIB.ED1(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(8175,-700)',
+ VER='1',
+ ROT='0',
+ CDS_LIB='c_capacitor',
+ VALUE='0.1UF',
+ PART_NUMBER='10000680',
+ VOLT='16V',
+ TOL='20%',
+ JEDEC_TYPE='CAPC-0805_W',
+ TYPE='X7R',
+ PART_NAME='C_SMT_X7R_0805',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/c_capacitor/c_smt/chips/chips.prt';
+
+PART_NAME
+ C19 'C_SMT_X7R_0805-10000680,0.1UF,B':;
+
+SECTION_NUMBER 1
+ '@ED1_LIB.ED1(SCH_1):PAGE1_I185@C_CAPACITOR.C_SMT(CHIPS)':
+ C_PATH='@ed1_lib.ed1(sch_1):page1_i185@c_capacitor.c_smt(chips)',
+ P_PATH='@ed1_lib.ed1(sch_1):page1_i185@c_capacitor.c_smt(chips)',
+ PATH='I185',
+ DRAWING='@ED1_LIB.ED1(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(8975,2675)',
+ VER='1',
+ ROT='1',
+ CDS_LIB='c_capacitor',
+ VALUE='0.1UF',
+ PART_NUMBER='10000680',
+ VOLT='16V',
+ TOL='20%',
+ JEDEC_TYPE='CAPC-0805_W',
+ TYPE='X7R',
+ PART_NAME='C_SMT_X7R_0805',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/c_capacitor/c_smt/chips/chips.prt';
+
+PART_NAME
+ C20 'C_SMT_X7R_0805-10000680,0.1UF,B':;
+
+SECTION_NUMBER 1
+ '@ED1_LIB.ED1(SCH_1):PAGE1_I189@C_CAPACITOR.C_SMT(CHIPS)':
+ C_PATH='@ed1_lib.ed1(sch_1):page1_i189@c_capacitor.c_smt(chips)',
+ P_PATH='@ed1_lib.ed1(sch_1):page1_i189@c_capacitor.c_smt(chips)',
+ PATH='I189',
+ DRAWING='@ED1_LIB.ED1(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(8975,525)',
+ VER='1',
+ ROT='1',
+ CDS_LIB='c_capacitor',
+ VALUE='0.1UF',
+ PART_NUMBER='10000680',
+ VOLT='16V',
+ TOL='20%',
+ JEDEC_TYPE='CAPC-0805_W',
+ TYPE='X7R',
+ PART_NAME='C_SMT_X7R_0805',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/c_capacitor/c_smt/chips/chips.prt';
+
+PART_NAME
+ C21 'C_SMT_X7R_0805-10000680,0.1UF,B':;
+
+SECTION_NUMBER 1
+ '@ED1_LIB.ED1(SCH_1):PAGE1_I187@C_CAPACITOR.C_SMT(CHIPS)':
+ C_PATH='@ed1_lib.ed1(sch_1):page1_i187@c_capacitor.c_smt(chips)',
+ P_PATH='@ed1_lib.ed1(sch_1):page1_i187@c_capacitor.c_smt(chips)',
+ PATH='I187',
+ DRAWING='@ED1_LIB.ED1(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(9000,1575)',
+ VER='1',
+ ROT='1',
+ CDS_LIB='c_capacitor',
+ VALUE='0.1UF',
+ PART_NUMBER='10000680',
+ VOLT='16V',
+ TOL='20%',
+ JEDEC_TYPE='CAPC-0805_W',
+ TYPE='X7R',
+ PART_NAME='C_SMT_X7R_0805',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/c_capacitor/c_smt/chips/chips.prt';
+
+PART_NAME
+ C22 'C_SMT_X7R_0805-10000680,0.1UF,B':;
+
+SECTION_NUMBER 1
+ '@ED1_LIB.ED1(SCH_1):PAGE1_I211@C_CAPACITOR.C_SMT(CHIPS)':
+ C_PATH='@ed1_lib.ed1(sch_1):page1_i211@c_capacitor.c_smt(chips)',
+ P_PATH='@ed1_lib.ed1(sch_1):page1_i211@c_capacitor.c_smt(chips)',
+ PATH='I211',
+ DRAWING='@ED1_LIB.ED1(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(9075,-600)',
+ VER='1',
+ ROT='1',
+ CDS_LIB='c_capacitor',
+ VALUE='0.1UF',
+ PART_NUMBER='10000680',
+ VOLT='16V',
+ TOL='20%',
+ JEDEC_TYPE='CAPC-0805_W',
+ TYPE='X7R',
+ PART_NAME='C_SMT_X7R_0805',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/c_capacitor/c_smt/chips/chips.prt';
+
+PART_NAME
+ C23 'C_SMT_X7R_0805-10000680,0.1UF,B':;
+
+SECTION_NUMBER 1
+ '@ED1_LIB.ED1(SCH_1):PAGE1_I155@C_CAPACITOR.C_SMT(CHIPS)':
+ C_PATH='@ed1_lib.ed1(sch_1):page1_i155@c_capacitor.c_smt(chips)',
+ P_PATH='@ed1_lib.ed1(sch_1):page1_i155@c_capacitor.c_smt(chips)',
+ PATH='I155',
+ DRAWING='@ED1_LIB.ED1(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(10450,2900)',
+ VER='1',
+ ROT='0',
+ CDS_LIB='c_capacitor',
+ VALUE='0.1UF',
+ PART_NUMBER='10000680',
+ VOLT='16V',
+ TOL='20%',
+ JEDEC_TYPE='CAPC-0805_W',
+ TYPE='X7R',
+ PART_NAME='C_SMT_X7R_0805',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/c_capacitor/c_smt/chips/chips.prt';
+
+PART_NAME
+ C24 'C_SMT_X7R_0805-10000680,0.1UF,B':;
+
+SECTION_NUMBER 1
+ '@ED1_LIB.ED1(SCH_1):PAGE1_I157@C_CAPACITOR.C_SMT(CHIPS)':
+ C_PATH='@ed1_lib.ed1(sch_1):page1_i157@c_capacitor.c_smt(chips)',
+ P_PATH='@ed1_lib.ed1(sch_1):page1_i157@c_capacitor.c_smt(chips)',
+ PATH='I157',
+ DRAWING='@ED1_LIB.ED1(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(10550,2575)',
+ VER='1',
+ ROT='0',
+ CDS_LIB='c_capacitor',
+ VALUE='0.1UF',
+ PART_NUMBER='10000680',
+ VOLT='16V',
+ TOL='20%',
+ JEDEC_TYPE='CAPC-0805_W',
+ TYPE='X7R',
+ PART_NAME='C_SMT_X7R_0805',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/c_capacitor/c_smt/chips/chips.prt';
+
+PART_NAME
+ C25 'C_SMT_X7R_0805-10000680,0.1UF,B':;
+
+SECTION_NUMBER 1
+ '@ED1_LIB.ED1(SCH_1):PAGE1_I174@C_CAPACITOR.C_SMT(CHIPS)':
+ C_PATH='@ed1_lib.ed1(sch_1):page1_i174@c_capacitor.c_smt(chips)',
+ P_PATH='@ed1_lib.ed1(sch_1):page1_i174@c_capacitor.c_smt(chips)',
+ PATH='I174',
+ DRAWING='@ED1_LIB.ED1(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(10550,425)',
+ VER='1',
+ ROT='0',
+ CDS_LIB='c_capacitor',
+ VALUE='0.1UF',
+ PART_NUMBER='10000680',
+ VOLT='16V',
+ TOL='20%',
+ JEDEC_TYPE='CAPC-0805_W',
+ TYPE='X7R',
+ PART_NAME='C_SMT_X7R_0805',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/c_capacitor/c_smt/chips/chips.prt';
+
+PART_NAME
+ C26 'C_SMT_X7R_0805-10000680,0.1UF,B':;
+
+SECTION_NUMBER 1
+ '@ED1_LIB.ED1(SCH_1):PAGE1_I170@C_CAPACITOR.C_SMT(CHIPS)':
+ C_PATH='@ed1_lib.ed1(sch_1):page1_i170@c_capacitor.c_smt(chips)',
+ P_PATH='@ed1_lib.ed1(sch_1):page1_i170@c_capacitor.c_smt(chips)',
+ PATH='I170',
+ DRAWING='@ED1_LIB.ED1(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(10575,1475)',
+ VER='1',
+ ROT='0',
+ CDS_LIB='c_capacitor',
+ VALUE='0.1UF',
+ PART_NUMBER='10000680',
+ VOLT='16V',
+ TOL='20%',
+ JEDEC_TYPE='CAPC-0805_W',
+ TYPE='X7R',
+ PART_NAME='C_SMT_X7R_0805',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/c_capacitor/c_smt/chips/chips.prt';
+
+PART_NAME
+ C27 'C_SMT_X7R_0805-10000680,0.1UF,B':;
+
+SECTION_NUMBER 1
+ '@ED1_LIB.ED1(SCH_1):PAGE1_I204@C_CAPACITOR.C_SMT(CHIPS)':
+ C_PATH='@ed1_lib.ed1(sch_1):page1_i204@c_capacitor.c_smt(chips)',
+ P_PATH='@ed1_lib.ed1(sch_1):page1_i204@c_capacitor.c_smt(chips)',
+ PATH='I204',
+ DRAWING='@ED1_LIB.ED1(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(10650,-700)',
+ VER='1',
+ ROT='0',
+ CDS_LIB='c_capacitor',
+ VALUE='0.1UF',
+ PART_NUMBER='10000680',
+ VOLT='16V',
+ TOL='20%',
+ JEDEC_TYPE='CAPC-0805_W',
+ TYPE='X7R',
+ PART_NAME='C_SMT_X7R_0805',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/c_capacitor/c_smt/chips/chips.prt';
+
+PART_NAME
+ C28 'C_SMT_X7R_0805-10000680,0.1UF,B':;
+
+SECTION_NUMBER 1
+ '@ED1_LIB.ED1(SCH_1):PAGE1_I153@C_CAPACITOR.C_SMT(CHIPS)':
+ C_PATH='@ed1_lib.ed1(sch_1):page1_i153@c_capacitor.c_smt(chips)',
+ P_PATH='@ed1_lib.ed1(sch_1):page1_i153@c_capacitor.c_smt(chips)',
+ PATH='I153',
+ DRAWING='@ED1_LIB.ED1(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(11525,450)',
+ VER='1',
+ ROT='1',
+ CDS_LIB='c_capacitor',
+ VALUE='0.1UF',
+ PART_NUMBER='10000680',
+ VOLT='16V',
+ TOL='20%',
+ JEDEC_TYPE='CAPC-0805_W',
+ TYPE='X7R',
+ PART_NAME='C_SMT_X7R_0805',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/c_capacitor/c_smt/chips/chips.prt';
+
+PART_NAME
+ C29 'C_SMT_X7R_0805-10000680,0.1UF,B':;
+
+SECTION_NUMBER 1
+ '@ED1_LIB.ED1(SCH_1):PAGE1_I148@C_CAPACITOR.C_SMT(CHIPS)':
+ C_PATH='@ed1_lib.ed1(sch_1):page1_i148@c_capacitor.c_smt(chips)',
+ P_PATH='@ed1_lib.ed1(sch_1):page1_i148@c_capacitor.c_smt(chips)',
+ PATH='I148',
+ DRAWING='@ED1_LIB.ED1(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(11550,1500)',
+ VER='1',
+ ROT='1',
+ CDS_LIB='c_capacitor',
+ VALUE='0.1UF',
+ PART_NUMBER='10000680',
+ VOLT='16V',
+ TOL='20%',
+ JEDEC_TYPE='CAPC-0805_W',
+ TYPE='X7R',
+ PART_NAME='C_SMT_X7R_0805',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/c_capacitor/c_smt/chips/chips.prt';
+
+PART_NAME
+ C30 'C_SMT_X7R_0805-10000680,0.1UF,B':;
+
+SECTION_NUMBER 1
+ '@ED1_LIB.ED1(SCH_1):PAGE1_I133@C_CAPACITOR.C_SMT(CHIPS)':
+ C_PATH='@ed1_lib.ed1(sch_1):page1_i133@c_capacitor.c_smt(chips)',
+ P_PATH='@ed1_lib.ed1(sch_1):page1_i133@c_capacitor.c_smt(chips)',
+ PATH='I133',
+ DRAWING='@ED1_LIB.ED1(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(11575,2675)',
+ VER='1',
+ ROT='1',
+ CDS_LIB='c_capacitor',
+ VALUE='0.1UF',
+ PART_NUMBER='10000680',
+ VOLT='16V',
+ TOL='20%',
+ JEDEC_TYPE='CAPC-0805_W',
+ TYPE='X7R',
+ PART_NAME='C_SMT_X7R_0805',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/c_capacitor/c_smt/chips/chips.prt';
+
+PART_NAME
+ C31 'C_SMT_X7R_0805-10000680,0.1UF,B':;
+
+SECTION_NUMBER 1
+ '@ED1_LIB.ED1(SCH_1):PAGE1_I200@C_CAPACITOR.C_SMT(CHIPS)':
+ C_PATH='@ed1_lib.ed1(sch_1):page1_i200@c_capacitor.c_smt(chips)',
+ P_PATH='@ed1_lib.ed1(sch_1):page1_i200@c_capacitor.c_smt(chips)',
+ PATH='I200',
+ DRAWING='@ED1_LIB.ED1(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(11625,-675)',
+ VER='1',
+ ROT='1',
+ CDS_LIB='c_capacitor',
+ VALUE='0.1UF',
+ PART_NUMBER='10000680',
+ VOLT='16V',
+ TOL='20%',
+ JEDEC_TYPE='CAPC-0805_W',
+ TYPE='X7R',
+ PART_NAME='C_SMT_X7R_0805',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/c_capacitor/c_smt/chips/chips.prt';
+
+PART_NAME
+ C32 'C_SMT_X7R_0805-10000680,0.1UF,B':;
+
+SECTION_NUMBER 1
+ '@ED1_LIB.ED1(SCH_1):PAGE1_I122@C_CAPACITOR.C_SMT(CHIPS)':
+ C_PATH='@ed1_lib.ed1(sch_1):page1_i122@c_capacitor.c_smt(chips)',
+ P_PATH='@ed1_lib.ed1(sch_1):page1_i122@c_capacitor.c_smt(chips)',
+ PATH='I122',
+ DRAWING='@ED1_LIB.ED1(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(13050,2900)',
+ VER='1',
+ ROT='0',
+ CDS_LIB='c_capacitor',
+ VALUE='0.1UF',
+ PART_NUMBER='10000680',
+ VOLT='16V',
+ TOL='20%',
+ JEDEC_TYPE='CAPC-0805_W',
+ TYPE='X7R',
+ PART_NAME='C_SMT_X7R_0805',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/c_capacitor/c_smt/chips/chips.prt';
+
+PART_NAME
+ C33 'C_SMT_X7R_0805-10000680,0.1UF,B':;
+
+SECTION_NUMBER 1
+ '@ED1_LIB.ED1(SCH_1):PAGE1_I140@C_CAPACITOR.C_SMT(CHIPS)':
+ C_PATH='@ed1_lib.ed1(sch_1):page1_i140@c_capacitor.c_smt(chips)',
+ P_PATH='@ed1_lib.ed1(sch_1):page1_i140@c_capacitor.c_smt(chips)',
+ PATH='I140',
+ DRAWING='@ED1_LIB.ED1(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(13100,350)',
+ VER='1',
+ ROT='0',
+ CDS_LIB='c_capacitor',
+ VALUE='0.1UF',
+ PART_NUMBER='10000680',
+ VOLT='16V',
+ TOL='20%',
+ JEDEC_TYPE='CAPC-0805_W',
+ TYPE='X7R',
+ PART_NAME='C_SMT_X7R_0805',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/c_capacitor/c_smt/chips/chips.prt';
+
+PART_NAME
+ C34 'C_SMT_X7R_0805-10000680,0.1UF,B':;
+
+SECTION_NUMBER 1
+ '@ED1_LIB.ED1(SCH_1):PAGE1_I135@C_CAPACITOR.C_SMT(CHIPS)':
+ C_PATH='@ed1_lib.ed1(sch_1):page1_i135@c_capacitor.c_smt(chips)',
+ P_PATH='@ed1_lib.ed1(sch_1):page1_i135@c_capacitor.c_smt(chips)',
+ PATH='I135',
+ DRAWING='@ED1_LIB.ED1(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(13125,1400)',
+ VER='1',
+ ROT='0',
+ CDS_LIB='c_capacitor',
+ VALUE='0.1UF',
+ PART_NUMBER='10000680',
+ VOLT='16V',
+ TOL='20%',
+ JEDEC_TYPE='CAPC-0805_W',
+ TYPE='X7R',
+ PART_NAME='C_SMT_X7R_0805',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/c_capacitor/c_smt/chips/chips.prt';
+
+PART_NAME
+ C35 'C_SMT_X7R_0805-10000680,0.1UF,B':;
+
+SECTION_NUMBER 1
+ '@ED1_LIB.ED1(SCH_1):PAGE1_I124@C_CAPACITOR.C_SMT(CHIPS)':
+ C_PATH='@ed1_lib.ed1(sch_1):page1_i124@c_capacitor.c_smt(chips)',
+ P_PATH='@ed1_lib.ed1(sch_1):page1_i124@c_capacitor.c_smt(chips)',
+ PATH='I124',
+ DRAWING='@ED1_LIB.ED1(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(13150,2575)',
+ VER='1',
+ ROT='0',
+ CDS_LIB='c_capacitor',
+ VALUE='0.1UF',
+ PART_NUMBER='10000680',
+ VOLT='16V',
+ TOL='20%',
+ JEDEC_TYPE='CAPC-0805_W',
+ TYPE='X7R',
+ PART_NAME='C_SMT_X7R_0805',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/c_capacitor/c_smt/chips/chips.prt';
+
+PART_NAME
+ C36 'C_SMT_X7R_0805-10000680,0.1UF,B':;
+
+SECTION_NUMBER 1
+ '@ED1_LIB.ED1(SCH_1):PAGE1_I192@C_CAPACITOR.C_SMT(CHIPS)':
+ C_PATH='@ed1_lib.ed1(sch_1):page1_i192@c_capacitor.c_smt(chips)',
+ P_PATH='@ed1_lib.ed1(sch_1):page1_i192@c_capacitor.c_smt(chips)',
+ PATH='I192',
+ DRAWING='@ED1_LIB.ED1(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(13200,-775)',
+ VER='1',
+ ROT='0',
+ CDS_LIB='c_capacitor',
+ VALUE='0.1UF',
+ PART_NUMBER='10000680',
+ VOLT='16V',
+ TOL='20%',
+ JEDEC_TYPE='CAPC-0805_W',
+ TYPE='X7R',
+ PART_NAME='C_SMT_X7R_0805',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/c_capacitor/c_smt/chips/chips.prt';
+
+PART_NAME
+ D1 'D_TH_SIGNAL_DO-35-10004927,1N4B':;
+
+SECTION_NUMBER 1
+ '@ED1_LIB.ED1(SCH_1):PAGE1_I6@D_DIODE.D_TH_SIGNAL(CHIPS)':
+ C_PATH='@ed1_lib.ed1(sch_1):page1_i6@d_diode.d_th_signal(chips)',
+ P_PATH='@ed1_lib.ed1(sch_1):page1_i6@d_diode.d_th_signal(chips)',
+ PATH='I6',
+ DRAWING='@ED1_LIB.ED1(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(1025,800)',
+ VER='1',
+ ROT='0',
+ PART_NUMBER='10004927',
+ MFR_1='DIODES',
+ MFR_1_PN='1N4148',
+ MFR_1_SPEC='http://a35as03applge.appl.ge.com/Part_Data_Sheets/Diodes/D_SIGNAL-D~
+iodes_1N4148-1N4448_DO-35.pdf',
+ MFR_2='FAIRCHILD',
+ MFR_2_PN='1N4148',
+ MFR_2_SPEC='http://a35as03applge.appl.ge.com/Part_Data_Sheets/Fairchild/D_SIGNA~
+L-Fairchild_1N4148-1N4448_DO-35.pdf',
+ MFR_4='VISHAY',
+ MFR_4_PN='1N4148',
+ MFR_4_SPEC='http://a35as03applge.appl.ge.com/Part_Data_Sheets/Vishay/D_SIGNAL-V~
+ishay_1N4148_DO-35.pdf',
+ MFR_5='PHILIPS',
+ MFR_5_PN='1N4148',
+ MFR_5_SPEC='http://a35as03applge.appl.ge.com/Part_Data_Sheets/Philips/D_SIGNAL-~
+Philips_1N4148-1N4448_DO-35.pdf',
+ JEDEC_TYPE='DO-35_7P5',
+ VRRM='75V',
+ TYPE='SIGNAL',
+ PART_NAME='D_TH_SIGNAL_DO-35',
+ VALUE='1N4148',
+ IF='150MA',
+ CDS_LIB='d_diode',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/d_diode/d_th_signal/chips/chips.prt';
+
+PART_NAME
+ D2 'D_TH_SIGNAL_DO-35-10004927,1N4B':;
+
+SECTION_NUMBER 1
+ '@ED1_LIB.ED1(SCH_1):PAGE1_I7@D_DIODE.D_TH_SIGNAL(CHIPS)':
+ C_PATH='@ed1_lib.ed1(sch_1):page1_i7@d_diode.d_th_signal(chips)',
+ P_PATH='@ed1_lib.ed1(sch_1):page1_i7@d_diode.d_th_signal(chips)',
+ PATH='I7',
+ DRAWING='@ED1_LIB.ED1(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(1025,1075)',
+ VER='1',
+ ROT='0',
+ PART_NUMBER='10004927',
+ MFR_1='DIODES',
+ MFR_1_PN='1N4148',
+ MFR_1_SPEC='http://a35as03applge.appl.ge.com/Part_Data_Sheets/Diodes/D_SIGNAL-D~
+iodes_1N4148-1N4448_DO-35.pdf',
+ MFR_2='FAIRCHILD',
+ MFR_2_PN='1N4148',
+ MFR_2_SPEC='http://a35as03applge.appl.ge.com/Part_Data_Sheets/Fairchild/D_SIGNA~
+L-Fairchild_1N4148-1N4448_DO-35.pdf',
+ MFR_4='VISHAY',
+ MFR_4_PN='1N4148',
+ MFR_4_SPEC='http://a35as03applge.appl.ge.com/Part_Data_Sheets/Vishay/D_SIGNAL-V~
+ishay_1N4148_DO-35.pdf',
+ MFR_5='PHILIPS',
+ MFR_5_PN='1N4148',
+ MFR_5_SPEC='http://a35as03applge.appl.ge.com/Part_Data_Sheets/Philips/D_SIGNAL-~
+Philips_1N4148-1N4448_DO-35.pdf',
+ JEDEC_TYPE='DO-35_7P5',
+ VRRM='75V',
+ TYPE='SIGNAL',
+ PART_NAME='D_TH_SIGNAL_DO-35',
+ VALUE='1N4148',
+ IF='150MA',
+ CDS_LIB='d_diode',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/d_diode/d_th_signal/chips/chips.prt';
+
+PART_NAME
+ D3 'D_SMT_SCHOTTKY_SOD-123-1000491B':;
+
+SECTION_NUMBER 1
+ '@ED1_LIB.ED1(SCH_1):PAGE1_I29@D_DIODE.D_SMT_SCHOTTKY(CHIPS)':
+ C_PATH='@ed1_lib.ed1(sch_1):page1_i29@d_diode.d_smt_schottky(chips)',
+ P_PATH='@ed1_lib.ed1(sch_1):page1_i29@d_diode.d_smt_schottky(chips)',
+ PATH='I29',
+ DRAWING='@ED1_LIB.ED1(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(4150,2600)',
+ VER='1',
+ ROT='1',
+ PART_NUMBER='10004915',
+ CDS_LIB='d_diode',
+ IF='500MA',
+ VALUE='MBR0530',
+ PART_NAME='D_SMT_SCHOTTKY_SOD-123',
+ TYPE='SCHOTTKY',
+ VRRM='30V',
+ JEDEC_TYPE='SOD-123_W',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/d_diode/d_smt_schottky/chips/chips.prt';
+
+PART_NAME
+ D4 'D_SMT_SIGNAL_1A3C_SOT-23-10004B':;
+
+SECTION_NUMBER 1
+ '@ED1_LIB.ED1(SCH_1):PAGE1_I25@D_DIODE.D_SMT_SIGNAL(CHIPS)':
+ C_PATH='@ed1_lib.ed1(sch_1):page1_i25@d_diode.d_smt_signal(chips)',
+ P_PATH='@ed1_lib.ed1(sch_1):page1_i25@d_diode.d_smt_signal(chips)',
+ PATH='I25',
+ DRAWING='@ED1_LIB.ED1(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(5275,2800)',
+ VER='1',
+ ROT='0',
+ PART_NUMBER='10004947',
+ CDS_LIB='d_diode',
+ IF='200MA',
+ VALUE='MMBD4148',
+ PART_NAME='D_SMT_SIGNAL_1A3C_SOT-23',
+ TYPE='SIGNAL-3PIN',
+ VRRM='75V',
+ JEDEC_TYPE='SOT-23_W',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/d_diode/d_smt_signal/chips/chips.prt';
+
+PART_NAME
+ D5 'D_SMT_SCHOTTKY_SOD-123-1000491B':;
+
+SECTION_NUMBER 1
+ '@ED1_LIB.ED1(SCH_1):PAGE1_I52@D_DIODE.D_SMT_SCHOTTKY(CHIPS)':
+ C_PATH='@ed1_lib.ed1(sch_1):page1_i52@d_diode.d_smt_schottky(chips)',
+ P_PATH='@ed1_lib.ed1(sch_1):page1_i52@d_diode.d_smt_schottky(chips)',
+ PATH='I52',
+ DRAWING='@ED1_LIB.ED1(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(4150,450)',
+ VER='1',
+ ROT='1',
+ PART_NUMBER='10004915',
+ CDS_LIB='d_diode',
+ VALUE='MBR0530',
+ IF='500MA',
+ PART_NAME='D_SMT_SCHOTTKY_SOD-123',
+ TYPE='SCHOTTKY',
+ VRRM='30V',
+ JEDEC_TYPE='SOD-123_W',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/d_diode/d_smt_schottky/chips/chips.prt';
+
+PART_NAME
+ D6 'D_SMT_SCHOTTKY_SOD-123-1000491B':;
+
+SECTION_NUMBER 1
+ '@ED1_LIB.ED1(SCH_1):PAGE1_I40@D_DIODE.D_SMT_SCHOTTKY(CHIPS)':
+ C_PATH='@ed1_lib.ed1(sch_1):page1_i40@d_diode.d_smt_schottky(chips)',
+ P_PATH='@ed1_lib.ed1(sch_1):page1_i40@d_diode.d_smt_schottky(chips)',
+ PATH='I40',
+ DRAWING='@ED1_LIB.ED1(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(4175,1500)',
+ VER='1',
+ ROT='1',
+ PART_NUMBER='10004915',
+ CDS_LIB='d_diode',
+ VALUE='MBR0530',
+ IF='500MA',
+ PART_NAME='D_SMT_SCHOTTKY_SOD-123',
+ TYPE='SCHOTTKY',
+ VRRM='30V',
+ JEDEC_TYPE='SOD-123_W',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/d_diode/d_smt_schottky/chips/chips.prt';
+
+PART_NAME
+ D7 'D_SMT_SCHOTTKY_SOD-123-1000491B':;
+
+SECTION_NUMBER 1
+ '@ED1_LIB.ED1(SCH_1):PAGE1_I64@D_DIODE.D_SMT_SCHOTTKY(CHIPS)':
+ C_PATH='@ed1_lib.ed1(sch_1):page1_i64@d_diode.d_smt_schottky(chips)',
+ P_PATH='@ed1_lib.ed1(sch_1):page1_i64@d_diode.d_smt_schottky(chips)',
+ PATH='I64',
+ DRAWING='@ED1_LIB.ED1(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(4250,-675)',
+ VER='1',
+ ROT='1',
+ PART_NUMBER='10004915',
+ CDS_LIB='d_diode',
+ VALUE='MBR0530',
+ IF='500MA',
+ PART_NAME='D_SMT_SCHOTTKY_SOD-123',
+ TYPE='SCHOTTKY',
+ VRRM='30V',
+ JEDEC_TYPE='SOD-123_W',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/d_diode/d_smt_schottky/chips/chips.prt';
+
+PART_NAME
+ D8 'D_SMT_SIGNAL_1A3C_SOT-23-10004B':;
+
+SECTION_NUMBER 1
+ '@ED1_LIB.ED1(SCH_1):PAGE1_I44@D_DIODE.D_SMT_SIGNAL(CHIPS)':
+ C_PATH='@ed1_lib.ed1(sch_1):page1_i44@d_diode.d_smt_signal(chips)',
+ P_PATH='@ed1_lib.ed1(sch_1):page1_i44@d_diode.d_smt_signal(chips)',
+ PATH='I44',
+ DRAWING='@ED1_LIB.ED1(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(5275,650)',
+ VER='1',
+ ROT='0',
+ PART_NUMBER='10004947',
+ CDS_LIB='d_diode',
+ VALUE='MMBD4148',
+ IF='200MA',
+ PART_NAME='D_SMT_SIGNAL_1A3C_SOT-23',
+ TYPE='SIGNAL-3PIN',
+ VRRM='75V',
+ JEDEC_TYPE='SOT-23_W',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/d_diode/d_smt_signal/chips/chips.prt';
+
+PART_NAME
+ D9 'D_SMT_SIGNAL_1A3C_SOT-23-10004B':;
+
+SECTION_NUMBER 1
+ '@ED1_LIB.ED1(SCH_1):PAGE1_I32@D_DIODE.D_SMT_SIGNAL(CHIPS)':
+ C_PATH='@ed1_lib.ed1(sch_1):page1_i32@d_diode.d_smt_signal(chips)',
+ P_PATH='@ed1_lib.ed1(sch_1):page1_i32@d_diode.d_smt_signal(chips)',
+ PATH='I32',
+ DRAWING='@ED1_LIB.ED1(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(5300,1700)',
+ VER='1',
+ ROT='0',
+ PART_NUMBER='10004947',
+ CDS_LIB='d_diode',
+ VALUE='MMBD4148',
+ IF='200MA',
+ PART_NAME='D_SMT_SIGNAL_1A3C_SOT-23',
+ TYPE='SIGNAL-3PIN',
+ VRRM='75V',
+ JEDEC_TYPE='SOT-23_W',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/d_diode/d_smt_signal/chips/chips.prt';
+
+PART_NAME
+ D10 'D_SMT_SIGNAL_1A3C_SOT-23-10004B':;
+
+SECTION_NUMBER 1
+ '@ED1_LIB.ED1(SCH_1):PAGE1_I56@D_DIODE.D_SMT_SIGNAL(CHIPS)':
+ C_PATH='@ed1_lib.ed1(sch_1):page1_i56@d_diode.d_smt_signal(chips)',
+ P_PATH='@ed1_lib.ed1(sch_1):page1_i56@d_diode.d_smt_signal(chips)',
+ PATH='I56',
+ DRAWING='@ED1_LIB.ED1(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(5375,-475)',
+ VER='1',
+ ROT='0',
+ PART_NUMBER='10004947',
+ CDS_LIB='d_diode',
+ VALUE='MMBD4148',
+ IF='200MA',
+ PART_NAME='D_SMT_SIGNAL_1A3C_SOT-23',
+ TYPE='SIGNAL-3PIN',
+ VRRM='75V',
+ JEDEC_TYPE='SOT-23_W',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/d_diode/d_smt_signal/chips/chips.prt';
+
+PART_NAME
+ D11 'D_SMT_SCHOTTKY_SOD-123-1000491B':;
+
+SECTION_NUMBER 1
+ '@ED1_LIB.ED1(SCH_1):PAGE1_I78@D_DIODE.D_SMT_SCHOTTKY(CHIPS)':
+ C_PATH='@ed1_lib.ed1(sch_1):page1_i78@d_diode.d_smt_schottky(chips)',
+ P_PATH='@ed1_lib.ed1(sch_1):page1_i78@d_diode.d_smt_schottky(chips)',
+ PATH='I78',
+ DRAWING='@ED1_LIB.ED1(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(6750,2600)',
+ VER='1',
+ ROT='1',
+ CDS_LIB='d_diode',
+ VALUE='MBR0530',
+ PART_NUMBER='10004915',
+ IF='500MA',
+ PART_NAME='D_SMT_SCHOTTKY_SOD-123',
+ TYPE='SCHOTTKY',
+ VRRM='30V',
+ JEDEC_TYPE='SOD-123_W',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/d_diode/d_smt_schottky/chips/chips.prt';
+
+PART_NAME
+ D12 'D_SMT_SIGNAL_1A3C_SOT-23-10004B':;
+
+SECTION_NUMBER 1
+ '@ED1_LIB.ED1(SCH_1):PAGE1_I70@D_DIODE.D_SMT_SIGNAL(CHIPS)':
+ C_PATH='@ed1_lib.ed1(sch_1):page1_i70@d_diode.d_smt_signal(chips)',
+ P_PATH='@ed1_lib.ed1(sch_1):page1_i70@d_diode.d_smt_signal(chips)',
+ PATH='I70',
+ DRAWING='@ED1_LIB.ED1(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(7875,2800)',
+ VER='1',
+ ROT='0',
+ CDS_LIB='d_diode',
+ VALUE='MMBD4148',
+ PART_NUMBER='10004947',
+ IF='200MA',
+ PART_NAME='D_SMT_SIGNAL_1A3C_SOT-23',
+ TYPE='SIGNAL-3PIN',
+ VRRM='75V',
+ JEDEC_TYPE='SOT-23_W',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/d_diode/d_smt_signal/chips/chips.prt';
+
+PART_NAME
+ D13 'D_SMT_SCHOTTKY_SOD-123-1000491B':;
+
+SECTION_NUMBER 1
+ '@ED1_LIB.ED1(SCH_1):PAGE1_I102@D_DIODE.D_SMT_SCHOTTKY(CHIPS)':
+ C_PATH='@ed1_lib.ed1(sch_1):page1_i102@d_diode.d_smt_schottky(chips)',
+ P_PATH='@ed1_lib.ed1(sch_1):page1_i102@d_diode.d_smt_schottky(chips)',
+ PATH='I102',
+ DRAWING='@ED1_LIB.ED1(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(6700,375)',
+ VER='1',
+ ROT='1',
+ CDS_LIB='d_diode',
+ VALUE='MBR0530',
+ PART_NUMBER='10004915',
+ IF='500MA',
+ PART_NAME='D_SMT_SCHOTTKY_SOD-123',
+ TYPE='SCHOTTKY',
+ VRRM='30V',
+ JEDEC_TYPE='SOD-123_W',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/d_diode/d_smt_schottky/chips/chips.prt';
+
+PART_NAME
+ D14 'D_SMT_SCHOTTKY_SOD-123-1000491B':;
+
+SECTION_NUMBER 1
+ '@ED1_LIB.ED1(SCH_1):PAGE1_I98@D_DIODE.D_SMT_SCHOTTKY(CHIPS)':
+ C_PATH='@ed1_lib.ed1(sch_1):page1_i98@d_diode.d_smt_schottky(chips)',
+ P_PATH='@ed1_lib.ed1(sch_1):page1_i98@d_diode.d_smt_schottky(chips)',
+ PATH='I98',
+ DRAWING='@ED1_LIB.ED1(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(6725,1425)',
+ VER='1',
+ ROT='1',
+ CDS_LIB='d_diode',
+ VALUE='MBR0530',
+ PART_NUMBER='10004915',
+ IF='500MA',
+ PART_NAME='D_SMT_SCHOTTKY_SOD-123',
+ TYPE='SCHOTTKY',
+ VRRM='30V',
+ JEDEC_TYPE='SOD-123_W',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/d_diode/d_smt_schottky/chips/chips.prt';
+
+PART_NAME
+ D15 'D_SMT_SCHOTTKY_SOD-123-1000491B':;
+
+SECTION_NUMBER 1
+ '@ED1_LIB.ED1(SCH_1):PAGE1_I115@D_DIODE.D_SMT_SCHOTTKY(CHIPS)':
+ C_PATH='@ed1_lib.ed1(sch_1):page1_i115@d_diode.d_smt_schottky(chips)',
+ P_PATH='@ed1_lib.ed1(sch_1):page1_i115@d_diode.d_smt_schottky(chips)',
+ PATH='I115',
+ DRAWING='@ED1_LIB.ED1(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(6800,-750)',
+ VER='1',
+ ROT='1',
+ CDS_LIB='d_diode',
+ VALUE='MBR0530',
+ PART_NUMBER='10004915',
+ IF='500MA',
+ PART_NAME='D_SMT_SCHOTTKY_SOD-123',
+ TYPE='SCHOTTKY',
+ VRRM='30V',
+ JEDEC_TYPE='SOD-123_W',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/d_diode/d_smt_schottky/chips/chips.prt';
+
+PART_NAME
+ D16 'D_SMT_SIGNAL_1A3C_SOT-23-10004B':;
+
+SECTION_NUMBER 1
+ '@ED1_LIB.ED1(SCH_1):PAGE1_I92@D_DIODE.D_SMT_SIGNAL(CHIPS)':
+ C_PATH='@ed1_lib.ed1(sch_1):page1_i92@d_diode.d_smt_signal(chips)',
+ P_PATH='@ed1_lib.ed1(sch_1):page1_i92@d_diode.d_smt_signal(chips)',
+ PATH='I92',
+ DRAWING='@ED1_LIB.ED1(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(7825,575)',
+ VER='1',
+ ROT='0',
+ CDS_LIB='d_diode',
+ VALUE='MMBD4148',
+ PART_NUMBER='10004947',
+ IF='200MA',
+ PART_NAME='D_SMT_SIGNAL_1A3C_SOT-23',
+ TYPE='SIGNAL-3PIN',
+ VRRM='75V',
+ JEDEC_TYPE='SOT-23_W',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/d_diode/d_smt_signal/chips/chips.prt';
+
+PART_NAME
+ D17 'D_SMT_SIGNAL_1A3C_SOT-23-10004B':;
+
+SECTION_NUMBER 1
+ '@ED1_LIB.ED1(SCH_1):PAGE1_I88@D_DIODE.D_SMT_SIGNAL(CHIPS)':
+ C_PATH='@ed1_lib.ed1(sch_1):page1_i88@d_diode.d_smt_signal(chips)',
+ P_PATH='@ed1_lib.ed1(sch_1):page1_i88@d_diode.d_smt_signal(chips)',
+ PATH='I88',
+ DRAWING='@ED1_LIB.ED1(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(7850,1625)',
+ VER='1',
+ ROT='0',
+ CDS_LIB='d_diode',
+ VALUE='MMBD4148',
+ PART_NUMBER='10004947',
+ IF='200MA',
+ PART_NAME='D_SMT_SIGNAL_1A3C_SOT-23',
+ TYPE='SIGNAL-3PIN',
+ VRRM='75V',
+ JEDEC_TYPE='SOT-23_W',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/d_diode/d_smt_signal/chips/chips.prt';
+
+PART_NAME
+ D18 'D_SMT_SIGNAL_1A3C_SOT-23-10004B':;
+
+SECTION_NUMBER 1
+ '@ED1_LIB.ED1(SCH_1):PAGE1_I109@D_DIODE.D_SMT_SIGNAL(CHIPS)':
+ C_PATH='@ed1_lib.ed1(sch_1):page1_i109@d_diode.d_smt_signal(chips)',
+ P_PATH='@ed1_lib.ed1(sch_1):page1_i109@d_diode.d_smt_signal(chips)',
+ PATH='I109',
+ DRAWING='@ED1_LIB.ED1(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(7925,-550)',
+ VER='1',
+ ROT='0',
+ CDS_LIB='d_diode',
+ VALUE='MMBD4148',
+ PART_NUMBER='10004947',
+ IF='200MA',
+ PART_NAME='D_SMT_SIGNAL_1A3C_SOT-23',
+ TYPE='SIGNAL-3PIN',
+ VRRM='75V',
+ JEDEC_TYPE='SOT-23_W',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/d_diode/d_smt_signal/chips/chips.prt';
+
+PART_NAME
+ D19 'D_SMT_SCHOTTKY_SOD-123-1000491B':;
+
+SECTION_NUMBER 1
+ '@ED1_LIB.ED1(SCH_1):PAGE1_I167@D_DIODE.D_SMT_SCHOTTKY(CHIPS)':
+ C_PATH='@ed1_lib.ed1(sch_1):page1_i167@d_diode.d_smt_schottky(chips)',
+ P_PATH='@ed1_lib.ed1(sch_1):page1_i167@d_diode.d_smt_schottky(chips)',
+ PATH='I167',
+ DRAWING='@ED1_LIB.ED1(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(9175,2525)',
+ VER='1',
+ ROT='1',
+ CDS_LIB='d_diode',
+ VALUE='MBR0530',
+ PART_NUMBER='10004915',
+ IF='500MA',
+ PART_NAME='D_SMT_SCHOTTKY_SOD-123',
+ TYPE='SCHOTTKY',
+ VRRM='30V',
+ JEDEC_TYPE='SOD-123_W',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/d_diode/d_smt_schottky/chips/chips.prt';
+
+PART_NAME
+ D20 'D_SMT_SCHOTTKY_SOD-123-1000491B':;
+
+SECTION_NUMBER 1
+ '@ED1_LIB.ED1(SCH_1):PAGE1_I183@D_DIODE.D_SMT_SCHOTTKY(CHIPS)':
+ C_PATH='@ed1_lib.ed1(sch_1):page1_i183@d_diode.d_smt_schottky(chips)',
+ P_PATH='@ed1_lib.ed1(sch_1):page1_i183@d_diode.d_smt_schottky(chips)',
+ PATH='I183',
+ DRAWING='@ED1_LIB.ED1(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(9175,375)',
+ VER='1',
+ ROT='1',
+ CDS_LIB='d_diode',
+ VALUE='MBR0530',
+ PART_NUMBER='10004915',
+ IF='500MA',
+ PART_NAME='D_SMT_SCHOTTKY_SOD-123',
+ TYPE='SCHOTTKY',
+ VRRM='30V',
+ JEDEC_TYPE='SOD-123_W',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/d_diode/d_smt_schottky/chips/chips.prt';
+
+PART_NAME
+ D21 'D_SMT_SCHOTTKY_SOD-123-1000491B':;
+
+SECTION_NUMBER 1
+ '@ED1_LIB.ED1(SCH_1):PAGE1_I179@D_DIODE.D_SMT_SCHOTTKY(CHIPS)':
+ C_PATH='@ed1_lib.ed1(sch_1):page1_i179@d_diode.d_smt_schottky(chips)',
+ P_PATH='@ed1_lib.ed1(sch_1):page1_i179@d_diode.d_smt_schottky(chips)',
+ PATH='I179',
+ DRAWING='@ED1_LIB.ED1(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(9200,1425)',
+ VER='1',
+ ROT='1',
+ CDS_LIB='d_diode',
+ VALUE='MBR0530',
+ PART_NUMBER='10004915',
+ IF='500MA',
+ PART_NAME='D_SMT_SCHOTTKY_SOD-123',
+ TYPE='SCHOTTKY',
+ VRRM='30V',
+ JEDEC_TYPE='SOD-123_W',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/d_diode/d_smt_schottky/chips/chips.prt';
+
+PART_NAME
+ D22 'D_SMT_SCHOTTKY_SOD-123-1000491B':;
+
+SECTION_NUMBER 1
+ '@ED1_LIB.ED1(SCH_1):PAGE1_I209@D_DIODE.D_SMT_SCHOTTKY(CHIPS)':
+ C_PATH='@ed1_lib.ed1(sch_1):page1_i209@d_diode.d_smt_schottky(chips)',
+ P_PATH='@ed1_lib.ed1(sch_1):page1_i209@d_diode.d_smt_schottky(chips)',
+ PATH='I209',
+ DRAWING='@ED1_LIB.ED1(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(9275,-750)',
+ VER='1',
+ ROT='1',
+ CDS_LIB='d_diode',
+ VALUE='MBR0530',
+ PART_NUMBER='10004915',
+ IF='500MA',
+ PART_NAME='D_SMT_SCHOTTKY_SOD-123',
+ TYPE='SCHOTTKY',
+ VRRM='30V',
+ JEDEC_TYPE='SOD-123_W',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/d_diode/d_smt_schottky/chips/chips.prt';
+
+PART_NAME
+ D23 'D_SMT_SIGNAL_1A3C_SOT-23-10004B':;
+
+SECTION_NUMBER 1
+ '@ED1_LIB.ED1(SCH_1):PAGE1_I156@D_DIODE.D_SMT_SIGNAL(CHIPS)':
+ C_PATH='@ed1_lib.ed1(sch_1):page1_i156@d_diode.d_smt_signal(chips)',
+ P_PATH='@ed1_lib.ed1(sch_1):page1_i156@d_diode.d_smt_signal(chips)',
+ PATH='I156',
+ DRAWING='@ED1_LIB.ED1(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(10300,2725)',
+ VER='1',
+ ROT='0',
+ CDS_LIB='d_diode',
+ VALUE='MMBD4148',
+ PART_NUMBER='10004947',
+ IF='200MA',
+ PART_NAME='D_SMT_SIGNAL_1A3C_SOT-23',
+ TYPE='SIGNAL-3PIN',
+ VRRM='75V',
+ JEDEC_TYPE='SOT-23_W',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/d_diode/d_smt_signal/chips/chips.prt';
+
+PART_NAME
+ D24 'D_SMT_SIGNAL_1A3C_SOT-23-10004B':;
+
+SECTION_NUMBER 1
+ '@ED1_LIB.ED1(SCH_1):PAGE1_I173@D_DIODE.D_SMT_SIGNAL(CHIPS)':
+ C_PATH='@ed1_lib.ed1(sch_1):page1_i173@d_diode.d_smt_signal(chips)',
+ P_PATH='@ed1_lib.ed1(sch_1):page1_i173@d_diode.d_smt_signal(chips)',
+ PATH='I173',
+ DRAWING='@ED1_LIB.ED1(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(10300,575)',
+ VER='1',
+ ROT='0',
+ CDS_LIB='d_diode',
+ VALUE='MMBD4148',
+ PART_NUMBER='10004947',
+ IF='200MA',
+ PART_NAME='D_SMT_SIGNAL_1A3C_SOT-23',
+ TYPE='SIGNAL-3PIN',
+ VRRM='75V',
+ JEDEC_TYPE='SOT-23_W',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/d_diode/d_smt_signal/chips/chips.prt';
+
+PART_NAME
+ D25 'D_SMT_SIGNAL_1A3C_SOT-23-10004B':;
+
+SECTION_NUMBER 1
+ '@ED1_LIB.ED1(SCH_1):PAGE1_I169@D_DIODE.D_SMT_SIGNAL(CHIPS)':
+ C_PATH='@ed1_lib.ed1(sch_1):page1_i169@d_diode.d_smt_signal(chips)',
+ P_PATH='@ed1_lib.ed1(sch_1):page1_i169@d_diode.d_smt_signal(chips)',
+ PATH='I169',
+ DRAWING='@ED1_LIB.ED1(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(10325,1625)',
+ VER='1',
+ ROT='0',
+ CDS_LIB='d_diode',
+ VALUE='MMBD4148',
+ PART_NUMBER='10004947',
+ IF='200MA',
+ PART_NAME='D_SMT_SIGNAL_1A3C_SOT-23',
+ TYPE='SIGNAL-3PIN',
+ VRRM='75V',
+ JEDEC_TYPE='SOT-23_W',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/d_diode/d_smt_signal/chips/chips.prt';
+
+PART_NAME
+ D26 'D_SMT_SIGNAL_1A3C_SOT-23-10004B':;
+
+SECTION_NUMBER 1
+ '@ED1_LIB.ED1(SCH_1):PAGE1_I203@D_DIODE.D_SMT_SIGNAL(CHIPS)':
+ C_PATH='@ed1_lib.ed1(sch_1):page1_i203@d_diode.d_smt_signal(chips)',
+ P_PATH='@ed1_lib.ed1(sch_1):page1_i203@d_diode.d_smt_signal(chips)',
+ PATH='I203',
+ DRAWING='@ED1_LIB.ED1(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(10400,-550)',
+ VER='1',
+ ROT='0',
+ CDS_LIB='d_diode',
+ VALUE='MMBD4148',
+ PART_NUMBER='10004947',
+ IF='200MA',
+ PART_NAME='D_SMT_SIGNAL_1A3C_SOT-23',
+ TYPE='SIGNAL-3PIN',
+ VRRM='75V',
+ JEDEC_TYPE='SOT-23_W',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/d_diode/d_smt_signal/chips/chips.prt';
+
+PART_NAME
+ D27 'D_SMT_SCHOTTKY_SOD-123-1000491B':;
+
+SECTION_NUMBER 1
+ '@ED1_LIB.ED1(SCH_1):PAGE1_I151@D_DIODE.D_SMT_SCHOTTKY(CHIPS)':
+ C_PATH='@ed1_lib.ed1(sch_1):page1_i151@d_diode.d_smt_schottky(chips)',
+ P_PATH='@ed1_lib.ed1(sch_1):page1_i151@d_diode.d_smt_schottky(chips)',
+ PATH='I151',
+ DRAWING='@ED1_LIB.ED1(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(11725,300)',
+ VER='1',
+ ROT='1',
+ CDS_LIB='d_diode',
+ VALUE='MBR0530',
+ PART_NUMBER='10004915',
+ IF='500MA',
+ PART_NAME='D_SMT_SCHOTTKY_SOD-123',
+ TYPE='SCHOTTKY',
+ VRRM='30V',
+ JEDEC_TYPE='SOD-123_W',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/d_diode/d_smt_schottky/chips/chips.prt';
+
+PART_NAME
+ D28 'D_SMT_SCHOTTKY_SOD-123-1000491B':;
+
+SECTION_NUMBER 1
+ '@ED1_LIB.ED1(SCH_1):PAGE1_I146@D_DIODE.D_SMT_SCHOTTKY(CHIPS)':
+ C_PATH='@ed1_lib.ed1(sch_1):page1_i146@d_diode.d_smt_schottky(chips)',
+ P_PATH='@ed1_lib.ed1(sch_1):page1_i146@d_diode.d_smt_schottky(chips)',
+ PATH='I146',
+ DRAWING='@ED1_LIB.ED1(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(11750,1350)',
+ VER='1',
+ ROT='1',
+ CDS_LIB='d_diode',
+ VALUE='MBR0530',
+ PART_NUMBER='10004915',
+ IF='500MA',
+ PART_NAME='D_SMT_SCHOTTKY_SOD-123',
+ TYPE='SCHOTTKY',
+ VRRM='30V',
+ JEDEC_TYPE='SOD-123_W',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/d_diode/d_smt_schottky/chips/chips.prt';
+
+PART_NAME
+ D29 'D_SMT_SCHOTTKY_SOD-123-1000491B':;
+
+SECTION_NUMBER 1
+ '@ED1_LIB.ED1(SCH_1):PAGE1_I132@D_DIODE.D_SMT_SCHOTTKY(CHIPS)':
+ C_PATH='@ed1_lib.ed1(sch_1):page1_i132@d_diode.d_smt_schottky(chips)',
+ P_PATH='@ed1_lib.ed1(sch_1):page1_i132@d_diode.d_smt_schottky(chips)',
+ PATH='I132',
+ DRAWING='@ED1_LIB.ED1(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(11775,2525)',
+ VER='1',
+ ROT='1',
+ CDS_LIB='d_diode',
+ VALUE='MBR0530',
+ PART_NUMBER='10004915',
+ IF='500MA',
+ PART_NAME='D_SMT_SCHOTTKY_SOD-123',
+ TYPE='SCHOTTKY',
+ VRRM='30V',
+ JEDEC_TYPE='SOD-123_W',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/d_diode/d_smt_schottky/chips/chips.prt';
+
+PART_NAME
+ D30 'D_SMT_SCHOTTKY_SOD-123-1000491B':;
+
+SECTION_NUMBER 1
+ '@ED1_LIB.ED1(SCH_1):PAGE1_I198@D_DIODE.D_SMT_SCHOTTKY(CHIPS)':
+ C_PATH='@ed1_lib.ed1(sch_1):page1_i198@d_diode.d_smt_schottky(chips)',
+ P_PATH='@ed1_lib.ed1(sch_1):page1_i198@d_diode.d_smt_schottky(chips)',
+ PATH='I198',
+ DRAWING='@ED1_LIB.ED1(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(11825,-825)',
+ VER='1',
+ ROT='1',
+ CDS_LIB='d_diode',
+ VALUE='MBR0530',
+ PART_NUMBER='10004915',
+ IF='500MA',
+ PART_NAME='D_SMT_SCHOTTKY_SOD-123',
+ TYPE='SCHOTTKY',
+ VRRM='30V',
+ JEDEC_TYPE='SOD-123_W',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/d_diode/d_smt_schottky/chips/chips.prt';
+
+PART_NAME
+ D31 'D_SMT_SIGNAL_1A3C_SOT-23-10004B':;
+
+SECTION_NUMBER 1
+ '@ED1_LIB.ED1(SCH_1):PAGE1_I139@D_DIODE.D_SMT_SIGNAL(CHIPS)':
+ C_PATH='@ed1_lib.ed1(sch_1):page1_i139@d_diode.d_smt_signal(chips)',
+ P_PATH='@ed1_lib.ed1(sch_1):page1_i139@d_diode.d_smt_signal(chips)',
+ PATH='I139',
+ DRAWING='@ED1_LIB.ED1(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(12850,500)',
+ VER='1',
+ ROT='0',
+ CDS_LIB='d_diode',
+ VALUE='MMBD4148',
+ PART_NUMBER='10004947',
+ IF='200MA',
+ PART_NAME='D_SMT_SIGNAL_1A3C_SOT-23',
+ TYPE='SIGNAL-3PIN',
+ VRRM='75V',
+ JEDEC_TYPE='SOT-23_W',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/d_diode/d_smt_signal/chips/chips.prt';
+
+PART_NAME
+ D32 'D_SMT_SIGNAL_1A3C_SOT-23-10004B':;
+
+SECTION_NUMBER 1
+ '@ED1_LIB.ED1(SCH_1):PAGE1_I134@D_DIODE.D_SMT_SIGNAL(CHIPS)':
+ C_PATH='@ed1_lib.ed1(sch_1):page1_i134@d_diode.d_smt_signal(chips)',
+ P_PATH='@ed1_lib.ed1(sch_1):page1_i134@d_diode.d_smt_signal(chips)',
+ PATH='I134',
+ DRAWING='@ED1_LIB.ED1(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(12875,1550)',
+ VER='1',
+ ROT='0',
+ CDS_LIB='d_diode',
+ VALUE='MMBD4148',
+ PART_NUMBER='10004947',
+ IF='200MA',
+ PART_NAME='D_SMT_SIGNAL_1A3C_SOT-23',
+ TYPE='SIGNAL-3PIN',
+ VRRM='75V',
+ JEDEC_TYPE='SOT-23_W',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/d_diode/d_smt_signal/chips/chips.prt';
+
+PART_NAME
+ D33 'D_SMT_SIGNAL_1A3C_SOT-23-10004B':;
+
+SECTION_NUMBER 1
+ '@ED1_LIB.ED1(SCH_1):PAGE1_I123@D_DIODE.D_SMT_SIGNAL(CHIPS)':
+ C_PATH='@ed1_lib.ed1(sch_1):page1_i123@d_diode.d_smt_signal(chips)',
+ P_PATH='@ed1_lib.ed1(sch_1):page1_i123@d_diode.d_smt_signal(chips)',
+ PATH='I123',
+ DRAWING='@ED1_LIB.ED1(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(12900,2725)',
+ VER='1',
+ ROT='0',
+ CDS_LIB='d_diode',
+ VALUE='MMBD4148',
+ PART_NUMBER='10004947',
+ IF='200MA',
+ PART_NAME='D_SMT_SIGNAL_1A3C_SOT-23',
+ TYPE='SIGNAL-3PIN',
+ VRRM='75V',
+ JEDEC_TYPE='SOT-23_W',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/d_diode/d_smt_signal/chips/chips.prt';
+
+PART_NAME
+ D34 'D_SMT_SIGNAL_1A3C_SOT-23-10004B':;
+
+SECTION_NUMBER 1
+ '@ED1_LIB.ED1(SCH_1):PAGE1_I193@D_DIODE.D_SMT_SIGNAL(CHIPS)':
+ C_PATH='@ed1_lib.ed1(sch_1):page1_i193@d_diode.d_smt_signal(chips)',
+ P_PATH='@ed1_lib.ed1(sch_1):page1_i193@d_diode.d_smt_signal(chips)',
+ PATH='I193',
+ DRAWING='@ED1_LIB.ED1(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(12950,-625)',
+ VER='1',
+ ROT='0',
+ CDS_LIB='d_diode',
+ VALUE='MMBD4148',
+ PART_NUMBER='10004947',
+ IF='200MA',
+ PART_NAME='D_SMT_SIGNAL_1A3C_SOT-23',
+ TYPE='SIGNAL-3PIN',
+ VRRM='75V',
+ JEDEC_TYPE='SOT-23_W',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/d_diode/d_smt_signal/chips/chips.prt';
+
+PART_NAME
+ J1 'J_5_RT_AMP_640457-10017317,640B':;
+
+SECTION_NUMBER 1
+ '@ED1_LIB.ED1(SCH_1):PAGE1_I11@J_CONNECTOR2FJUMPER.J_5_RT(CHIPS)':
+ C_PATH='@ed1_lib.ed1(sch_1):page1_i11@j_connector2fjumper.j_5_rt(chips)',
+ P_PATH='@ed1_lib.ed1(sch_1):page1_i11@j_connector2fjumper.j_5_rt(chips)',
+ PATH='I11',
+ DRAWING='@ED1_LIB.ED1(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(2350,-200)',
+ VER='1',
+ ROT='0',
+ PART_NUMBER='10017317',
+ MFR_1='AMP',
+ MFR_1_PN='640457-5',
+ MFR_1_SPEC='http://a35as03applge.appl.ge.com/part_data_sheets/amp/amp_640457.pd~
+f',
+ JEDEC_TYPE='CONN-TYCO-5PIN-100MIL-RT',
+ PART_NAME='J_5_RT_AMP_640457',
+ VALUE='640457-5',
+ CDS_LIB='j_connector2fjumper',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/j_connector2fjumper/j_5_rt/chips/chips.prt';
+
+PART_NAME
+ J2 'J_5_RT_AMP_640457-10017317,640B':;
+
+SECTION_NUMBER 1
+ '@ED1_LIB.ED1(SCH_1):PAGE1_I10@J_CONNECTOR2FJUMPER.J_5_RT(CHIPS)':
+ C_PATH='@ed1_lib.ed1(sch_1):page1_i10@j_connector2fjumper.j_5_rt(chips)',
+ P_PATH='@ed1_lib.ed1(sch_1):page1_i10@j_connector2fjumper.j_5_rt(chips)',
+ PATH='I10',
+ DRAWING='@ED1_LIB.ED1(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(2375,225)',
+ VER='1',
+ ROT='0',
+ PART_NUMBER='10017317',
+ MFR_1='AMP',
+ MFR_1_PN='640457-5',
+ MFR_1_SPEC='http://a35as03applge.appl.ge.com/part_data_sheets/amp/amp_640457.pd~
+f',
+ JEDEC_TYPE='CONN-TYCO-5PIN-100MIL-RT',
+ PART_NAME='J_5_RT_AMP_640457',
+ VALUE='640457-5',
+ CDS_LIB='j_connector2fjumper',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/j_connector2fjumper/j_5_rt/chips/chips.prt';
+
+PART_NAME
+ J3 'J_5_RT_AMP_640457-10017317,640B':;
+
+SECTION_NUMBER 1
+ '@ED1_LIB.ED1(SCH_1):PAGE1_I8@J_CONNECTOR2FJUMPER.J_5_RT(CHIPS)':
+ C_PATH='@ed1_lib.ed1(sch_1):page1_i8@j_connector2fjumper.j_5_rt(chips)',
+ P_PATH='@ed1_lib.ed1(sch_1):page1_i8@j_connector2fjumper.j_5_rt(chips)',
+ PATH='I8',
+ DRAWING='@ED1_LIB.ED1(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(2400,1125)',
+ VER='1',
+ ROT='0',
+ PART_NUMBER='10017317',
+ MFR_1_SPEC='http://a35as03applge.appl.ge.com/part_data_sheets/amp/amp_640457.pd~
+f',
+ MFR_1_PN='640457-5',
+ MFR_1='AMP',
+ JEDEC_TYPE='CONN-TYCO-5PIN-100MIL-RT',
+ PART_NAME='J_5_RT_AMP_640457',
+ VALUE='640457-5',
+ CDS_LIB='j_connector2fjumper',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/j_connector2fjumper/j_5_rt/chips/chips.prt';
+
+PART_NAME
+ J4 'J_5_RT_AMP_640457-10017317,640B':;
+
+SECTION_NUMBER 1
+ '@ED1_LIB.ED1(SCH_1):PAGE1_I9@J_CONNECTOR2FJUMPER.J_5_RT(CHIPS)':
+ C_PATH='@ed1_lib.ed1(sch_1):page1_i9@j_connector2fjumper.j_5_rt(chips)',
+ P_PATH='@ed1_lib.ed1(sch_1):page1_i9@j_connector2fjumper.j_5_rt(chips)',
+ PATH='I9',
+ DRAWING='@ED1_LIB.ED1(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(2400,700)',
+ VER='1',
+ ROT='0',
+ PART_NUMBER='10017317',
+ MFR_1='AMP',
+ MFR_1_PN='640457-5',
+ MFR_1_SPEC='http://a35as03applge.appl.ge.com/part_data_sheets/amp/amp_640457.pd~
+f',
+ JEDEC_TYPE='CONN-TYCO-5PIN-100MIL-RT',
+ PART_NAME='J_5_RT_AMP_640457',
+ VALUE='640457-5',
+ CDS_LIB='j_connector2fjumper',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/j_connector2fjumper/j_5_rt/chips/chips.prt';
+
+PART_NAME
+ J5 'J_4_RT_TYCO_3_647048_4-1001723B':;
+
+SECTION_NUMBER 1
+ '@ED1_LIB.ED1(SCH_1):PAGE1_I12@J_CONNECTOR2FJUMPER.J_4_RT(CHIPS)':
+ C_PATH='@ed1_lib.ed1(sch_1):page1_i12@j_connector2fjumper.j_4_rt(chips)',
+ P_PATH='@ed1_lib.ed1(sch_1):page1_i12@j_connector2fjumper.j_4_rt(chips)',
+ PATH='I12',
+ DRAWING='@ED1_LIB.ED1(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(2675,1550)',
+ VER='1',
+ ROT='0',
+ PART_NUMBER='10017233',
+ MFR_1_SPEC='HTTP://A35AS03APPLGE.APPL.GE.COM/PART_DATA_SHEETS/TYCO/647048.PDF',
+ MFR_1_PN='3-647048-4',
+ MFR_1='TYCO',
+ JEDEC_TYPE='CONN-TYCO-4PIN-100MIL-RT',
+ PART_NAME='J_4_RT_TYCO_3_647048_4',
+ VALUE='3-647048-4',
+ CDS_LIB='j_connector2fjumper',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/j_connector2fjumper/j_4_rt/chips/chips.prt';
+
+PART_NAME
+ J6 'J_5_RT_AMP_640457-10017317,640B':;
+
+SECTION_NUMBER 1
+ '@ED1_LIB.ED1(SCH_1):PAGE1_I14@J_CONNECTOR2FJUMPER.J_5_RT(CHIPS)':
+ C_PATH='@ed1_lib.ed1(sch_1):page1_i14@j_connector2fjumper.j_5_rt(chips)',
+ P_PATH='@ed1_lib.ed1(sch_1):page1_i14@j_connector2fjumper.j_5_rt(chips)',
+ PATH='I14',
+ DRAWING='@ED1_LIB.ED1(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(3025,700)',
+ VER='1',
+ ROT='0',
+ PART_NUMBER='10017317',
+ MFR_1_SPEC='http://a35as03applge.appl.ge.com/part_data_sheets/amp/amp_640457.pd~
+f',
+ MFR_1_PN='640457-5',
+ MFR_1='AMP',
+ JEDEC_TYPE='CONN-TYCO-5PIN-100MIL-RT',
+ PART_NAME='J_5_RT_AMP_640457',
+ VALUE='640457-5',
+ CDS_LIB='j_connector2fjumper',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/j_connector2fjumper/j_5_rt/chips/chips.prt';
+
+PART_NAME
+ J7 'J_5_RT_AMP_640457-10017317,640B':;
+
+SECTION_NUMBER 1
+ '@ED1_LIB.ED1(SCH_1):PAGE1_I15@J_CONNECTOR2FJUMPER.J_5_RT(CHIPS)':
+ C_PATH='@ed1_lib.ed1(sch_1):page1_i15@j_connector2fjumper.j_5_rt(chips)',
+ P_PATH='@ed1_lib.ed1(sch_1):page1_i15@j_connector2fjumper.j_5_rt(chips)',
+ PATH='I15',
+ DRAWING='@ED1_LIB.ED1(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(3025,250)',
+ VER='1',
+ ROT='0',
+ PART_NUMBER='10017317',
+ MFR_1='AMP',
+ MFR_1_PN='640457-5',
+ MFR_1_SPEC='http://a35as03applge.appl.ge.com/part_data_sheets/amp/amp_640457.pd~
+f',
+ JEDEC_TYPE='CONN-TYCO-5PIN-100MIL-RT',
+ PART_NAME='J_5_RT_AMP_640457',
+ VALUE='640457-5',
+ CDS_LIB='j_connector2fjumper',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/j_connector2fjumper/j_5_rt/chips/chips.prt';
+
+PART_NAME
+ J8 'J_5_RT_AMP_640457-10017317,640B':;
+
+SECTION_NUMBER 1
+ '@ED1_LIB.ED1(SCH_1):PAGE1_I16@J_CONNECTOR2FJUMPER.J_5_RT(CHIPS)':
+ C_PATH='@ed1_lib.ed1(sch_1):page1_i16@j_connector2fjumper.j_5_rt(chips)',
+ P_PATH='@ed1_lib.ed1(sch_1):page1_i16@j_connector2fjumper.j_5_rt(chips)',
+ PATH='I16',
+ DRAWING='@ED1_LIB.ED1(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(3025,-175)',
+ VER='1',
+ ROT='0',
+ PART_NUMBER='10017317',
+ MFR_1='AMP',
+ MFR_1_PN='640457-5',
+ MFR_1_SPEC='http://a35as03applge.appl.ge.com/part_data_sheets/amp/amp_640457.pd~
+f',
+ JEDEC_TYPE='CONN-TYCO-5PIN-100MIL-RT',
+ PART_NAME='J_5_RT_AMP_640457',
+ VALUE='640457-5',
+ CDS_LIB='j_connector2fjumper',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/j_connector2fjumper/j_5_rt/chips/chips.prt';
+
+PART_NAME
+ J9 'J_5_RT_AMP_640457-10017317,640B':;
+
+SECTION_NUMBER 1
+ '@ED1_LIB.ED1(SCH_1):PAGE1_I13@J_CONNECTOR2FJUMPER.J_5_RT(CHIPS)':
+ C_PATH='@ed1_lib.ed1(sch_1):page1_i13@j_connector2fjumper.j_5_rt(chips)',
+ P_PATH='@ed1_lib.ed1(sch_1):page1_i13@j_connector2fjumper.j_5_rt(chips)',
+ PATH='I13',
+ DRAWING='@ED1_LIB.ED1(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(3050,1125)',
+ VER='1',
+ ROT='0',
+ PART_NUMBER='10017317',
+ MFR_1='AMP',
+ MFR_1_PN='640457-5',
+ MFR_1_SPEC='http://a35as03applge.appl.ge.com/part_data_sheets/amp/amp_640457.pd~
+f',
+ JEDEC_TYPE='CONN-TYCO-5PIN-100MIL-RT',
+ PART_NAME='J_5_RT_AMP_640457',
+ VALUE='640457-5',
+ CDS_LIB='j_connector2fjumper',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/j_connector2fjumper/j_5_rt/chips/chips.prt';
+
+PART_NAME
+ R1 'R_TH_CARBON_1_4W-10013752,330,B':;
+
+SECTION_NUMBER 1
+ '@ED1_LIB.ED1(SCH_1):PAGE1_I3@R_RESISTOR.R_TH_CARBON(CHIPS)':
+ C_PATH='@ed1_lib.ed1(sch_1):page1_i3@r_resistor.r_th_carbon(chips)',
+ P_PATH='@ed1_lib.ed1(sch_1):page1_i3@r_resistor.r_th_carbon(chips)',
+ PATH='I3',
+ DRAWING='@ED1_LIB.ED1(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(2075,2175)',
+ VER='1',
+ ROT='0',
+ PART_NUMBER='10013752',
+ TOL='5%',
+ WATTAGE='1/4W',
+ MFR_4_SPEC='http://a35as03applge.appl.ge.com/Part_Data_Sheets/HKR/R_TH_carbon-H~
+KR_CF.pdf',
+ MFR_4_PN='CFR25330RJ',
+ MFR_4='HKR',
+ MFR_3_SPEC='http://a35as03applge.appl.ge.com/Part_Data_Sheets/KOA/R_TH_carbon-K~
+OA_CF.pdf',
+ MFR_3_PN='CF1/4CXXX331J',
+ MFR_3='KOA',
+ MFR_2_SPEC='http://a35as03applge.appl.ge.com/Part_Data_Sheets/NIC/R_TH_Carbon-N~
+IC_NCF.pdf',
+ MFR_2_PN='NCF25J331TRF',
+ MFR_2='NIC',
+ MFR_1_SPEC='http://a35as03applge.appl.ge.com/Part_Data_Sheets/Yageo/R_TH-Yageo_~
+all.pdf',
+ MFR_1_PN='CFR-25J330R',
+ MFR_1='YAGEO',
+ JEDEC_TYPE='RES_12P5_3D_0P9H',
+ TYPE='CARBON',
+ PART_NAME='R_TH_CARBON_1_4W',
+ VALUE='330',
+ CDS_LIB='r_resistor',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/r_resistor/r_th_carbon/chips/chips.prt';
+
+PART_NAME
+ R2 'R_TH_CARBON_1_4W-10013752,330,B':;
+
+SECTION_NUMBER 1
+ '@ED1_LIB.ED1(SCH_1):PAGE1_I1@R_RESISTOR.R_TH_CARBON(CHIPS)':
+ C_PATH='@ed1_lib.ed1(sch_1):page1_i1@r_resistor.r_th_carbon(chips)',
+ P_PATH='@ed1_lib.ed1(sch_1):page1_i1@r_resistor.r_th_carbon(chips)',
+ PATH='I1',
+ DRAWING='@ED1_LIB.ED1(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(2075,2575)',
+ VER='1',
+ ROT='0',
+ PART_NUMBER='10013752',
+ TOL='5%',
+ WATTAGE='1/4W',
+ MFR_1='YAGEO',
+ MFR_1_PN='CFR-25J330R',
+ MFR_1_SPEC='http://a35as03applge.appl.ge.com/Part_Data_Sheets/Yageo/R_TH-Yageo_~
+all.pdf',
+ MFR_2='NIC',
+ MFR_2_PN='NCF25J331TRF',
+ MFR_2_SPEC='http://a35as03applge.appl.ge.com/Part_Data_Sheets/NIC/R_TH_Carbon-N~
+IC_NCF.pdf',
+ MFR_3='KOA',
+ MFR_3_PN='CF1/4CXXX331J',
+ MFR_3_SPEC='http://a35as03applge.appl.ge.com/Part_Data_Sheets/KOA/R_TH_carbon-K~
+OA_CF.pdf',
+ MFR_4='HKR',
+ MFR_4_PN='CFR25330RJ',
+ MFR_4_SPEC='http://a35as03applge.appl.ge.com/Part_Data_Sheets/HKR/R_TH_carbon-H~
+KR_CF.pdf',
+ JEDEC_TYPE='RES_12P5_3D_0P9H',
+ TYPE='CARBON',
+ PART_NAME='R_TH_CARBON_1_4W',
+ VALUE='330',
+ CDS_LIB='r_resistor',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/r_resistor/r_th_carbon/chips/chips.prt';
+
+PART_NAME
+ R3 'R_TH_CARBON_1_4W-10013752,330,B':;
+
+SECTION_NUMBER 1
+ '@ED1_LIB.ED1(SCH_1):PAGE1_I4@R_RESISTOR.R_TH_CARBON(CHIPS)':
+ C_PATH='@ed1_lib.ed1(sch_1):page1_i4@r_resistor.r_th_carbon(chips)',
+ P_PATH='@ed1_lib.ed1(sch_1):page1_i4@r_resistor.r_th_carbon(chips)',
+ PATH='I4',
+ DRAWING='@ED1_LIB.ED1(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(2075,1975)',
+ VER='1',
+ ROT='0',
+ PART_NUMBER='10013752',
+ TOL='5%',
+ WATTAGE='1/4W',
+ MFR_4_SPEC='http://a35as03applge.appl.ge.com/Part_Data_Sheets/HKR/R_TH_carbon-H~
+KR_CF.pdf',
+ MFR_4_PN='CFR25330RJ',
+ MFR_4='HKR',
+ MFR_3_SPEC='http://a35as03applge.appl.ge.com/Part_Data_Sheets/KOA/R_TH_carbon-K~
+OA_CF.pdf',
+ MFR_3_PN='CF1/4CXXX331J',
+ MFR_3='KOA',
+ MFR_2_SPEC='http://a35as03applge.appl.ge.com/Part_Data_Sheets/NIC/R_TH_Carbon-N~
+IC_NCF.pdf',
+ MFR_2_PN='NCF25J331TRF',
+ MFR_2='NIC',
+ MFR_1_SPEC='http://a35as03applge.appl.ge.com/Part_Data_Sheets/Yageo/R_TH-Yageo_~
+all.pdf',
+ MFR_1_PN='CFR-25J330R',
+ MFR_1='YAGEO',
+ JEDEC_TYPE='RES_12P5_3D_0P9H',
+ TYPE='CARBON',
+ PART_NAME='R_TH_CARBON_1_4W',
+ CDS_LIB='r_resistor',
+ VALUE='330',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/r_resistor/r_th_carbon/chips/chips.prt';
+
+PART_NAME
+ R4 'R_TH_CARBON_1_4W-10013752,330,B':;
+
+SECTION_NUMBER 1
+ '@ED1_LIB.ED1(SCH_1):PAGE1_I2@R_RESISTOR.R_TH_CARBON(CHIPS)':
+ C_PATH='@ed1_lib.ed1(sch_1):page1_i2@r_resistor.r_th_carbon(chips)',
+ P_PATH='@ed1_lib.ed1(sch_1):page1_i2@r_resistor.r_th_carbon(chips)',
+ PATH='I2',
+ DRAWING='@ED1_LIB.ED1(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(2075,2375)',
+ VER='1',
+ ROT='0',
+ PART_NUMBER='10013752',
+ TOL='5%',
+ WATTAGE='1/4W',
+ MFR_1='YAGEO',
+ MFR_1_PN='CFR-25J330R',
+ MFR_1_SPEC='http://a35as03applge.appl.ge.com/Part_Data_Sheets/Yageo/R_TH-Yageo_~
+all.pdf',
+ MFR_2='NIC',
+ MFR_2_PN='NCF25J331TRF',
+ MFR_2_SPEC='http://a35as03applge.appl.ge.com/Part_Data_Sheets/NIC/R_TH_Carbon-N~
+IC_NCF.pdf',
+ MFR_3='KOA',
+ MFR_3_PN='CF1/4CXXX331J',
+ MFR_3_SPEC='http://a35as03applge.appl.ge.com/Part_Data_Sheets/KOA/R_TH_carbon-K~
+OA_CF.pdf',
+ MFR_4='HKR',
+ MFR_4_PN='CFR25330RJ',
+ MFR_4_SPEC='http://a35as03applge.appl.ge.com/Part_Data_Sheets/HKR/R_TH_carbon-H~
+KR_CF.pdf',
+ JEDEC_TYPE='RES_12P5_3D_0P9H',
+ TYPE='CARBON',
+ PART_NAME='R_TH_CARBON_1_4W',
+ VALUE='330',
+ CDS_LIB='r_resistor',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/r_resistor/r_th_carbon/chips/chips.prt';
+
+PART_NAME
+ R5 'R_SMT_0805-10006514,100K,TF-SMB':;
+
+SECTION_NUMBER 1
+ '@ED1_LIB.ED1(SCH_1):PAGE1_I22@R_RESISTOR.R_SMT(CHIPS)':
+ C_PATH='@ed1_lib.ed1(sch_1):page1_i22@r_resistor.r_smt(chips)',
+ P_PATH='@ed1_lib.ed1(sch_1):page1_i22@r_resistor.r_smt(chips)',
+ PATH='I22',
+ DRAWING='@ED1_LIB.ED1(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(4350,3200)',
+ VER='1',
+ ROT='0',
+ PART_NUMBER='10006514',
+ TOL='5%',
+ WATTAGE='1/8W',
+ CDS_LIB='r_resistor',
+ VALUE='100K',
+ PART_NAME='R_SMT_0805',
+ TYPE='TF-SMT0805',
+ JEDEC_TYPE='RESC-0805_W',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/r_resistor/r_smt/chips/chips.prt';
+
+PART_NAME
+ R6 'R_SMT_0805-10006506,47K,TF-SMTB':;
+
+SECTION_NUMBER 1
+ '@ED1_LIB.ED1(SCH_1):PAGE1_I19@R_RESISTOR.R_SMT(CHIPS)':
+ C_PATH='@ed1_lib.ed1(sch_1):page1_i19@r_resistor.r_smt(chips)',
+ P_PATH='@ed1_lib.ed1(sch_1):page1_i19@r_resistor.r_smt(chips)',
+ PATH='I19',
+ DRAWING='@ED1_LIB.ED1(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(4425,2600)',
+ VER='1',
+ ROT='1',
+ PART_NUMBER='10006506',
+ TOL='5%',
+ WATTAGE='1/8W',
+ CDS_LIB='r_resistor',
+ VALUE='47K',
+ PART_NAME='R_SMT_0805',
+ TYPE='TF-SMT0805',
+ JEDEC_TYPE='RESC-0805_W',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/r_resistor/r_smt/chips/chips.prt';
+
+PART_NAME
+ R7 'R_SMT_0805-10006514,100K,TF-SMB':;
+
+SECTION_NUMBER 1
+ '@ED1_LIB.ED1(SCH_1):PAGE1_I21@R_RESISTOR.R_SMT(CHIPS)':
+ C_PATH='@ed1_lib.ed1(sch_1):page1_i21@r_resistor.r_smt(chips)',
+ P_PATH='@ed1_lib.ed1(sch_1):page1_i21@r_resistor.r_smt(chips)',
+ PATH='I21',
+ DRAWING='@ED1_LIB.ED1(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(5200,3200)',
+ VER='1',
+ ROT='0',
+ PART_NUMBER='10006514',
+ TOL='5%',
+ WATTAGE='1/8W',
+ JEDEC_TYPE='RESC-0805_W',
+ TYPE='TF-SMT0805',
+ PART_NAME='R_SMT_0805',
+ VALUE='100K',
+ CDS_LIB='r_resistor',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/r_resistor/r_smt/chips/chips.prt';
+
+PART_NAME
+ R8 'R_SMT_0805-10006466,1.0K,TF-SMB':;
+
+SECTION_NUMBER 1
+ '@ED1_LIB.ED1(SCH_1):PAGE1_I20@R_RESISTOR.R_SMT(CHIPS)':
+ C_PATH='@ed1_lib.ed1(sch_1):page1_i20@r_resistor.r_smt(chips)',
+ P_PATH='@ed1_lib.ed1(sch_1):page1_i20@r_resistor.r_smt(chips)',
+ PATH='I20',
+ DRAWING='@ED1_LIB.ED1(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(5875,2650)',
+ VER='1',
+ ROT='1',
+ PART_NUMBER='10006466',
+ TOL='5%',
+ WATTAGE='1/8W',
+ CDS_LIB='r_resistor',
+ VALUE='1.0K',
+ PART_NAME='R_SMT_0805',
+ TYPE='TF-SMT0805',
+ JEDEC_TYPE='RESC-0805_W',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/r_resistor/r_smt/chips/chips.prt';
+
+PART_NAME
+ R9 'R_SMT_0805-10006514,100K,TF-SMB':;
+
+SECTION_NUMBER 1
+ '@ED1_LIB.ED1(SCH_1):PAGE1_I48@R_RESISTOR.R_SMT(CHIPS)':
+ C_PATH='@ed1_lib.ed1(sch_1):page1_i48@r_resistor.r_smt(chips)',
+ P_PATH='@ed1_lib.ed1(sch_1):page1_i48@r_resistor.r_smt(chips)',
+ PATH='I48',
+ DRAWING='@ED1_LIB.ED1(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(4350,1050)',
+ VER='1',
+ ROT='0',
+ PART_NUMBER='10006514',
+ TOL='5%',
+ WATTAGE='1/8W',
+ CDS_LIB='r_resistor',
+ VALUE='100K',
+ PART_NAME='R_SMT_0805',
+ TYPE='TF-SMT0805',
+ JEDEC_TYPE='RESC-0805_W',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/r_resistor/r_smt/chips/chips.prt';
+
+PART_NAME
+ R10 'R_SMT_0805-10006514,100K,TF-SMB':;
+
+SECTION_NUMBER 1
+ '@ED1_LIB.ED1(SCH_1):PAGE1_I36@R_RESISTOR.R_SMT(CHIPS)':
+ C_PATH='@ed1_lib.ed1(sch_1):page1_i36@r_resistor.r_smt(chips)',
+ P_PATH='@ed1_lib.ed1(sch_1):page1_i36@r_resistor.r_smt(chips)',
+ PATH='I36',
+ DRAWING='@ED1_LIB.ED1(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(4375,2100)',
+ VER='1',
+ ROT='0',
+ PART_NUMBER='10006514',
+ TOL='5%',
+ WATTAGE='1/8W',
+ CDS_LIB='r_resistor',
+ VALUE='100K',
+ PART_NAME='R_SMT_0805',
+ TYPE='TF-SMT0805',
+ JEDEC_TYPE='RESC-0805_W',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/r_resistor/r_smt/chips/chips.prt';
+
+PART_NAME
+ R11 'R_SMT_0805-10006506,47K,TF-SMTB':;
+
+SECTION_NUMBER 1
+ '@ED1_LIB.ED1(SCH_1):PAGE1_I51@R_RESISTOR.R_SMT(CHIPS)':
+ C_PATH='@ed1_lib.ed1(sch_1):page1_i51@r_resistor.r_smt(chips)',
+ P_PATH='@ed1_lib.ed1(sch_1):page1_i51@r_resistor.r_smt(chips)',
+ PATH='I51',
+ DRAWING='@ED1_LIB.ED1(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(4425,450)',
+ VER='1',
+ ROT='1',
+ PART_NUMBER='10006506',
+ TOL='5%',
+ WATTAGE='1/8W',
+ CDS_LIB='r_resistor',
+ VALUE='47K',
+ PART_NAME='R_SMT_0805',
+ TYPE='TF-SMT0805',
+ JEDEC_TYPE='RESC-0805_W',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/r_resistor/r_smt/chips/chips.prt';
+
+PART_NAME
+ R12 'R_SMT_0805-10006506,47K,TF-SMTB':;
+
+SECTION_NUMBER 1
+ '@ED1_LIB.ED1(SCH_1):PAGE1_I39@R_RESISTOR.R_SMT(CHIPS)':
+ C_PATH='@ed1_lib.ed1(sch_1):page1_i39@r_resistor.r_smt(chips)',
+ P_PATH='@ed1_lib.ed1(sch_1):page1_i39@r_resistor.r_smt(chips)',
+ PATH='I39',
+ DRAWING='@ED1_LIB.ED1(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(4450,1500)',
+ VER='1',
+ ROT='1',
+ PART_NUMBER='10006506',
+ TOL='5%',
+ WATTAGE='1/8W',
+ CDS_LIB='r_resistor',
+ VALUE='47K',
+ PART_NAME='R_SMT_0805',
+ TYPE='TF-SMT0805',
+ JEDEC_TYPE='RESC-0805_W',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/r_resistor/r_smt/chips/chips.prt';
+
+PART_NAME
+ R13 'R_SMT_0805-10006514,100K,TF-SMB':;
+
+SECTION_NUMBER 1
+ '@ED1_LIB.ED1(SCH_1):PAGE1_I60@R_RESISTOR.R_SMT(CHIPS)':
+ C_PATH='@ed1_lib.ed1(sch_1):page1_i60@r_resistor.r_smt(chips)',
+ P_PATH='@ed1_lib.ed1(sch_1):page1_i60@r_resistor.r_smt(chips)',
+ PATH='I60',
+ DRAWING='@ED1_LIB.ED1(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(4450,-75)',
+ VER='1',
+ ROT='0',
+ PART_NUMBER='10006514',
+ TOL='5%',
+ WATTAGE='1/8W',
+ CDS_LIB='r_resistor',
+ VALUE='100K',
+ PART_NAME='R_SMT_0805',
+ TYPE='TF-SMT0805',
+ JEDEC_TYPE='RESC-0805_W',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/r_resistor/r_smt/chips/chips.prt';
+
+PART_NAME
+ R14 'R_SMT_0805-10006506,47K,TF-SMTB':;
+
+SECTION_NUMBER 1
+ '@ED1_LIB.ED1(SCH_1):PAGE1_I63@R_RESISTOR.R_SMT(CHIPS)':
+ C_PATH='@ed1_lib.ed1(sch_1):page1_i63@r_resistor.r_smt(chips)',
+ P_PATH='@ed1_lib.ed1(sch_1):page1_i63@r_resistor.r_smt(chips)',
+ PATH='I63',
+ DRAWING='@ED1_LIB.ED1(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(4525,-675)',
+ VER='1',
+ ROT='1',
+ PART_NUMBER='10006506',
+ TOL='5%',
+ WATTAGE='1/8W',
+ CDS_LIB='r_resistor',
+ VALUE='47K',
+ PART_NAME='R_SMT_0805',
+ TYPE='TF-SMT0805',
+ JEDEC_TYPE='RESC-0805_W',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/r_resistor/r_smt/chips/chips.prt';
+
+PART_NAME
+ R15 'R_SMT_0805-10006514,100K,TF-SMB':;
+
+SECTION_NUMBER 1
+ '@ED1_LIB.ED1(SCH_1):PAGE1_I47@R_RESISTOR.R_SMT(CHIPS)':
+ C_PATH='@ed1_lib.ed1(sch_1):page1_i47@r_resistor.r_smt(chips)',
+ P_PATH='@ed1_lib.ed1(sch_1):page1_i47@r_resistor.r_smt(chips)',
+ PATH='I47',
+ DRAWING='@ED1_LIB.ED1(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(5200,1050)',
+ VER='1',
+ ROT='0',
+ PART_NUMBER='10006514',
+ TOL='5%',
+ WATTAGE='1/8W',
+ CDS_LIB='r_resistor',
+ VALUE='100K',
+ JEDEC_TYPE='RESC-0805_W',
+ TYPE='TF-SMT0805',
+ PART_NAME='R_SMT_0805',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/r_resistor/r_smt/chips/chips.prt';
+
+PART_NAME
+ R16 'R_SMT_0805-10006514,100K,TF-SMB':;
+
+SECTION_NUMBER 1
+ '@ED1_LIB.ED1(SCH_1):PAGE1_I35@R_RESISTOR.R_SMT(CHIPS)':
+ C_PATH='@ed1_lib.ed1(sch_1):page1_i35@r_resistor.r_smt(chips)',
+ P_PATH='@ed1_lib.ed1(sch_1):page1_i35@r_resistor.r_smt(chips)',
+ PATH='I35',
+ DRAWING='@ED1_LIB.ED1(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(5225,2100)',
+ VER='1',
+ ROT='0',
+ PART_NUMBER='10006514',
+ TOL='5%',
+ WATTAGE='1/8W',
+ CDS_LIB='r_resistor',
+ VALUE='100K',
+ JEDEC_TYPE='RESC-0805_W',
+ TYPE='TF-SMT0805',
+ PART_NAME='R_SMT_0805',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/r_resistor/r_smt/chips/chips.prt';
+
+PART_NAME
+ R17 'R_SMT_0805-10006514,100K,TF-SMB':;
+
+SECTION_NUMBER 1
+ '@ED1_LIB.ED1(SCH_1):PAGE1_I59@R_RESISTOR.R_SMT(CHIPS)':
+ C_PATH='@ed1_lib.ed1(sch_1):page1_i59@r_resistor.r_smt(chips)',
+ P_PATH='@ed1_lib.ed1(sch_1):page1_i59@r_resistor.r_smt(chips)',
+ PATH='I59',
+ DRAWING='@ED1_LIB.ED1(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(5300,-75)',
+ VER='1',
+ ROT='0',
+ PART_NUMBER='10006514',
+ TOL='5%',
+ WATTAGE='1/8W',
+ CDS_LIB='r_resistor',
+ VALUE='100K',
+ JEDEC_TYPE='RESC-0805_W',
+ TYPE='TF-SMT0805',
+ PART_NAME='R_SMT_0805',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/r_resistor/r_smt/chips/chips.prt';
+
+PART_NAME
+ R18 'R_SMT_0805-10006466,1.0K,TF-SMB':;
+
+SECTION_NUMBER 1
+ '@ED1_LIB.ED1(SCH_1):PAGE1_I43@R_RESISTOR.R_SMT(CHIPS)':
+ C_PATH='@ed1_lib.ed1(sch_1):page1_i43@r_resistor.r_smt(chips)',
+ P_PATH='@ed1_lib.ed1(sch_1):page1_i43@r_resistor.r_smt(chips)',
+ PATH='I43',
+ DRAWING='@ED1_LIB.ED1(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(5875,500)',
+ VER='1',
+ ROT='1',
+ PART_NUMBER='10006466',
+ TOL='5%',
+ WATTAGE='1/8W',
+ CDS_LIB='r_resistor',
+ VALUE='1.0K',
+ PART_NAME='R_SMT_0805',
+ TYPE='TF-SMT0805',
+ JEDEC_TYPE='RESC-0805_W',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/r_resistor/r_smt/chips/chips.prt';
+
+PART_NAME
+ R19 'R_SMT_0805-10006466,1.0K,TF-SMB':;
+
+SECTION_NUMBER 1
+ '@ED1_LIB.ED1(SCH_1):PAGE1_I31@R_RESISTOR.R_SMT(CHIPS)':
+ C_PATH='@ed1_lib.ed1(sch_1):page1_i31@r_resistor.r_smt(chips)',
+ P_PATH='@ed1_lib.ed1(sch_1):page1_i31@r_resistor.r_smt(chips)',
+ PATH='I31',
+ DRAWING='@ED1_LIB.ED1(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(5900,1550)',
+ VER='1',
+ ROT='1',
+ PART_NUMBER='10006466',
+ TOL='5%',
+ WATTAGE='1/8W',
+ CDS_LIB='r_resistor',
+ VALUE='1.0K',
+ PART_NAME='R_SMT_0805',
+ TYPE='TF-SMT0805',
+ JEDEC_TYPE='RESC-0805_W',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/r_resistor/r_smt/chips/chips.prt';
+
+PART_NAME
+ R20 'R_SMT_0805-10006466,1.0K,TF-SMB':;
+
+SECTION_NUMBER 1
+ '@ED1_LIB.ED1(SCH_1):PAGE1_I55@R_RESISTOR.R_SMT(CHIPS)':
+ C_PATH='@ed1_lib.ed1(sch_1):page1_i55@r_resistor.r_smt(chips)',
+ P_PATH='@ed1_lib.ed1(sch_1):page1_i55@r_resistor.r_smt(chips)',
+ PATH='I55',
+ DRAWING='@ED1_LIB.ED1(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(5975,-625)',
+ VER='1',
+ ROT='1',
+ PART_NUMBER='10006466',
+ TOL='5%',
+ WATTAGE='1/8W',
+ CDS_LIB='r_resistor',
+ VALUE='1.0K',
+ PART_NAME='R_SMT_0805',
+ TYPE='TF-SMT0805',
+ JEDEC_TYPE='RESC-0805_W',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/r_resistor/r_smt/chips/chips.prt';
+
+PART_NAME
+ R21 'R_SMT_0805-10006514,100K,TF-SMB':;
+
+SECTION_NUMBER 1
+ '@ED1_LIB.ED1(SCH_1):PAGE1_I74@R_RESISTOR.R_SMT(CHIPS)':
+ C_PATH='@ed1_lib.ed1(sch_1):page1_i74@r_resistor.r_smt(chips)',
+ P_PATH='@ed1_lib.ed1(sch_1):page1_i74@r_resistor.r_smt(chips)',
+ PATH='I74',
+ DRAWING='@ED1_LIB.ED1(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(6950,3200)',
+ VER='1',
+ ROT='0',
+ CDS_LIB='r_resistor',
+ VALUE='100K',
+ PART_NUMBER='10006514',
+ TOL='5%',
+ WATTAGE='1/8W',
+ PART_NAME='R_SMT_0805',
+ TYPE='TF-SMT0805',
+ JEDEC_TYPE='RESC-0805_W',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/r_resistor/r_smt/chips/chips.prt';
+
+PART_NAME
+ R22 'R_SMT_0805-10006506,47K,TF-SMTB':;
+
+SECTION_NUMBER 1
+ '@ED1_LIB.ED1(SCH_1):PAGE1_I77@R_RESISTOR.R_SMT(CHIPS)':
+ C_PATH='@ed1_lib.ed1(sch_1):page1_i77@r_resistor.r_smt(chips)',
+ P_PATH='@ed1_lib.ed1(sch_1):page1_i77@r_resistor.r_smt(chips)',
+ PATH='I77',
+ DRAWING='@ED1_LIB.ED1(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(7025,2600)',
+ VER='1',
+ ROT='1',
+ CDS_LIB='r_resistor',
+ VALUE='47K',
+ PART_NUMBER='10006506',
+ TOL='5%',
+ WATTAGE='1/8W',
+ PART_NAME='R_SMT_0805',
+ TYPE='TF-SMT0805',
+ JEDEC_TYPE='RESC-0805_W',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/r_resistor/r_smt/chips/chips.prt';
+
+PART_NAME
+ R23 'R_SMT_0805-10006514,100K,TF-SMB':;
+
+SECTION_NUMBER 1
+ '@ED1_LIB.ED1(SCH_1):PAGE1_I73@R_RESISTOR.R_SMT(CHIPS)':
+ C_PATH='@ed1_lib.ed1(sch_1):page1_i73@r_resistor.r_smt(chips)',
+ P_PATH='@ed1_lib.ed1(sch_1):page1_i73@r_resistor.r_smt(chips)',
+ PATH='I73',
+ DRAWING='@ED1_LIB.ED1(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(7800,3200)',
+ VER='1',
+ ROT='0',
+ CDS_LIB='r_resistor',
+ VALUE='100K',
+ PART_NUMBER='10006514',
+ TOL='5%',
+ WATTAGE='1/8W',
+ JEDEC_TYPE='RESC-0805_W',
+ TYPE='TF-SMT0805',
+ PART_NAME='R_SMT_0805',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/r_resistor/r_smt/chips/chips.prt';
+
+PART_NAME
+ R24 'R_SMT_0805-10006466,1.0K,TF-SMB':;
+
+SECTION_NUMBER 1
+ '@ED1_LIB.ED1(SCH_1):PAGE1_I69@R_RESISTOR.R_SMT(CHIPS)':
+ C_PATH='@ed1_lib.ed1(sch_1):page1_i69@r_resistor.r_smt(chips)',
+ P_PATH='@ed1_lib.ed1(sch_1):page1_i69@r_resistor.r_smt(chips)',
+ PATH='I69',
+ DRAWING='@ED1_LIB.ED1(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(8475,2650)',
+ VER='1',
+ ROT='1',
+ CDS_LIB='r_resistor',
+ VALUE='1.0K',
+ PART_NUMBER='10006466',
+ TOL='5%',
+ WATTAGE='1/8W',
+ PART_NAME='R_SMT_0805',
+ TYPE='TF-SMT0805',
+ JEDEC_TYPE='RESC-0805_W',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/r_resistor/r_smt/chips/chips.prt';
+
+PART_NAME
+ R25 'R_SMT_0805-10006514,100K,TF-SMB':;
+
+SECTION_NUMBER 1
+ '@ED1_LIB.ED1(SCH_1):PAGE1_I99@R_RESISTOR.R_SMT(CHIPS)':
+ C_PATH='@ed1_lib.ed1(sch_1):page1_i99@r_resistor.r_smt(chips)',
+ P_PATH='@ed1_lib.ed1(sch_1):page1_i99@r_resistor.r_smt(chips)',
+ PATH='I99',
+ DRAWING='@ED1_LIB.ED1(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(6900,975)',
+ VER='1',
+ ROT='0',
+ CDS_LIB='r_resistor',
+ VALUE='100K',
+ PART_NUMBER='10006514',
+ TOL='5%',
+ WATTAGE='1/8W',
+ PART_NAME='R_SMT_0805',
+ TYPE='TF-SMT0805',
+ JEDEC_TYPE='RESC-0805_W',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/r_resistor/r_smt/chips/chips.prt';
+
+PART_NAME
+ R26 'R_SMT_0805-10006514,100K,TF-SMB':;
+
+SECTION_NUMBER 1
+ '@ED1_LIB.ED1(SCH_1):PAGE1_I86@R_RESISTOR.R_SMT(CHIPS)':
+ C_PATH='@ed1_lib.ed1(sch_1):page1_i86@r_resistor.r_smt(chips)',
+ P_PATH='@ed1_lib.ed1(sch_1):page1_i86@r_resistor.r_smt(chips)',
+ PATH='I86',
+ DRAWING='@ED1_LIB.ED1(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(6925,2025)',
+ VER='1',
+ ROT='0',
+ CDS_LIB='r_resistor',
+ VALUE='100K',
+ PART_NUMBER='10006514',
+ TOL='5%',
+ WATTAGE='1/8W',
+ PART_NAME='R_SMT_0805',
+ TYPE='TF-SMT0805',
+ JEDEC_TYPE='RESC-0805_W',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/r_resistor/r_smt/chips/chips.prt';
+
+PART_NAME
+ R27 'R_SMT_0805-10006506,47K,TF-SMTB':;
+
+SECTION_NUMBER 1
+ '@ED1_LIB.ED1(SCH_1):PAGE1_I101@R_RESISTOR.R_SMT(CHIPS)':
+ C_PATH='@ed1_lib.ed1(sch_1):page1_i101@r_resistor.r_smt(chips)',
+ P_PATH='@ed1_lib.ed1(sch_1):page1_i101@r_resistor.r_smt(chips)',
+ PATH='I101',
+ DRAWING='@ED1_LIB.ED1(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(6975,375)',
+ VER='1',
+ ROT='1',
+ CDS_LIB='r_resistor',
+ VALUE='47K',
+ PART_NUMBER='10006506',
+ TOL='5%',
+ WATTAGE='1/8W',
+ PART_NAME='R_SMT_0805',
+ TYPE='TF-SMT0805',
+ JEDEC_TYPE='RESC-0805_W',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/r_resistor/r_smt/chips/chips.prt';
+
+PART_NAME
+ R28 'R_SMT_0805-10006506,47K,TF-SMTB':;
+
+SECTION_NUMBER 1
+ '@ED1_LIB.ED1(SCH_1):PAGE1_I97@R_RESISTOR.R_SMT(CHIPS)':
+ C_PATH='@ed1_lib.ed1(sch_1):page1_i97@r_resistor.r_smt(chips)',
+ P_PATH='@ed1_lib.ed1(sch_1):page1_i97@r_resistor.r_smt(chips)',
+ PATH='I97',
+ DRAWING='@ED1_LIB.ED1(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(7000,1425)',
+ VER='1',
+ ROT='1',
+ CDS_LIB='r_resistor',
+ VALUE='47K',
+ PART_NUMBER='10006506',
+ TOL='5%',
+ WATTAGE='1/8W',
+ PART_NAME='R_SMT_0805',
+ TYPE='TF-SMT0805',
+ JEDEC_TYPE='RESC-0805_W',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/r_resistor/r_smt/chips/chips.prt';
+
+PART_NAME
+ R29 'R_SMT_0805-10006514,100K,TF-SMB':;
+
+SECTION_NUMBER 1
+ '@ED1_LIB.ED1(SCH_1):PAGE1_I113@R_RESISTOR.R_SMT(CHIPS)':
+ C_PATH='@ed1_lib.ed1(sch_1):page1_i113@r_resistor.r_smt(chips)',
+ P_PATH='@ed1_lib.ed1(sch_1):page1_i113@r_resistor.r_smt(chips)',
+ PATH='I113',
+ DRAWING='@ED1_LIB.ED1(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(7000,-150)',
+ VER='1',
+ ROT='0',
+ CDS_LIB='r_resistor',
+ VALUE='100K',
+ PART_NUMBER='10006514',
+ TOL='5%',
+ WATTAGE='1/8W',
+ PART_NAME='R_SMT_0805',
+ TYPE='TF-SMT0805',
+ JEDEC_TYPE='RESC-0805_W',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/r_resistor/r_smt/chips/chips.prt';
+
+PART_NAME
+ R30 'R_SMT_0805-10006506,47K,TF-SMTB':;
+
+SECTION_NUMBER 1
+ '@ED1_LIB.ED1(SCH_1):PAGE1_I114@R_RESISTOR.R_SMT(CHIPS)':
+ C_PATH='@ed1_lib.ed1(sch_1):page1_i114@r_resistor.r_smt(chips)',
+ P_PATH='@ed1_lib.ed1(sch_1):page1_i114@r_resistor.r_smt(chips)',
+ PATH='I114',
+ DRAWING='@ED1_LIB.ED1(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(7075,-750)',
+ VER='1',
+ ROT='1',
+ CDS_LIB='r_resistor',
+ VALUE='47K',
+ PART_NUMBER='10006506',
+ TOL='5%',
+ WATTAGE='1/8W',
+ PART_NAME='R_SMT_0805',
+ TYPE='TF-SMT0805',
+ JEDEC_TYPE='RESC-0805_W',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/r_resistor/r_smt/chips/chips.prt';
+
+PART_NAME
+ R31 'R_SMT_0805-10006514,100K,TF-SMB':;
+
+SECTION_NUMBER 1
+ '@ED1_LIB.ED1(SCH_1):PAGE1_I96@R_RESISTOR.R_SMT(CHIPS)':
+ C_PATH='@ed1_lib.ed1(sch_1):page1_i96@r_resistor.r_smt(chips)',
+ P_PATH='@ed1_lib.ed1(sch_1):page1_i96@r_resistor.r_smt(chips)',
+ PATH='I96',
+ DRAWING='@ED1_LIB.ED1(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(7750,975)',
+ VER='1',
+ ROT='0',
+ CDS_LIB='r_resistor',
+ VALUE='100K',
+ PART_NUMBER='10006514',
+ TOL='5%',
+ WATTAGE='1/8W',
+ JEDEC_TYPE='RESC-0805_W',
+ TYPE='TF-SMT0805',
+ PART_NAME='R_SMT_0805',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/r_resistor/r_smt/chips/chips.prt';
+
+PART_NAME
+ R32 'R_SMT_0805-10006514,100K,TF-SMB':;
+
+SECTION_NUMBER 1
+ '@ED1_LIB.ED1(SCH_1):PAGE1_I85@R_RESISTOR.R_SMT(CHIPS)':
+ C_PATH='@ed1_lib.ed1(sch_1):page1_i85@r_resistor.r_smt(chips)',
+ P_PATH='@ed1_lib.ed1(sch_1):page1_i85@r_resistor.r_smt(chips)',
+ PATH='I85',
+ DRAWING='@ED1_LIB.ED1(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(7775,2025)',
+ VER='1',
+ ROT='0',
+ CDS_LIB='r_resistor',
+ VALUE='100K',
+ PART_NUMBER='10006514',
+ TOL='5%',
+ WATTAGE='1/8W',
+ JEDEC_TYPE='RESC-0805_W',
+ TYPE='TF-SMT0805',
+ PART_NAME='R_SMT_0805',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/r_resistor/r_smt/chips/chips.prt';
+
+PART_NAME
+ R33 'R_SMT_0805-10006514,100K,TF-SMB':;
+
+SECTION_NUMBER 1
+ '@ED1_LIB.ED1(SCH_1):PAGE1_I108@R_RESISTOR.R_SMT(CHIPS)':
+ C_PATH='@ed1_lib.ed1(sch_1):page1_i108@r_resistor.r_smt(chips)',
+ P_PATH='@ed1_lib.ed1(sch_1):page1_i108@r_resistor.r_smt(chips)',
+ PATH='I108',
+ DRAWING='@ED1_LIB.ED1(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(7850,-150)',
+ VER='1',
+ ROT='0',
+ CDS_LIB='r_resistor',
+ VALUE='100K',
+ PART_NUMBER='10006514',
+ TOL='5%',
+ WATTAGE='1/8W',
+ JEDEC_TYPE='RESC-0805_W',
+ TYPE='TF-SMT0805',
+ PART_NAME='R_SMT_0805',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/r_resistor/r_smt/chips/chips.prt';
+
+PART_NAME
+ R34 'R_SMT_0805-10006466,1.0K,TF-SMB':;
+
+SECTION_NUMBER 1
+ '@ED1_LIB.ED1(SCH_1):PAGE1_I91@R_RESISTOR.R_SMT(CHIPS)':
+ C_PATH='@ed1_lib.ed1(sch_1):page1_i91@r_resistor.r_smt(chips)',
+ P_PATH='@ed1_lib.ed1(sch_1):page1_i91@r_resistor.r_smt(chips)',
+ PATH='I91',
+ DRAWING='@ED1_LIB.ED1(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(8425,425)',
+ VER='1',
+ ROT='1',
+ CDS_LIB='r_resistor',
+ VALUE='1.0K',
+ PART_NUMBER='10006466',
+ TOL='5%',
+ WATTAGE='1/8W',
+ PART_NAME='R_SMT_0805',
+ TYPE='TF-SMT0805',
+ JEDEC_TYPE='RESC-0805_W',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/r_resistor/r_smt/chips/chips.prt';
+
+PART_NAME
+ R35 'R_SMT_0805-10006466,1.0K,TF-SMB':;
+
+SECTION_NUMBER 1
+ '@ED1_LIB.ED1(SCH_1):PAGE1_I87@R_RESISTOR.R_SMT(CHIPS)':
+ C_PATH='@ed1_lib.ed1(sch_1):page1_i87@r_resistor.r_smt(chips)',
+ P_PATH='@ed1_lib.ed1(sch_1):page1_i87@r_resistor.r_smt(chips)',
+ PATH='I87',
+ DRAWING='@ED1_LIB.ED1(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(8450,1475)',
+ VER='1',
+ ROT='1',
+ CDS_LIB='r_resistor',
+ VALUE='1.0K',
+ PART_NUMBER='10006466',
+ TOL='5%',
+ WATTAGE='1/8W',
+ PART_NAME='R_SMT_0805',
+ TYPE='TF-SMT0805',
+ JEDEC_TYPE='RESC-0805_W',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/r_resistor/r_smt/chips/chips.prt';
+
+PART_NAME
+ R36 'R_SMT_0805-10006466,1.0K,TF-SMB':;
+
+SECTION_NUMBER 1
+ '@ED1_LIB.ED1(SCH_1):PAGE1_I107@R_RESISTOR.R_SMT(CHIPS)':
+ C_PATH='@ed1_lib.ed1(sch_1):page1_i107@r_resistor.r_smt(chips)',
+ P_PATH='@ed1_lib.ed1(sch_1):page1_i107@r_resistor.r_smt(chips)',
+ PATH='I107',
+ DRAWING='@ED1_LIB.ED1(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(8525,-700)',
+ VER='1',
+ ROT='1',
+ CDS_LIB='r_resistor',
+ VALUE='1.0K',
+ PART_NUMBER='10006466',
+ TOL='5%',
+ WATTAGE='1/8W',
+ PART_NAME='R_SMT_0805',
+ TYPE='TF-SMT0805',
+ JEDEC_TYPE='RESC-0805_W',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/r_resistor/r_smt/chips/chips.prt';
+
+PART_NAME
+ R37 'R_SMT_0805-10006514,100K,TF-SMB':;
+
+SECTION_NUMBER 1
+ '@ED1_LIB.ED1(SCH_1):PAGE1_I161@R_RESISTOR.R_SMT(CHIPS)':
+ C_PATH='@ed1_lib.ed1(sch_1):page1_i161@r_resistor.r_smt(chips)',
+ P_PATH='@ed1_lib.ed1(sch_1):page1_i161@r_resistor.r_smt(chips)',
+ PATH='I161',
+ DRAWING='@ED1_LIB.ED1(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(9375,3125)',
+ VER='1',
+ ROT='0',
+ CDS_LIB='r_resistor',
+ VALUE='100K',
+ PART_NUMBER='10006514',
+ TOL='5%',
+ WATTAGE='1/8W',
+ PART_NAME='R_SMT_0805',
+ TYPE='TF-SMT0805',
+ JEDEC_TYPE='RESC-0805_W',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/r_resistor/r_smt/chips/chips.prt';
+
+PART_NAME
+ R38 'R_SMT_0805-10006514,100K,TF-SMB':;
+
+SECTION_NUMBER 1
+ '@ED1_LIB.ED1(SCH_1):PAGE1_I180@R_RESISTOR.R_SMT(CHIPS)':
+ C_PATH='@ed1_lib.ed1(sch_1):page1_i180@r_resistor.r_smt(chips)',
+ P_PATH='@ed1_lib.ed1(sch_1):page1_i180@r_resistor.r_smt(chips)',
+ PATH='I180',
+ DRAWING='@ED1_LIB.ED1(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(9375,975)',
+ VER='1',
+ ROT='0',
+ CDS_LIB='r_resistor',
+ VALUE='100K',
+ PART_NUMBER='10006514',
+ TOL='5%',
+ WATTAGE='1/8W',
+ PART_NAME='R_SMT_0805',
+ TYPE='TF-SMT0805',
+ JEDEC_TYPE='RESC-0805_W',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/r_resistor/r_smt/chips/chips.prt';
+
+PART_NAME
+ R39 'R_SMT_0805-10006514,100K,TF-SMB':;
+
+SECTION_NUMBER 1
+ '@ED1_LIB.ED1(SCH_1):PAGE1_I166@R_RESISTOR.R_SMT(CHIPS)':
+ C_PATH='@ed1_lib.ed1(sch_1):page1_i166@r_resistor.r_smt(chips)',
+ P_PATH='@ed1_lib.ed1(sch_1):page1_i166@r_resistor.r_smt(chips)',
+ PATH='I166',
+ DRAWING='@ED1_LIB.ED1(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(9400,2025)',
+ VER='1',
+ ROT='0',
+ CDS_LIB='r_resistor',
+ VALUE='100K',
+ PART_NUMBER='10006514',
+ TOL='5%',
+ WATTAGE='1/8W',
+ PART_NAME='R_SMT_0805',
+ TYPE='TF-SMT0805',
+ JEDEC_TYPE='RESC-0805_W',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/r_resistor/r_smt/chips/chips.prt';
+
+PART_NAME
+ R40 'R_SMT_0805-10006506,47K,TF-SMTB':;
+
+SECTION_NUMBER 1
+ '@ED1_LIB.ED1(SCH_1):PAGE1_I165@R_RESISTOR.R_SMT(CHIPS)':
+ C_PATH='@ed1_lib.ed1(sch_1):page1_i165@r_resistor.r_smt(chips)',
+ P_PATH='@ed1_lib.ed1(sch_1):page1_i165@r_resistor.r_smt(chips)',
+ PATH='I165',
+ DRAWING='@ED1_LIB.ED1(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(9450,2525)',
+ VER='1',
+ ROT='1',
+ CDS_LIB='r_resistor',
+ VALUE='47K',
+ PART_NUMBER='10006506',
+ TOL='5%',
+ WATTAGE='1/8W',
+ PART_NAME='R_SMT_0805',
+ TYPE='TF-SMT0805',
+ JEDEC_TYPE='RESC-0805_W',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/r_resistor/r_smt/chips/chips.prt';
+
+PART_NAME
+ R41 'R_SMT_0805-10006506,47K,TF-SMTB':;
+
+SECTION_NUMBER 1
+ '@ED1_LIB.ED1(SCH_1):PAGE1_I182@R_RESISTOR.R_SMT(CHIPS)':
+ C_PATH='@ed1_lib.ed1(sch_1):page1_i182@r_resistor.r_smt(chips)',
+ P_PATH='@ed1_lib.ed1(sch_1):page1_i182@r_resistor.r_smt(chips)',
+ PATH='I182',
+ DRAWING='@ED1_LIB.ED1(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(9450,375)',
+ VER='1',
+ ROT='1',
+ CDS_LIB='r_resistor',
+ VALUE='47K',
+ PART_NUMBER='10006506',
+ TOL='5%',
+ WATTAGE='1/8W',
+ PART_NAME='R_SMT_0805',
+ TYPE='TF-SMT0805',
+ JEDEC_TYPE='RESC-0805_W',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/r_resistor/r_smt/chips/chips.prt';
+
+PART_NAME
+ R42 'R_SMT_0805-10006506,47K,TF-SMTB':;
+
+SECTION_NUMBER 1
+ '@ED1_LIB.ED1(SCH_1):PAGE1_I178@R_RESISTOR.R_SMT(CHIPS)':
+ C_PATH='@ed1_lib.ed1(sch_1):page1_i178@r_resistor.r_smt(chips)',
+ P_PATH='@ed1_lib.ed1(sch_1):page1_i178@r_resistor.r_smt(chips)',
+ PATH='I178',
+ DRAWING='@ED1_LIB.ED1(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(9475,1425)',
+ VER='1',
+ ROT='1',
+ CDS_LIB='r_resistor',
+ VALUE='47K',
+ PART_NUMBER='10006506',
+ TOL='5%',
+ WATTAGE='1/8W',
+ PART_NAME='R_SMT_0805',
+ TYPE='TF-SMT0805',
+ JEDEC_TYPE='RESC-0805_W',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/r_resistor/r_smt/chips/chips.prt';
+
+PART_NAME
+ R43 'R_SMT_0805-10006514,100K,TF-SMB':;
+
+SECTION_NUMBER 1
+ '@ED1_LIB.ED1(SCH_1):PAGE1_I207@R_RESISTOR.R_SMT(CHIPS)':
+ C_PATH='@ed1_lib.ed1(sch_1):page1_i207@r_resistor.r_smt(chips)',
+ P_PATH='@ed1_lib.ed1(sch_1):page1_i207@r_resistor.r_smt(chips)',
+ PATH='I207',
+ DRAWING='@ED1_LIB.ED1(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(9475,-150)',
+ VER='1',
+ ROT='0',
+ CDS_LIB='r_resistor',
+ VALUE='100K',
+ PART_NUMBER='10006514',
+ TOL='5%',
+ WATTAGE='1/8W',
+ PART_NAME='R_SMT_0805',
+ TYPE='TF-SMT0805',
+ JEDEC_TYPE='RESC-0805_W',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/r_resistor/r_smt/chips/chips.prt';
+
+PART_NAME
+ R44 'R_SMT_0805-10006506,47K,TF-SMTB':;
+
+SECTION_NUMBER 1
+ '@ED1_LIB.ED1(SCH_1):PAGE1_I208@R_RESISTOR.R_SMT(CHIPS)':
+ C_PATH='@ed1_lib.ed1(sch_1):page1_i208@r_resistor.r_smt(chips)',
+ P_PATH='@ed1_lib.ed1(sch_1):page1_i208@r_resistor.r_smt(chips)',
+ PATH='I208',
+ DRAWING='@ED1_LIB.ED1(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(9550,-750)',
+ VER='1',
+ ROT='1',
+ CDS_LIB='r_resistor',
+ VALUE='47K',
+ PART_NUMBER='10006506',
+ TOL='5%',
+ WATTAGE='1/8W',
+ PART_NAME='R_SMT_0805',
+ TYPE='TF-SMT0805',
+ JEDEC_TYPE='RESC-0805_W',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/r_resistor/r_smt/chips/chips.prt';
+
+PART_NAME
+ R45 'R_SMT_0805-10006514,100K,TF-SMB':;
+
+SECTION_NUMBER 1
+ '@ED1_LIB.ED1(SCH_1):PAGE1_I160@R_RESISTOR.R_SMT(CHIPS)':
+ C_PATH='@ed1_lib.ed1(sch_1):page1_i160@r_resistor.r_smt(chips)',
+ P_PATH='@ed1_lib.ed1(sch_1):page1_i160@r_resistor.r_smt(chips)',
+ PATH='I160',
+ DRAWING='@ED1_LIB.ED1(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(10225,3125)',
+ VER='1',
+ ROT='0',
+ CDS_LIB='r_resistor',
+ VALUE='100K',
+ PART_NUMBER='10006514',
+ TOL='5%',
+ WATTAGE='1/8W',
+ JEDEC_TYPE='RESC-0805_W',
+ TYPE='TF-SMT0805',
+ PART_NAME='R_SMT_0805',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/r_resistor/r_smt/chips/chips.prt';
+
+PART_NAME
+ R46 'R_SMT_0805-10006514,100K,TF-SMB':;
+
+SECTION_NUMBER 1
+ '@ED1_LIB.ED1(SCH_1):PAGE1_I177@R_RESISTOR.R_SMT(CHIPS)':
+ C_PATH='@ed1_lib.ed1(sch_1):page1_i177@r_resistor.r_smt(chips)',
+ P_PATH='@ed1_lib.ed1(sch_1):page1_i177@r_resistor.r_smt(chips)',
+ PATH='I177',
+ DRAWING='@ED1_LIB.ED1(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(10225,975)',
+ VER='1',
+ ROT='0',
+ CDS_LIB='r_resistor',
+ VALUE='100K',
+ PART_NUMBER='10006514',
+ TOL='5%',
+ WATTAGE='1/8W',
+ JEDEC_TYPE='RESC-0805_W',
+ TYPE='TF-SMT0805',
+ PART_NAME='R_SMT_0805',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/r_resistor/r_smt/chips/chips.prt';
+
+PART_NAME
+ R47 'R_SMT_0805-10006514,100K,TF-SMB':;
+
+SECTION_NUMBER 1
+ '@ED1_LIB.ED1(SCH_1):PAGE1_I159@R_RESISTOR.R_SMT(CHIPS)':
+ C_PATH='@ed1_lib.ed1(sch_1):page1_i159@r_resistor.r_smt(chips)',
+ P_PATH='@ed1_lib.ed1(sch_1):page1_i159@r_resistor.r_smt(chips)',
+ PATH='I159',
+ DRAWING='@ED1_LIB.ED1(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(10250,2025)',
+ VER='1',
+ ROT='0',
+ CDS_LIB='r_resistor',
+ VALUE='100K',
+ PART_NUMBER='10006514',
+ TOL='5%',
+ WATTAGE='1/8W',
+ JEDEC_TYPE='RESC-0805_W',
+ TYPE='TF-SMT0805',
+ PART_NAME='R_SMT_0805',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/r_resistor/r_smt/chips/chips.prt';
+
+PART_NAME
+ R48 'R_SMT_0805-10006514,100K,TF-SMB':;
+
+SECTION_NUMBER 1
+ '@ED1_LIB.ED1(SCH_1):PAGE1_I202@R_RESISTOR.R_SMT(CHIPS)':
+ C_PATH='@ed1_lib.ed1(sch_1):page1_i202@r_resistor.r_smt(chips)',
+ P_PATH='@ed1_lib.ed1(sch_1):page1_i202@r_resistor.r_smt(chips)',
+ PATH='I202',
+ DRAWING='@ED1_LIB.ED1(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(10325,-150)',
+ VER='1',
+ ROT='0',
+ CDS_LIB='r_resistor',
+ VALUE='100K',
+ PART_NUMBER='10006514',
+ TOL='5%',
+ WATTAGE='1/8W',
+ JEDEC_TYPE='RESC-0805_W',
+ TYPE='TF-SMT0805',
+ PART_NAME='R_SMT_0805',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/r_resistor/r_smt/chips/chips.prt';
+
+PART_NAME
+ R49 'R_SMT_0805-10006466,1.0K,TF-SMB':;
+
+SECTION_NUMBER 1
+ '@ED1_LIB.ED1(SCH_1):PAGE1_I154@R_RESISTOR.R_SMT(CHIPS)':
+ C_PATH='@ed1_lib.ed1(sch_1):page1_i154@r_resistor.r_smt(chips)',
+ P_PATH='@ed1_lib.ed1(sch_1):page1_i154@r_resistor.r_smt(chips)',
+ PATH='I154',
+ DRAWING='@ED1_LIB.ED1(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(10900,2575)',
+ VER='1',
+ ROT='1',
+ CDS_LIB='r_resistor',
+ VALUE='1.0K',
+ PART_NUMBER='10006466',
+ TOL='5%',
+ WATTAGE='1/8W',
+ PART_NAME='R_SMT_0805',
+ TYPE='TF-SMT0805',
+ JEDEC_TYPE='RESC-0805_W',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/r_resistor/r_smt/chips/chips.prt';
+
+PART_NAME
+ R50 'R_SMT_0805-10006466,1.0K,TF-SMB':;
+
+SECTION_NUMBER 1
+ '@ED1_LIB.ED1(SCH_1):PAGE1_I172@R_RESISTOR.R_SMT(CHIPS)':
+ C_PATH='@ed1_lib.ed1(sch_1):page1_i172@r_resistor.r_smt(chips)',
+ P_PATH='@ed1_lib.ed1(sch_1):page1_i172@r_resistor.r_smt(chips)',
+ PATH='I172',
+ DRAWING='@ED1_LIB.ED1(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(10900,425)',
+ VER='1',
+ ROT='1',
+ CDS_LIB='r_resistor',
+ VALUE='1.0K',
+ PART_NUMBER='10006466',
+ TOL='5%',
+ WATTAGE='1/8W',
+ PART_NAME='R_SMT_0805',
+ TYPE='TF-SMT0805',
+ JEDEC_TYPE='RESC-0805_W',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/r_resistor/r_smt/chips/chips.prt';
+
+PART_NAME
+ R51 'R_SMT_0805-10006466,1.0K,TF-SMB':;
+
+SECTION_NUMBER 1
+ '@ED1_LIB.ED1(SCH_1):PAGE1_I168@R_RESISTOR.R_SMT(CHIPS)':
+ C_PATH='@ed1_lib.ed1(sch_1):page1_i168@r_resistor.r_smt(chips)',
+ P_PATH='@ed1_lib.ed1(sch_1):page1_i168@r_resistor.r_smt(chips)',
+ PATH='I168',
+ DRAWING='@ED1_LIB.ED1(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(10925,1475)',
+ VER='1',
+ ROT='1',
+ CDS_LIB='r_resistor',
+ VALUE='1.0K',
+ PART_NUMBER='10006466',
+ TOL='5%',
+ WATTAGE='1/8W',
+ PART_NAME='R_SMT_0805',
+ TYPE='TF-SMT0805',
+ JEDEC_TYPE='RESC-0805_W',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/r_resistor/r_smt/chips/chips.prt';
+
+PART_NAME
+ R52 'R_SMT_0805-10006466,1.0K,TF-SMB':;
+
+SECTION_NUMBER 1
+ '@ED1_LIB.ED1(SCH_1):PAGE1_I201@R_RESISTOR.R_SMT(CHIPS)':
+ C_PATH='@ed1_lib.ed1(sch_1):page1_i201@r_resistor.r_smt(chips)',
+ P_PATH='@ed1_lib.ed1(sch_1):page1_i201@r_resistor.r_smt(chips)',
+ PATH='I201',
+ DRAWING='@ED1_LIB.ED1(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(11000,-700)',
+ VER='1',
+ ROT='1',
+ CDS_LIB='r_resistor',
+ VALUE='1.0K',
+ PART_NUMBER='10006466',
+ TOL='5%',
+ WATTAGE='1/8W',
+ PART_NAME='R_SMT_0805',
+ TYPE='TF-SMT0805',
+ JEDEC_TYPE='RESC-0805_W',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/r_resistor/r_smt/chips/chips.prt';
+
+PART_NAME
+ R53 'R_SMT_0805-10006514,100K,TF-SMB':;
+
+SECTION_NUMBER 1
+ '@ED1_LIB.ED1(SCH_1):PAGE1_I149@R_RESISTOR.R_SMT(CHIPS)':
+ C_PATH='@ed1_lib.ed1(sch_1):page1_i149@r_resistor.r_smt(chips)',
+ P_PATH='@ed1_lib.ed1(sch_1):page1_i149@r_resistor.r_smt(chips)',
+ PATH='I149',
+ DRAWING='@ED1_LIB.ED1(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(11925,900)',
+ VER='1',
+ ROT='0',
+ CDS_LIB='r_resistor',
+ VALUE='100K',
+ PART_NUMBER='10006514',
+ TOL='5%',
+ WATTAGE='1/8W',
+ PART_NAME='R_SMT_0805',
+ TYPE='TF-SMT0805',
+ JEDEC_TYPE='RESC-0805_W',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/r_resistor/r_smt/chips/chips.prt';
+
+PART_NAME
+ R54 'R_SMT_0805-10006514,100K,TF-SMB':;
+
+SECTION_NUMBER 1
+ '@ED1_LIB.ED1(SCH_1):PAGE1_I144@R_RESISTOR.R_SMT(CHIPS)':
+ C_PATH='@ed1_lib.ed1(sch_1):page1_i144@r_resistor.r_smt(chips)',
+ P_PATH='@ed1_lib.ed1(sch_1):page1_i144@r_resistor.r_smt(chips)',
+ PATH='I144',
+ DRAWING='@ED1_LIB.ED1(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(11950,1950)',
+ VER='1',
+ ROT='0',
+ CDS_LIB='r_resistor',
+ VALUE='100K',
+ PART_NUMBER='10006514',
+ TOL='5%',
+ WATTAGE='1/8W',
+ PART_NAME='R_SMT_0805',
+ TYPE='TF-SMT0805',
+ JEDEC_TYPE='RESC-0805_W',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/r_resistor/r_smt/chips/chips.prt';
+
+PART_NAME
+ R55 'R_SMT_0805-10006514,100K,TF-SMB':;
+
+SECTION_NUMBER 1
+ '@ED1_LIB.ED1(SCH_1):PAGE1_I129@R_RESISTOR.R_SMT(CHIPS)':
+ C_PATH='@ed1_lib.ed1(sch_1):page1_i129@r_resistor.r_smt(chips)',
+ P_PATH='@ed1_lib.ed1(sch_1):page1_i129@r_resistor.r_smt(chips)',
+ PATH='I129',
+ DRAWING='@ED1_LIB.ED1(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(11975,3125)',
+ VER='1',
+ ROT='0',
+ CDS_LIB='r_resistor',
+ VALUE='100K',
+ PART_NUMBER='10006514',
+ TOL='5%',
+ WATTAGE='1/8W',
+ PART_NAME='R_SMT_0805',
+ TYPE='TF-SMT0805',
+ JEDEC_TYPE='RESC-0805_W',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/r_resistor/r_smt/chips/chips.prt';
+
+PART_NAME
+ R56 'R_SMT_0805-10006506,47K,TF-SMTB':;
+
+SECTION_NUMBER 1
+ '@ED1_LIB.ED1(SCH_1):PAGE1_I150@R_RESISTOR.R_SMT(CHIPS)':
+ C_PATH='@ed1_lib.ed1(sch_1):page1_i150@r_resistor.r_smt(chips)',
+ P_PATH='@ed1_lib.ed1(sch_1):page1_i150@r_resistor.r_smt(chips)',
+ PATH='I150',
+ DRAWING='@ED1_LIB.ED1(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(12000,300)',
+ VER='1',
+ ROT='1',
+ CDS_LIB='r_resistor',
+ VALUE='47K',
+ PART_NUMBER='10006506',
+ TOL='5%',
+ WATTAGE='1/8W',
+ PART_NAME='R_SMT_0805',
+ TYPE='TF-SMT0805',
+ JEDEC_TYPE='RESC-0805_W',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/r_resistor/r_smt/chips/chips.prt';
+
+PART_NAME
+ R57 'R_SMT_0805-10006506,47K,TF-SMTB':;
+
+SECTION_NUMBER 1
+ '@ED1_LIB.ED1(SCH_1):PAGE1_I145@R_RESISTOR.R_SMT(CHIPS)':
+ C_PATH='@ed1_lib.ed1(sch_1):page1_i145@r_resistor.r_smt(chips)',
+ P_PATH='@ed1_lib.ed1(sch_1):page1_i145@r_resistor.r_smt(chips)',
+ PATH='I145',
+ DRAWING='@ED1_LIB.ED1(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(12025,1350)',
+ VER='1',
+ ROT='1',
+ CDS_LIB='r_resistor',
+ VALUE='47K',
+ PART_NUMBER='10006506',
+ TOL='5%',
+ WATTAGE='1/8W',
+ PART_NAME='R_SMT_0805',
+ TYPE='TF-SMT0805',
+ JEDEC_TYPE='RESC-0805_W',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/r_resistor/r_smt/chips/chips.prt';
+
+PART_NAME
+ R58 'R_SMT_0805-10006514,100K,TF-SMB':;
+
+SECTION_NUMBER 1
+ '@ED1_LIB.ED1(SCH_1):PAGE1_I196@R_RESISTOR.R_SMT(CHIPS)':
+ C_PATH='@ed1_lib.ed1(sch_1):page1_i196@r_resistor.r_smt(chips)',
+ P_PATH='@ed1_lib.ed1(sch_1):page1_i196@r_resistor.r_smt(chips)',
+ PATH='I196',
+ DRAWING='@ED1_LIB.ED1(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(12025,-225)',
+ VER='1',
+ ROT='0',
+ CDS_LIB='r_resistor',
+ VALUE='100K',
+ PART_NUMBER='10006514',
+ TOL='5%',
+ WATTAGE='1/8W',
+ PART_NAME='R_SMT_0805',
+ TYPE='TF-SMT0805',
+ JEDEC_TYPE='RESC-0805_W',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/r_resistor/r_smt/chips/chips.prt';
+
+PART_NAME
+ R59 'R_SMT_0805-10006506,47K,TF-SMTB':;
+
+SECTION_NUMBER 1
+ '@ED1_LIB.ED1(SCH_1):PAGE1_I131@R_RESISTOR.R_SMT(CHIPS)':
+ C_PATH='@ed1_lib.ed1(sch_1):page1_i131@r_resistor.r_smt(chips)',
+ P_PATH='@ed1_lib.ed1(sch_1):page1_i131@r_resistor.r_smt(chips)',
+ PATH='I131',
+ DRAWING='@ED1_LIB.ED1(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(12050,2525)',
+ VER='1',
+ ROT='1',
+ CDS_LIB='r_resistor',
+ VALUE='47K',
+ PART_NUMBER='10006506',
+ TOL='5%',
+ WATTAGE='1/8W',
+ PART_NAME='R_SMT_0805',
+ TYPE='TF-SMT0805',
+ JEDEC_TYPE='RESC-0805_W',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/r_resistor/r_smt/chips/chips.prt';
+
+PART_NAME
+ R60 'R_SMT_0805-10006506,47K,TF-SMTB':;
+
+SECTION_NUMBER 1
+ '@ED1_LIB.ED1(SCH_1):PAGE1_I197@R_RESISTOR.R_SMT(CHIPS)':
+ C_PATH='@ed1_lib.ed1(sch_1):page1_i197@r_resistor.r_smt(chips)',
+ P_PATH='@ed1_lib.ed1(sch_1):page1_i197@r_resistor.r_smt(chips)',
+ PATH='I197',
+ DRAWING='@ED1_LIB.ED1(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(12100,-825)',
+ VER='1',
+ ROT='1',
+ CDS_LIB='r_resistor',
+ VALUE='47K',
+ PART_NUMBER='10006506',
+ TOL='5%',
+ WATTAGE='1/8W',
+ PART_NAME='R_SMT_0805',
+ TYPE='TF-SMT0805',
+ JEDEC_TYPE='RESC-0805_W',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/r_resistor/r_smt/chips/chips.prt';
+
+PART_NAME
+ R61 'R_SMT_0805-10006514,100K,TF-SMB':;
+
+SECTION_NUMBER 1
+ '@ED1_LIB.ED1(SCH_1):PAGE1_I142@R_RESISTOR.R_SMT(CHIPS)':
+ C_PATH='@ed1_lib.ed1(sch_1):page1_i142@r_resistor.r_smt(chips)',
+ P_PATH='@ed1_lib.ed1(sch_1):page1_i142@r_resistor.r_smt(chips)',
+ PATH='I142',
+ DRAWING='@ED1_LIB.ED1(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(12775,900)',
+ VER='1',
+ ROT='0',
+ CDS_LIB='r_resistor',
+ VALUE='100K',
+ PART_NUMBER='10006514',
+ TOL='5%',
+ WATTAGE='1/8W',
+ JEDEC_TYPE='RESC-0805_W',
+ TYPE='TF-SMT0805',
+ PART_NAME='R_SMT_0805',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/r_resistor/r_smt/chips/chips.prt';
+
+PART_NAME
+ R62 'R_SMT_0805-10006514,100K,TF-SMB':;
+
+SECTION_NUMBER 1
+ '@ED1_LIB.ED1(SCH_1):PAGE1_I137@R_RESISTOR.R_SMT(CHIPS)':
+ C_PATH='@ed1_lib.ed1(sch_1):page1_i137@r_resistor.r_smt(chips)',
+ P_PATH='@ed1_lib.ed1(sch_1):page1_i137@r_resistor.r_smt(chips)',
+ PATH='I137',
+ DRAWING='@ED1_LIB.ED1(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(12800,1950)',
+ VER='1',
+ ROT='0',
+ CDS_LIB='r_resistor',
+ VALUE='100K',
+ PART_NUMBER='10006514',
+ TOL='5%',
+ WATTAGE='1/8W',
+ JEDEC_TYPE='RESC-0805_W',
+ TYPE='TF-SMT0805',
+ PART_NAME='R_SMT_0805',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/r_resistor/r_smt/chips/chips.prt';
+
+PART_NAME
+ R63 'R_SMT_0805-10006514,100K,TF-SMB':;
+
+SECTION_NUMBER 1
+ '@ED1_LIB.ED1(SCH_1):PAGE1_I121@R_RESISTOR.R_SMT(CHIPS)':
+ C_PATH='@ed1_lib.ed1(sch_1):page1_i121@r_resistor.r_smt(chips)',
+ P_PATH='@ed1_lib.ed1(sch_1):page1_i121@r_resistor.r_smt(chips)',
+ PATH='I121',
+ DRAWING='@ED1_LIB.ED1(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(12825,3125)',
+ VER='1',
+ ROT='0',
+ CDS_LIB='r_resistor',
+ VALUE='100K',
+ PART_NUMBER='10006514',
+ TOL='5%',
+ WATTAGE='1/8W',
+ JEDEC_TYPE='RESC-0805_W',
+ TYPE='TF-SMT0805',
+ PART_NAME='R_SMT_0805',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/r_resistor/r_smt/chips/chips.prt';
+
+PART_NAME
+ R64 'R_SMT_0805-10006514,100K,TF-SMB':;
+
+SECTION_NUMBER 1
+ '@ED1_LIB.ED1(SCH_1):PAGE1_I191@R_RESISTOR.R_SMT(CHIPS)':
+ C_PATH='@ed1_lib.ed1(sch_1):page1_i191@r_resistor.r_smt(chips)',
+ P_PATH='@ed1_lib.ed1(sch_1):page1_i191@r_resistor.r_smt(chips)',
+ PATH='I191',
+ DRAWING='@ED1_LIB.ED1(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(12875,-225)',
+ VER='1',
+ ROT='0',
+ CDS_LIB='r_resistor',
+ VALUE='100K',
+ PART_NUMBER='10006514',
+ TOL='5%',
+ WATTAGE='1/8W',
+ JEDEC_TYPE='RESC-0805_W',
+ TYPE='TF-SMT0805',
+ PART_NAME='R_SMT_0805',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/r_resistor/r_smt/chips/chips.prt';
+
+PART_NAME
+ R65 'R_SMT_0805-10006466,1.0K,TF-SMB':;
+
+SECTION_NUMBER 1
+ '@ED1_LIB.ED1(SCH_1):PAGE1_I120@R_RESISTOR.R_SMT(CHIPS)':
+ C_PATH='@ed1_lib.ed1(sch_1):page1_i120@r_resistor.r_smt(chips)',
+ P_PATH='@ed1_lib.ed1(sch_1):page1_i120@r_resistor.r_smt(chips)',
+ PATH='I120',
+ DRAWING='@ED1_LIB.ED1(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(13450,350)',
+ VER='1',
+ ROT='1',
+ CDS_LIB='r_resistor',
+ VALUE='1.0K',
+ PART_NUMBER='10006466',
+ TOL='5%',
+ WATTAGE='1/8W',
+ PART_NAME='R_SMT_0805',
+ TYPE='TF-SMT0805',
+ JEDEC_TYPE='RESC-0805_W',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/r_resistor/r_smt/chips/chips.prt';
+
+PART_NAME
+ R66 'R_SMT_0805-10006466,1.0K,TF-SMB':;
+
+SECTION_NUMBER 1
+ '@ED1_LIB.ED1(SCH_1):PAGE1_I119@R_RESISTOR.R_SMT(CHIPS)':
+ C_PATH='@ed1_lib.ed1(sch_1):page1_i119@r_resistor.r_smt(chips)',
+ P_PATH='@ed1_lib.ed1(sch_1):page1_i119@r_resistor.r_smt(chips)',
+ PATH='I119',
+ DRAWING='@ED1_LIB.ED1(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(13475,1400)',
+ VER='1',
+ ROT='1',
+ CDS_LIB='r_resistor',
+ VALUE='1.0K',
+ PART_NUMBER='10006466',
+ TOL='5%',
+ WATTAGE='1/8W',
+ PART_NAME='R_SMT_0805',
+ TYPE='TF-SMT0805',
+ JEDEC_TYPE='RESC-0805_W',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/r_resistor/r_smt/chips/chips.prt';
+
+PART_NAME
+ R67 'R_SMT_0805-10006466,1.0K,TF-SMB':;
+
+SECTION_NUMBER 1
+ '@ED1_LIB.ED1(SCH_1):PAGE1_I118@R_RESISTOR.R_SMT(CHIPS)':
+ C_PATH='@ed1_lib.ed1(sch_1):page1_i118@r_resistor.r_smt(chips)',
+ P_PATH='@ed1_lib.ed1(sch_1):page1_i118@r_resistor.r_smt(chips)',
+ PATH='I118',
+ DRAWING='@ED1_LIB.ED1(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(13500,2575)',
+ VER='1',
+ ROT='1',
+ CDS_LIB='r_resistor',
+ VALUE='1.0K',
+ PART_NUMBER='10006466',
+ TOL='5%',
+ WATTAGE='1/8W',
+ PART_NAME='R_SMT_0805',
+ TYPE='TF-SMT0805',
+ JEDEC_TYPE='RESC-0805_W',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/r_resistor/r_smt/chips/chips.prt';
+
+PART_NAME
+ R68 'R_SMT_0805-10006466,1.0K,TF-SMB':;
+
+SECTION_NUMBER 1
+ '@ED1_LIB.ED1(SCH_1):PAGE1_I190@R_RESISTOR.R_SMT(CHIPS)':
+ C_PATH='@ed1_lib.ed1(sch_1):page1_i190@r_resistor.r_smt(chips)',
+ P_PATH='@ed1_lib.ed1(sch_1):page1_i190@r_resistor.r_smt(chips)',
+ PATH='I190',
+ DRAWING='@ED1_LIB.ED1(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(13550,-775)',
+ VER='1',
+ ROT='1',
+ CDS_LIB='r_resistor',
+ VALUE='1.0K',
+ PART_NUMBER='10006466',
+ TOL='5%',
+ WATTAGE='1/8W',
+ PART_NAME='R_SMT_0805',
+ TYPE='TF-SMT0805',
+ JEDEC_TYPE='RESC-0805_W',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/r_resistor/r_smt/chips/chips.prt';
+
+PART_NAME
+ U1 'U_LM324_SERIES_SO14-10019427,LB':;
+
+SECTION_NUMBER 1
+ '@ED1_LIB.ED1(SCH_1):PAGE1_I17@U_IC.U_LM324_SERIES(CHIPS)':
+ C_PATH='@ed1_lib.ed1(sch_1):page1_i17@u_ic.u_lm324_series(chips)',
+ P_PATH='@ed1_lib.ed1(sch_1):page1_i17@u_ic.u_lm324_series(chips)',
+ PATH='I17',
+ DRAWING='@ED1_LIB.ED1(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(4925,2800)',
+ VER='1',
+ ROT='6',
+ PART_NUMBER='10019427',
+ JEDEC_TYPE='SO14',
+ PART_NAME='U_LM324_SERIES_SO14',
+ CDS_LIB='u_ic',
+ VALUE='LM324D',
+ SIZE='1',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/u_ic/u_lm324_series/chips/chips.prt';
+
+SECTION_NUMBER 2
+ '@ED1_LIB.ED1(SCH_1):PAGE1_I28@U_IC.U_LM324_SERIES(CHIPS)':
+ C_PATH='@ed1_lib.ed1(sch_1):page1_i28@u_ic.u_lm324_series(chips)',
+ P_PATH='@ed1_lib.ed1(sch_1):page1_i28@u_ic.u_lm324_series(chips)',
+ PATH='I28',
+ DRAWING='@ED1_LIB.ED1(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(4950,1700)',
+ VER='2',
+ ROT='6',
+ PART_NUMBER='10019427',
+ CDS_LIB='u_ic',
+ PART_NAME='U_LM324_SERIES_SO14',
+ JEDEC_TYPE='SO14',
+ VALUE='LM324D',
+ SIZE='1',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/u_ic/u_lm324_series/chips/chips.prt';
+
+SECTION_NUMBER 3
+ '@ED1_LIB.ED1(SCH_1):PAGE1_I67@U_IC.U_LM324_SERIES(CHIPS)':
+ C_PATH='@ed1_lib.ed1(sch_1):page1_i67@u_ic.u_lm324_series(chips)',
+ P_PATH='@ed1_lib.ed1(sch_1):page1_i67@u_ic.u_lm324_series(chips)',
+ PATH='I67',
+ DRAWING='@ED1_LIB.ED1(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(4925,650)',
+ VER='2',
+ ROT='6',
+ PART_NUMBER='10019427',
+ CDS_LIB='u_ic',
+ VALUE='LM324D',
+ PART_NAME='U_LM324_SERIES_SO14',
+ JEDEC_TYPE='SO14',
+ SIZE='1',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/u_ic/u_lm324_series/chips/chips.prt';
+
+SECTION_NUMBER 4
+ '@ED1_LIB.ED1(SCH_1):PAGE1_I68@U_IC.U_LM324_SERIES(CHIPS)':
+ C_PATH='@ed1_lib.ed1(sch_1):page1_i68@u_ic.u_lm324_series(chips)',
+ P_PATH='@ed1_lib.ed1(sch_1):page1_i68@u_ic.u_lm324_series(chips)',
+ PATH='I68',
+ DRAWING='@ED1_LIB.ED1(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(5025,-475)',
+ VER='2',
+ ROT='6',
+ PART_NUMBER='10019427',
+ CDS_LIB='u_ic',
+ VALUE='LM324D',
+ JEDEC_TYPE='SO14',
+ PART_NAME='U_LM324_SERIES_SO14',
+ SIZE='1',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/u_ic/u_lm324_series/chips/chips.prt';
+
+PART_NAME
+ U2 'U_LM324_SERIES_SO14-10019427,LB':;
+
+SECTION_NUMBER 1
+ '@ED1_LIB.ED1(SCH_1):PAGE1_I76@U_IC.U_LM324_SERIES(CHIPS)':
+ C_PATH='@ed1_lib.ed1(sch_1):page1_i76@u_ic.u_lm324_series(chips)',
+ P_PATH='@ed1_lib.ed1(sch_1):page1_i76@u_ic.u_lm324_series(chips)',
+ PATH='I76',
+ DRAWING='@ED1_LIB.ED1(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(7525,2800)',
+ VER='1',
+ ROT='6',
+ CDS_LIB='u_ic',
+ VALUE='LM324D',
+ PART_NUMBER='10019427',
+ JEDEC_TYPE='SO14',
+ PART_NAME='U_LM324_SERIES_SO14',
+ SIZE='1',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/u_ic/u_lm324_series/chips/chips.prt';
+
+SECTION_NUMBER 2
+ '@ED1_LIB.ED1(SCH_1):PAGE1_I100@U_IC.U_LM324_SERIES(CHIPS)':
+ C_PATH='@ed1_lib.ed1(sch_1):page1_i100@u_ic.u_lm324_series(chips)',
+ P_PATH='@ed1_lib.ed1(sch_1):page1_i100@u_ic.u_lm324_series(chips)',
+ PATH='I100',
+ DRAWING='@ED1_LIB.ED1(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(7475,575)',
+ VER='2',
+ ROT='6',
+ CDS_LIB='u_ic',
+ VALUE='LM324D',
+ PART_NUMBER='10019427',
+ PART_NAME='U_LM324_SERIES_SO14',
+ JEDEC_TYPE='SO14',
+ SIZE='1',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/u_ic/u_lm324_series/chips/chips.prt';
+
+SECTION_NUMBER 3
+ '@ED1_LIB.ED1(SCH_1):PAGE1_I95@U_IC.U_LM324_SERIES(CHIPS)':
+ C_PATH='@ed1_lib.ed1(sch_1):page1_i95@u_ic.u_lm324_series(chips)',
+ P_PATH='@ed1_lib.ed1(sch_1):page1_i95@u_ic.u_lm324_series(chips)',
+ PATH='I95',
+ DRAWING='@ED1_LIB.ED1(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(7500,1625)',
+ VER='2',
+ ROT='6',
+ CDS_LIB='u_ic',
+ VALUE='LM324D',
+ PART_NUMBER='10019427',
+ PART_NAME='U_LM324_SERIES_SO14',
+ JEDEC_TYPE='SO14',
+ SIZE='1',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/u_ic/u_lm324_series/chips/chips.prt';
+
+SECTION_NUMBER 4
+ '@ED1_LIB.ED1(SCH_1):PAGE1_I112@U_IC.U_LM324_SERIES(CHIPS)':
+ C_PATH='@ed1_lib.ed1(sch_1):page1_i112@u_ic.u_lm324_series(chips)',
+ P_PATH='@ed1_lib.ed1(sch_1):page1_i112@u_ic.u_lm324_series(chips)',
+ PATH='I112',
+ DRAWING='@ED1_LIB.ED1(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(7575,-550)',
+ VER='2',
+ ROT='6',
+ CDS_LIB='u_ic',
+ VALUE='LM324D',
+ PART_NUMBER='10019427',
+ JEDEC_TYPE='SO14',
+ PART_NAME='U_LM324_SERIES_SO14',
+ SIZE='1',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/u_ic/u_lm324_series/chips/chips.prt';
+
+PART_NAME
+ U3 'U_LM324_SERIES_SO14-10019427,LB':;
+
+SECTION_NUMBER 1
+ '@ED1_LIB.ED1(SCH_1):PAGE1_I163@U_IC.U_LM324_SERIES(CHIPS)':
+ C_PATH='@ed1_lib.ed1(sch_1):page1_i163@u_ic.u_lm324_series(chips)',
+ P_PATH='@ed1_lib.ed1(sch_1):page1_i163@u_ic.u_lm324_series(chips)',
+ PATH='I163',
+ DRAWING='@ED1_LIB.ED1(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(9950,2725)',
+ VER='1',
+ ROT='6',
+ CDS_LIB='u_ic',
+ VALUE='LM324D',
+ PART_NUMBER='10019427',
+ JEDEC_TYPE='SO14',
+ PART_NAME='U_LM324_SERIES_SO14',
+ SIZE='1',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/u_ic/u_lm324_series/chips/chips.prt';
+
+SECTION_NUMBER 2
+ '@ED1_LIB.ED1(SCH_1):PAGE1_I181@U_IC.U_LM324_SERIES(CHIPS)':
+ C_PATH='@ed1_lib.ed1(sch_1):page1_i181@u_ic.u_lm324_series(chips)',
+ P_PATH='@ed1_lib.ed1(sch_1):page1_i181@u_ic.u_lm324_series(chips)',
+ PATH='I181',
+ DRAWING='@ED1_LIB.ED1(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(9950,575)',
+ VER='2',
+ ROT='6',
+ CDS_LIB='u_ic',
+ VALUE='LM324D',
+ PART_NUMBER='10019427',
+ PART_NAME='U_LM324_SERIES_SO14',
+ JEDEC_TYPE='SO14',
+ SIZE='1',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/u_ic/u_lm324_series/chips/chips.prt';
+
+SECTION_NUMBER 3
+ '@ED1_LIB.ED1(SCH_1):PAGE1_I176@U_IC.U_LM324_SERIES(CHIPS)':
+ C_PATH='@ed1_lib.ed1(sch_1):page1_i176@u_ic.u_lm324_series(chips)',
+ P_PATH='@ed1_lib.ed1(sch_1):page1_i176@u_ic.u_lm324_series(chips)',
+ PATH='I176',
+ DRAWING='@ED1_LIB.ED1(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(9975,1625)',
+ VER='2',
+ ROT='6',
+ CDS_LIB='u_ic',
+ VALUE='LM324D',
+ PART_NUMBER='10019427',
+ PART_NAME='U_LM324_SERIES_SO14',
+ JEDEC_TYPE='SO14',
+ SIZE='1',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/u_ic/u_lm324_series/chips/chips.prt';
+
+SECTION_NUMBER 4
+ '@ED1_LIB.ED1(SCH_1):PAGE1_I206@U_IC.U_LM324_SERIES(CHIPS)':
+ C_PATH='@ed1_lib.ed1(sch_1):page1_i206@u_ic.u_lm324_series(chips)',
+ P_PATH='@ed1_lib.ed1(sch_1):page1_i206@u_ic.u_lm324_series(chips)',
+ PATH='I206',
+ DRAWING='@ED1_LIB.ED1(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(10050,-550)',
+ VER='2',
+ ROT='6',
+ CDS_LIB='u_ic',
+ VALUE='LM324D',
+ PART_NUMBER='10019427',
+ JEDEC_TYPE='SO14',
+ PART_NAME='U_LM324_SERIES_SO14',
+ SIZE='1',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/u_ic/u_lm324_series/chips/chips.prt';
+
+PART_NAME
+ U4 'U_LM324_SERIES_SO14-10019427,LB':;
+
+SECTION_NUMBER 1
+ '@ED1_LIB.ED1(SCH_1):PAGE1_I127@U_IC.U_LM324_SERIES(CHIPS)':
+ C_PATH='@ed1_lib.ed1(sch_1):page1_i127@u_ic.u_lm324_series(chips)',
+ P_PATH='@ed1_lib.ed1(sch_1):page1_i127@u_ic.u_lm324_series(chips)',
+ PATH='I127',
+ DRAWING='@ED1_LIB.ED1(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(12550,2725)',
+ VER='1',
+ ROT='6',
+ CDS_LIB='u_ic',
+ VALUE='LM324D',
+ PART_NUMBER='10019427',
+ JEDEC_TYPE='SO14',
+ PART_NAME='U_LM324_SERIES_SO14',
+ SIZE='1',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/u_ic/u_lm324_series/chips/chips.prt';
+
+SECTION_NUMBER 2
+ '@ED1_LIB.ED1(SCH_1):PAGE1_I143@U_IC.U_LM324_SERIES(CHIPS)':
+ C_PATH='@ed1_lib.ed1(sch_1):page1_i143@u_ic.u_lm324_series(chips)',
+ P_PATH='@ed1_lib.ed1(sch_1):page1_i143@u_ic.u_lm324_series(chips)',
+ PATH='I143',
+ DRAWING='@ED1_LIB.ED1(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(12500,500)',
+ VER='2',
+ ROT='6',
+ CDS_LIB='u_ic',
+ VALUE='LM324D',
+ PART_NUMBER='10019427',
+ PART_NAME='U_LM324_SERIES_SO14',
+ JEDEC_TYPE='SO14',
+ SIZE='1',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/u_ic/u_lm324_series/chips/chips.prt';
+
+SECTION_NUMBER 3
+ '@ED1_LIB.ED1(SCH_1):PAGE1_I138@U_IC.U_LM324_SERIES(CHIPS)':
+ C_PATH='@ed1_lib.ed1(sch_1):page1_i138@u_ic.u_lm324_series(chips)',
+ P_PATH='@ed1_lib.ed1(sch_1):page1_i138@u_ic.u_lm324_series(chips)',
+ PATH='I138',
+ DRAWING='@ED1_LIB.ED1(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(12525,1550)',
+ VER='2',
+ ROT='6',
+ CDS_LIB='u_ic',
+ VALUE='LM324D',
+ PART_NUMBER='10019427',
+ PART_NAME='U_LM324_SERIES_SO14',
+ JEDEC_TYPE='SO14',
+ SIZE='1',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/u_ic/u_lm324_series/chips/chips.prt';
+
+SECTION_NUMBER 4
+ '@ED1_LIB.ED1(SCH_1):PAGE1_I194@U_IC.U_LM324_SERIES(CHIPS)':
+ C_PATH='@ed1_lib.ed1(sch_1):page1_i194@u_ic.u_lm324_series(chips)',
+ P_PATH='@ed1_lib.ed1(sch_1):page1_i194@u_ic.u_lm324_series(chips)',
+ PATH='I194',
+ DRAWING='@ED1_LIB.ED1(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(12600,-625)',
+ VER='2',
+ ROT='6',
+ CDS_LIB='u_ic',
+ VALUE='LM324D',
+ PART_NUMBER='10019427',
+ JEDEC_TYPE='SO14',
+ PART_NAME='U_LM324_SERIES_SO14',
+ SIZE='1',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/u_ic/u_lm324_series/chips/chips.prt';
+
+END.
